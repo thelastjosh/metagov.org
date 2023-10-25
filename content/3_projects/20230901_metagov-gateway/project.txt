@@ -2,16 +2,83 @@ Title: Metagov Gateway
 
 ----
 
+Subheading: An API gateway for digital governance services
+
+----
+
+Image: - file://W8kSW4WdzzS16qrd
+
+----
+
+Link: 
+
+----
+
+Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+----
+
+Participation: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+----
+
+Aboutblocks: [{"content":{"level":"h3","text":"DESCRIPTION"},"id":"e6fe5e49-a075-4f71-b276-8e3a35e1dbc6","isHidden":false,"type":"heading"},{"content":{"text":"<p>DAOstar defines standards for DAOs. The primary standard is the EIP-4824 which serves as a common interface for DAOs, akin to tokenURI for NFTs, so that DAOs of all shapes and sizes are easier to discover, more legible to their members, and more compatible with future tooling.</p>"},"id":"21995dbf-f88c-4453-858b-5e5a51551ed6","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"PATHS TO PARTICIPATION"},"id":"3ba5cdfb-a39c-42c7-9b3c-44840ef4a7c4","isHidden":false,"type":"heading"},{"content":{"text":"<p>Join a Bi-Weekly Community Meeting: DAOstar is conducting bi-weekly meetings that are open to the public. Join to learn more about the project and other ways to get involved.</p>"},"id":"50e99b21-e949-4412-9da0-25ef9f62ef75","isHidden":false,"type":"text"}]
+
+----
+
+Date: 2023-09-01 11:50:00
+
+----
+
+Projectstatus: 
+
+----
+
+Links:
+
+- 
+  text: ""
+  url: https://daostar.org
+  icon: 🌐 daostar.org
+- 
+  text: ""
+  url: https://test.com
+  icon: 📝 EIP-4824
+
+----
+
+Type: 
+
+----
+
+Members: 
+
+----
+
+Cover: - file://W8kSW4WdzzS16qrd
+
+----
+
+About:
+
+DESCRIPTION
+DAOstar defines standards for DAOs. The primary standard is the EIP-4824 which serves as a common interface for DAOs, akin to tokenURI for NFTs, so that DAOs of all shapes and sizes are easier to discover, more legible to their members, and more compatible with future tooling.
+
+PATHS TO PARTICIPATION
+Join a Bi-Weekly Community Meeting: DAOstar is conducting bi-weekly meetings that are open to the public. Join to learn more about the project and other ways to get involved.
+
+----
+
+Status: 
+
+----
+
+Tags: 
+
+----
+
 Uuid: ImE4FT18BLmv5ybd
 
 ----
 
 Text: 
-
-----
-
-Date: 2023-09-01 11:49:21
-
-----
-
-Tags: 

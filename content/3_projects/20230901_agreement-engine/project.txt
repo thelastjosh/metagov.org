@@ -10,22 +10,6 @@ Link: https://law.mit.edu/pub/buildingnetnativeagreementsystems/release/1
 
 ----
 
-About:
-
-Hello
-
-# this is a test
-
-# H1
-## H2
-### H3
-
-Some regular text cmon!
-
-**Bold text**
-
-----
-
 Date: 2023-09-01 11:55:00
 
 ----

@@ -2,15 +2,70 @@ Title: DAOstar
 
 ----
 
+Subheading: The standards body of the DAO ecosystem
+
+----
+
+Image: - file://2p1LZ27OAfycOyHL
+
+----
+
+Link: https://daostar.org
+
+----
+
+Description: DAOstar defines standards for DAOs. The primary standard is the EIP-4824 which serves as a common interface for DAOs, akin to tokenURI for NFTs, so that DAOs of all shapes and sizes are easier to discover, more legible to their members, and more compatible with future tooling.
+
+----
+
+Participation: Join a Bi-Weekly Community Meeting: DAOstar is conducting bi-weekly meetings that are open to the public. Join to learn more about the project and other ways to get involved.
+
+----
+
+Aboutblocks: [{"content":{"level":"h3","text":"DESCRIPTION"},"id":"b2f9ec3c-b6c9-4f60-b7b8-5aaa85bef199","isHidden":false,"type":"heading"},{"content":{"text":"<p>DAOstar defines standards for DAOs. The primary standard is the EIP-4824 which serves as a common interface for DAOs, akin to tokenURI for NFTs, so that DAOs of all shapes and sizes are easier to discover, more legible to their members, and more compatible with future tooling.</p>"},"id":"d59e96ee-10cb-49cf-a376-0051c8edaa67","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"PATHS TO PARTICIPATION"},"id":"bff1aa8d-0aaf-4ad1-ad05-ce46c7627f6f","isHidden":false,"type":"heading"},{"content":{"text":"<p>Join a Bi-Weekly Community Meeting: DAOstar is conducting bi-weekly meetings that are open to the public. Join to learn more about the project and other ways to get involved.</p>"},"id":"4c7cfba9-a1ba-4080-98b2-b50752f5c665","isHidden":false,"type":"text"}]
+
+----
+
+Date: 2023-09-01 11:50:00
+
+----
+
+Projectstatus:
+
+Active, ✅ Looking for participants
+
+----
+
+Links:
+
+- 
+  text: 🌐 daostar.org
+  url: https://daostar.org
+- 
+  text: 📝 EIP-4824
+  url: https://eips.ethereum.org/EIPS/eip-4824
+- 
+  text: ✋ Community call
+  url: ""
+- 
+  text: 🔭 Discord
+  url: ""
+
+----
+
+Type: Roundtable, Technical standard
+
+----
+
+Members: 
+
+----
+
+Cover: - file://V0iaDtk5Ha2nyrOL
+
+----
+
 Uuid: EcvOsbjjkptEcAz3
-
-----
-
-About: 
-
-----
-
-Date: 2023-09-01 11:52:18
 
 ----
 
