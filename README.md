@@ -1,4 +1,4 @@
-##Metagov.org
+## Metagov.org
 
 The Metagovernance Project is an interdisciplinary research collective. We build standards and infrastructure for digital self-governance. Our collaborations include:
 
