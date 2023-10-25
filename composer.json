@@ -1,6 +1,6 @@
 {
-  "name": "metagov.org",
-  "description": "The Metagovernance Project is an interdisciplinary research collective. We build standards and infrastructure for digital self-governance. Our collaborations include:",
+  "name": "metagov/metagov",
+  "description": "Kirby Plainkit",
   "type": "project",
   "keywords": [
     "kirby",

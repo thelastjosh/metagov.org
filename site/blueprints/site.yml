@@ -1,5 +1,15 @@
-title: Site
+# The layout of this form has two columns:
+columns:
+  - width: 1/2
+    sections:
+      projects: sections/projects
 
-sections:
-  pages:
-    type: pages
+  - width: 1/2
+    sections:
+      pages:
+        type: pages
+        templates:
+          - home
+          - about
+          - projects
+          - team

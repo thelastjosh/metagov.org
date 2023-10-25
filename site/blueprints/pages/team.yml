@@ -1,0 +1,24 @@
+title: Team
+icon: 👥
+
+columns:
+  left:
+    width: 1/2
+    sections:
+      drafts:
+        extends: sections/team
+        label: Drafts
+        status: draft
+
+      unlisted:
+        extends: sections/team
+        label: In Review
+        status: unlisted
+
+  right:
+    width: 1/2
+    sections:
+      listed:
+        extends: sections/team
+        label: Published
+        status: listed

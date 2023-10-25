@@ -1,0 +1,7 @@
+type: pages
+label: Team
+parent: kirby.page("team")
+info: "{{ page.date.toDate('d.m.Y') }}"
+template: team-member
+empty: No team members yet
+sortBy: date desc
