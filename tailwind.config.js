@@ -10,7 +10,8 @@ module.exports = {
         bg: "#FEFFFE",
       },
       boxShadow: {
-        window: "5px 5px 0px 0px rgba(0, 204, 153, 0.80);",
+        window: "5px 5px 0px 0px rgba(0, 204, 153, 0.2)",
+        windowhover: "8px 8px 8px 0px rgba(0, 204, 153, 0.2)",
       },
     },
     container: {
