@@ -9,8 +9,7 @@ columns:
       pages:
         type: pages
         templates:
-          - home
           - page
+          - home
           - projects
           - team
-          - default
