@@ -1,21 +1,38 @@
-title: Default Page
+title: Page
 
 columns:
   main:
     width: 2/3
-    sections:
-      fields:
-        type: fields
-        fields:
-          text:
-            type: textarea
-            size: huge
+    fields:
+      subheading:
+        label: Subheading
+        type: text
+      cover:
+        label: Cover image
+        type: files
+        multiple: false
+        layout: cards
+        size: large
+        uploads:
+          template: image
+      text:
+        type: blocks
+        label: Content
+
   sidebar:
     width: 1/3
     sections:
+      meta:
+        type: fields
+        fields:
+          width:
+            type: toggle
+            label: Desktop width
+            text:
+              - "Narrow"
+              - "Wide"
       pages:
         type: pages
         template: default
       files:
         type: files
-

@@ -9,7 +9,7 @@ columns:
       pages:
         type: pages
         templates:
+          - page
           - home
-          - about
           - projects
           - team

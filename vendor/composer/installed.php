@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
-        'name' => 'getkirby/plainkit',
+        'name' => 'metagov/metagov',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '28fd59885fd95a62956bddb7be253997716766e6',
+        'reference' => '294c136ec8bed229990aa54b1cd4740eff026c12',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -55,15 +55,6 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
-        'getkirby/plainkit' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
-            'reference' => '28fd59885fd95a62956bddb7be253997716766e6',
-            'type' => 'project',
-            'install_path' => __DIR__ . '/../../',
-            'aliases' => array(),
-            'dev_requirement' => false,
-        ),
         'laminas/laminas-escaper' => array(
             'pretty_version' => '2.12.0',
             'version' => '2.12.0.0',
@@ -87,6 +78,15 @@
             'replaced' => array(
                 0 => '*',
             ),
+        ),
+        'metagov/metagov' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '294c136ec8bed229990aa54b1cd4740eff026c12',
+            'type' => 'project',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
         ),
         'michelf/php-smartypants' => array(
             'pretty_version' => '1.8.1',

@@ -675,6 +675,23 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
+.prose h3 {
+  font-family: Inter;
+  font-size: 1rem;
+  line-height: 19.2px;
+}
+
+.prose p {
+  margin-bottom: 2rem;
+  font-family: Times New Roman;
+  font-size: 1.25rem;
+  line-height: 24px;
+}
+
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+
 .mb-4 {
   margin-bottom: 1rem;
 }
@@ -707,6 +724,10 @@ video {
   max-width: 48rem;
 }
 
+.max-w-\[1120px\] {
+  max-width: 1120px;
+}
+
 .grid-cols-3 {
   grid-template-columns: repeat(3, minmax(0, 1fr));
 }
@@ -737,12 +758,6 @@ video {
 
 .gap-6 {
   gap: 1.5rem;
-}
-
-.space-x-2 > :not([hidden]) ~ :not([hidden]) {
-  --tw-space-x-reverse: 0;
-  margin-right: calc(0.5rem * var(--tw-space-x-reverse));
-  margin-left: calc(0.5rem * calc(1 - var(--tw-space-x-reverse)));
 }
 
 .space-y-1 > :not([hidden]) ~ :not([hidden]) {
@@ -781,10 +796,6 @@ video {
 
 .font-serif {
   font-family: Times New Roman;
-}
-
-.font-sans {
-  font-family: Inter;
 }
 
 .text-large {

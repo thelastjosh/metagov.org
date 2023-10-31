@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
-  <title><?= $site->title()->esc() ?> | <?= $page->title()->esc() ?></title>
+  <title><?= $page->title()->esc() ?> | <?= $site->title()->esc() ?> </title>
   <?= css('assets/css/styles.css') ?>
   <link rel="stylesheet" href="https://use.typekit.net/twz5dhz.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
