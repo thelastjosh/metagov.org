@@ -1,5 +1,5 @@
 <div class="flex">
-  <button x-data="{ darkMode: false }" @click="darkMode = !darkMode" role="switch" class="group cursor-pointer relative" :aria-pressed="darkMode" aria-label="Dark mode">
+  <button @click="darkMode = !darkMode" role="switch" class="group cursor-pointer relative" :aria-pressed="darkMode" aria-label="Dark mode">
     <div class="flex items-center">
       <div class="p-2">
         <svg class="fill-brand group-aria-pressed:fill-brand/30" width="16" height="16" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">

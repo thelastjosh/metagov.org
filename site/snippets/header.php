@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" x-data="{darkMode: $persist(false)}" :class="{'dark': darkMode === true }">
 
 <head>
   <meta charset="utf-8">
@@ -11,10 +11,11 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;600&family=Nunito:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="shortcut icon" type="image/x-icon" href="<?= url('favicon.ico') ?>">
-  <script src="//unpkg.com/alpinejs" defer></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/@alpinejs/persist@3.x.x/dist/cdn.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>
 
-<body>
+<body class="bg-bg dark:bg-default">
   <header class="flex justify-between w-full px-6 py-[30px] ">
     <a href="<?= $site->url() ?>" class="flex gap-4 items-center text-brand font-sans text-small">
       <svg width="42" height="42" viewBox="0 0 42 42" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden>
@@ -38,4 +39,4 @@
     </div>
   </header>
 
-  <main class="main">
+  <main class="main ">
