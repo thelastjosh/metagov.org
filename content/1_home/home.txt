@@ -2,4 +2,44 @@ Title: Home
 
 ----
 
+Windows:
+
+- 
+  page: [ ]
+  title: Welcome
+  subheading: subtitle
+  content: 'metagov is an interdisciplinary research collective. we build standards & infrastructure for digital self-governance.'
+  markdown: 'metagov is an interdisciplinary research collective. we build standards & infrastructure for digital self-governance.'
+- 
+  page:
+    - page://URRpcGnrugBUYryi
+  title: ""
+  subheading: ""
+  content: ""
+  markdown: ""
+- 
+  page: [ ]
+  title: Weekly seminars
+  subheading: subheading
+  content: |
+    weekly seminar on topics in online governance
+    
+    every other weds at 12pm ET
+- 
+  page:
+    - page://ImE4FT18BLmv5ybd
+  title: ""
+  subheading: ""
+  content: ""
+  markdown: ""
+- 
+  page:
+    - page://EcvOsbjjkptEcAz3
+  title: ""
+  subheading: ""
+  content: ""
+  markdown: ""
+
+----
+
 Uuid: x1TQv9lMR09NOGEB
