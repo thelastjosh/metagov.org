@@ -35,11 +35,11 @@
     @apply text-white border-default bg-default;
   }
 
-  h3 {
+  .prose h3 {
     @apply font-sans text-small;
   }
 
-  p {
+  .prose p {
     @apply font-serif text-medium mb-8;
   }
 }

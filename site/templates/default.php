@@ -9,7 +9,7 @@ if ($page->width()->toBool()) {
 
 <?php snippet('header') ?>
 
-<article class="container <?= $width ?>">
+<div class="container <?= $width ?>">
   <div class="mb-8">
     <div class="flex gap-4 items-center">
       <h1 class="text-xl font-semibold mb-2"><?= $page->title()->esc() ?></h1>
@@ -30,9 +30,9 @@ if ($page->width()->toBool()) {
     <img class="mb-8 w-full" src="<?= $image->url() ?>" alt="<?= $image->alt()->esc() ?>">
   <?php endif ?>
 
-  <div class="mb-8 prose">
+  <article class="mb-8 prose">
     <?= $page->text()->toBlocks() ?>
-  </div>
-</article>
+  </article>
+</div>
 
 <?php snippet('footer') ?>
