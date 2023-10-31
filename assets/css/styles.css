@@ -700,6 +700,10 @@ video {
   position: relative;
 }
 
+.bottom-48 {
+  bottom: 12rem;
+}
+
 .left-0 {
   left: 0px;
 }
@@ -708,12 +712,32 @@ video {
   left: 50%;
 }
 
+.left-56 {
+  left: 14rem;
+}
+
+.right-24 {
+  right: 6rem;
+}
+
+.right-44 {
+  right: 11rem;
+}
+
 .top-0 {
   top: 0px;
 }
 
 .top-1\/2 {
   top: 50%;
+}
+
+.top-32 {
+  top: 8rem;
+}
+
+.top-\[440px\] {
+  top: 440px;
 }
 
 .-z-10 {
@@ -738,6 +762,10 @@ video {
 
 .mr-4 {
   margin-right: 1rem;
+}
+
+.block {
+  display: block;
 }
 
 .inline-block {
@@ -906,6 +934,10 @@ video {
   padding: 0.5rem;
 }
 
+.p-4 {
+  padding: 1rem;
+}
+
 .p-5 {
   padding: 1.25rem;
 }
@@ -923,6 +955,16 @@ video {
 .py-\[30px\] {
   padding-top: 30px;
   padding-bottom: 30px;
+}
+
+.py-1 {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+}
+
+.py-1\.5 {
+  padding-top: 0.375rem;
+  padding-bottom: 0.375rem;
 }
 
 .text-center {
@@ -954,6 +996,21 @@ video {
 .text-xl {
   font-size: 3rem;
   line-height: 48px;
+}
+
+.text-xs {
+  font-size: 0.75rem;
+  line-height: 12px;
+}
+
+.text-xxs {
+  font-size: 0.625rem;
+  line-height: 10px;
+}
+
+.text-tag {
+  font-size: 0.875rem;
+  line-height: 14px;
 }
 
 .font-medium {
@@ -992,6 +1049,12 @@ video {
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}
+
+.transition-\[opacity\2c box-shadow\] {
+  transition-property: opacity,box-shadow;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   transition-duration: 150ms;
 }

@@ -20,6 +20,7 @@ module.exports = {
       padding: "1rem",
     },
     fontSize: {
+      xxs: ["0.625rem", "10px"],
       xs: ["0.75rem", "12px"],
       tag: ["0.875rem", "14px"],
       small: ["1rem", "19.2px"],

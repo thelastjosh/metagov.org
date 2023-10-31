@@ -1,5 +1,5 @@
-<div class="bg-bg dark:bg-default border border-secondary opacity-[0.85] hover:opacity-100 shadow-window hover:shadow-windowhover transition w-96">
-  <div class="border-b border-secondary flex gap-2 items-center px-2 text-secondary">
+<div class="bg-bg dark:bg-default border border-secondary opacity-[0.85] hover:opacity-100 shadow-window hover:shadow-windowhover transition-[opacity,box-shadow] w-96">
+  <div class="border-b border-secondary flex gap-2 items-center px-2 py-1.5 text-secondary">
     <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M0.5 11.5V0.5H11.5V11.5H0.5Z" stroke="#008060" stroke-miterlimit="10" />
       <path d="M0.5 5.5V0.5H5.5V5.5H0.5Z" stroke="#008060" stroke-miterlimit="10" />
@@ -9,7 +9,7 @@
       <div class="border-t border-secondary"></div>
       <div class="border-t border-secondary"></div>
     </div>
-    <span><?= $title ?></span>
+    <span class="text-tag"><?= $title ?></span>
     <div class="grow space-y-1">
       <div class="border-t border-secondary"></div>
       <div class="border-t border-secondary"></div>
@@ -24,6 +24,6 @@
     <?= $slots->body() ?>
   </div>
   <div class="border-t border-secondary text-secondary">
-    <p class="font-mono text-center"><?= $subheading ?></p>
+    <span class="block font-mono text-center text-xxs py-1"><?= $subheading ?></span>
   </div>
 </div>
