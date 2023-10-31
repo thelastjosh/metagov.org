@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+[x-cloak] {
+  display: none !important;
+}
+
 @layer components {
   .tag {
     @apply px-3 pt-2 pb-1 rounded-[20px] border-2 uppercase font-mono inline-block text-tag text-brand border-brand bg-default bg-opacity-5 hover:bg-brand hover:bg-opacity-5;

@@ -1,5 +1,5 @@
-<div class="flex">
-  <button x-data="{ order: false }" @click="order = !order" role="switch" class="group cursor-pointer relative" :aria-pressed="order" aria-label="Layout">
+<div class="flex mx-auto w-min mt-[-5.5rem]">
+  <button @click="order = !order" role="switch" class="group cursor-pointer relative" :aria-pressed="order" aria-label="Layout">
     <div class="flex items-center">
       <div class="flex gap-2 items-center rounded-sm p-2 text-brand ">
         <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden>
