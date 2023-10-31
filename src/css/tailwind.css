@@ -34,4 +34,12 @@
   .tag.grayscale.active {
     @apply text-white border-default bg-default;
   }
+
+  h3 {
+    @apply font-sans text-small;
+  }
+
+  p {
+    @apply font-serif text-medium mb-8;
+  }
 }

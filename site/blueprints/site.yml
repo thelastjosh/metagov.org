@@ -10,6 +10,7 @@ columns:
         type: pages
         templates:
           - home
-          - about
+          - page
           - projects
           - team
+          - default
