@@ -61,10 +61,6 @@ Members:
 
 ----
 
-Cover: - file://V0iaDtk5Ha2nyrOL
-
-----
-
 Uuid: EcvOsbjjkptEcAz3
 
 ----
