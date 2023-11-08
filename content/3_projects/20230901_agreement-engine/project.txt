@@ -6,11 +6,43 @@ Subheading: A tool for building net-native agreement systems
 
 ----
 
+Cover: - file://Z8agrarYoylpZaf1
+
+----
+
 Link: https://law.mit.edu/pub/buildingnetnativeagreementsystems/release/1
 
 ----
 
+Description: 
+
+----
+
+Participation: 
+
+----
+
+Aboutblocks: 
+
+----
+
 Date: 2023-09-01 11:55:00
+
+----
+
+Projectstatus: 
+
+----
+
+Links: 
+
+----
+
+Type: 
+
+----
+
+Members: 
 
 ----
 

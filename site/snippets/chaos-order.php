@@ -1,4 +1,4 @@
-<div class="flex mx-auto w-min mt-[-5.5rem]">
+<div class="hidden lg:flex mx-auto w-min mt-[-5.5rem] mb-8">
   <button @click="order = !order" role="switch" class="group cursor-pointer relative" :aria-pressed="order" aria-label="Layout">
     <div class="flex items-center">
       <div class="flex gap-2 items-center rounded-sm p-2 text-brand ">

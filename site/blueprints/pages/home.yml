@@ -14,11 +14,6 @@ columns:
               page:
                 type: pages
                 multiple: false
-              info:
-                label: Info
-                type: info
-                text: |
-                  If linking to a page you can ignore field below, they will be filled in automatically on the frontend.
               title:
                 type: text
               subheading:

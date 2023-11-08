@@ -20,7 +20,7 @@ columns:
       subheading:
         label: Subheading
         type: text
-      image:
+      cover:
         label: Cover image
         type: files
         multiple: false

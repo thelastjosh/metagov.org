@@ -47,3 +47,23 @@
     @apply font-serif text-medium mb-8;
   }
 }
+
+/* scrollbar */
+
+::-webkit-scrollbar {
+  width: 1em;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-bg dark:bg-default border-secondary;
+  border-left-width: 1px;
+  border-left-style: solid;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-secondary;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-brand;
+}
