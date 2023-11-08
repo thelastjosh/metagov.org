@@ -1,0 +1,10 @@
+name: Table
+icon: menu
+preview: fields # required
+wysiwyg: true # recommended
+fields:
+  table:
+    label: table
+    type: table
+    maxColumns: 5
+    minColumns: 2

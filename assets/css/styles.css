@@ -688,6 +688,20 @@ video {
   line-height: 24px;
 }
 
+table th {
+  border-bottom-width: 1px;
+  --tw-border-opacity: 1;
+  border-color: rgb(0 128 96 / var(--tw-border-opacity));
+  padding: 0.5rem;
+  text-align: left;
+}
+
+table td {
+  border-bottom-width: 1px;
+  border-color: rgb(0 128 96 / 0.2);
+  padding: 0.5rem;
+}
+
 .mb-2 {
   margin-bottom: 0.5rem;
 }
@@ -704,12 +718,20 @@ video {
   margin-right: 0.5rem;
 }
 
+.block {
+  display: block;
+}
+
 .inline-block {
   display: inline-block;
 }
 
 .flex {
   display: flex;
+}
+
+.table {
+  display: table;
 }
 
 .grid {
@@ -726,6 +748,10 @@ video {
 
 .max-w-\[1120px\] {
   max-width: 1120px;
+}
+
+.table-auto {
+  table-layout: auto;
 }
 
 .grid-cols-3 {
