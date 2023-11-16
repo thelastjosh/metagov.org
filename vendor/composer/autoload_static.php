@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInit9379d1f83edbd01e119a33812cc23206
+class ComposerStaticInit4e3ccbdadfc59e336b913339c68474bd
 {
     public static $files = array (
         '6e3fae29631ef280660b3cdad06f25a8' => __DIR__ . '/..' . '/symfony/deprecation-contracts/function.php',
@@ -92,8 +92,8 @@ class ComposerStaticInit9379d1f83edbd01e119a33812cc23206
         ),
         'Kirby\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/kirby/src',
-            1 => __DIR__ . '/..' . '/getkirby/composer-installer/src',
+            0 => __DIR__ . '/..' . '/getkirby/composer-installer/src',
+            1 => __DIR__ . '/../..' . '/kirby/src',
         ),
         'Composer\\Semver\\' => 
         array (
@@ -503,10 +503,10 @@ class ComposerStaticInit9379d1f83edbd01e119a33812cc23206
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInit9379d1f83edbd01e119a33812cc23206::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInit9379d1f83edbd01e119a33812cc23206::$prefixDirsPsr4;
-            $loader->prefixesPsr0 = ComposerStaticInit9379d1f83edbd01e119a33812cc23206::$prefixesPsr0;
-            $loader->classMap = ComposerStaticInit9379d1f83edbd01e119a33812cc23206::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInit4e3ccbdadfc59e336b913339c68474bd::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInit4e3ccbdadfc59e336b913339c68474bd::$prefixDirsPsr4;
+            $loader->prefixesPsr0 = ComposerStaticInit4e3ccbdadfc59e336b913339c68474bd::$prefixesPsr0;
+            $loader->classMap = ComposerStaticInit4e3ccbdadfc59e336b913339c68474bd::$classMap;
 
         }, null, ClassLoader::class);
     }

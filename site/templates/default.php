@@ -21,7 +21,14 @@ if ($page->width()->toBool()) {
   <?php endif ?>
 
   <article class="mb-8 prose">
-    <?= $page->text()->toBlocks() ?>
+    <?php foreach ($page->text()->toBlocks() as $block) : ?>
+      <div id="<?= $block->id() ?>" class="block block-type-<?= $block->type() ?>">
+        <?php snippet('blocks/' . $block->type(), [
+          'block' => $block,
+          'theme' => 'dark'
+        ]) ?>
+      </div>
+    <?php endforeach ?>
   </article>
 </div>
 

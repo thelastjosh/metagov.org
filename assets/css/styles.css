@@ -688,6 +688,18 @@ video {
   line-height: 24px;
 }
 
+table th {
+  border-bottom-width: 1px;
+  --tw-border-opacity: 1;
+  border-color: rgb(0 128 96 / var(--tw-border-opacity));
+  padding: 0.5rem;
+  text-align: left;
+}
+
+table td {
+  border-bottom-width: 1px;
+  border-color: rgb(0 128 96 / 0.2);
+
 .fixed {
   position: fixed;
 }
@@ -760,7 +772,7 @@ video {
 .mr-2 {
   margin-right: 0.5rem;
 }
-
+  
 .mt-16 {
   margin-top: 4rem;
 }
@@ -779,6 +791,10 @@ video {
 
 .flex {
   display: flex;
+}
+
+.table {
+  display: table;
 }
 
 .grid {
@@ -869,6 +885,9 @@ video {
 .max-w-\[1120px\] {
   max-width: 1120px;
 }
+
+.table-auto {
+  table-layout: auto;
 
 .max-w-\[924px\] {
   max-width: 924px;

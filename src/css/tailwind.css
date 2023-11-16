@@ -46,6 +46,14 @@
   .prose p {
     @apply font-serif text-medium mb-8;
   }
+
+  table th {
+    @apply p-2 border-b border-secondary text-left;
+  }
+
+  table td {
+    @apply p-2 border-b border-secondary/20;
+  }
 }
 
 /* scrollbar */

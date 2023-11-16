@@ -23,7 +23,9 @@
   },
   "require": {
     "php": ">=8.0.0 <8.3.0",
-    "getkirby/cms": "^3.9"
+    "getkirby/cms": "^3.9",
+    "ragi96/table-field": "^1.1",
+    "jg/kirby-fields-block": "^1.2"
   },
   "config": {
     "allow-plugins": {

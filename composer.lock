@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5f1319c2a5062a10de61fca25b77c868",
+    "content-hash": "d846a097189bde4b2843aa7920ab795d",
     "packages": [
         {
             "name": "claviska/simpleimage",
@@ -360,6 +360,41 @@
             "time": "2020-12-28T12:54:39+00:00"
         },
         {
+            "name": "jg/kirby-fields-block",
+            "version": "v1.2.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jongacnik/kirby-fields-block.git",
+                "reference": "e56c4d109edd921a1b4436e3df0e64b1117f1b83"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jongacnik/kirby-fields-block/zipball/e56c4d109edd921a1b4436e3df0e64b1117f1b83",
+                "reference": "e56c4d109edd921a1b4436e3df0e64b1117f1b83",
+                "shasum": ""
+            },
+            "require": {
+                "getkirby/composer-installer": "^1.1"
+            },
+            "type": "kirby-plugin",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jon Gacnik",
+                    "email": "jon@folderstudio.com"
+                }
+            ],
+            "description": "Kirby Fields Block",
+            "support": {
+                "issues": "https://github.com/jongacnik/kirby-fields-block/issues",
+                "source": "https://github.com/jongacnik/kirby-fields-block/tree/v1.2.1"
+            },
+            "time": "2023-01-22T19:02:00+00:00"
+        },
+        {
             "name": "laminas/laminas-escaper",
             "version": "2.12.0",
             "source": {
@@ -665,6 +700,50 @@
                 "source": "https://github.com/php-fig/log/tree/3.0.0"
             },
             "time": "2021-07-14T16:46:02+00:00"
+        },
+        {
+            "name": "ragi96/table-field",
+            "version": "1.1.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ragi96/table-field.git",
+                "reference": "04d3c4e573897497e2a7a0859c01b8c7135689ce"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ragi96/table-field/zipball/04d3c4e573897497e2a7a0859c01b8c7135689ce",
+                "reference": "04d3c4e573897497e2a7a0859c01b8c7135689ce",
+                "shasum": ""
+            },
+            "require": {
+                "getkirby/composer-installer": "^1.1",
+                "php": ">=7.1.0"
+            },
+            "type": "kirby-plugin",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "ragi96",
+                    "email": "no@email.org"
+                }
+            ],
+            "description": "Table-Field is a kirby 3 field plugin to make nice extendable tables",
+            "keywords": [
+                "kirby-table",
+                "kirby3",
+                "kirby3-cms",
+                "kirby3-plugin",
+                "table",
+                "table-field"
+            ],
+            "support": {
+                "issues": "https://github.com/ragi96/table-field/issues",
+                "source": "https://github.com/ragi96/table-field/tree/1.1.3"
+            },
+            "time": "2022-08-16T07:19:30+00:00"
         },
         {
             "name": "symfony/deprecation-contracts",
