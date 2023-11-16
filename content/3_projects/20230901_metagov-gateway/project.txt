@@ -6,7 +6,7 @@ Subheading: An API gateway for digital governance services
 
 ----
 
-Image: - file://W8kSW4WdzzS16qrd
+Cover: - file://W8kSW4WdzzS16qrd
 
 ----
 
