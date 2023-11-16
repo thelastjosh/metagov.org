@@ -67,7 +67,7 @@ $windows = $page->windows()->toStructure();
 
 <?php snippet('header') ?>
 
-<div x-data="{order: false}" class="h-auto p-5" x-init="
+<div x-data="{order: false, shareModal: false}" class="h-auto p-5" x-init="
       width = (window.innerWidth > 0) ? window.innerWidth : screen.width;
       if (width < 1024) {
       order = true
@@ -81,18 +81,21 @@ $windows = $page->windows()->toStructure();
   <!-- chaos -->
   <div x-cloak x-show="!order" x-transition.duration.450ms x-transition:enter.delay.500ms class="min-h-[calc(100vh-250px)] relative mt-16" :class="order ? 'opacity-0 ' : ''" id="window-container">
     <?php foreach ($windows as $index => $window) : ?>
-      <article class="draggable absolute w-[450px] h-[275px] chaos-window-<?= $index + 1 ?>">
+      <article x-data="{ open : false }" @click="open = true" class="draggable absolute w-[450px] h-[275px] chaos-window-<?= $index + 1 ?>">
+        <?php $content = $window->content()->content();
+        $page = $window->page()->toPage() ?>
         <?php snippet('window', ['title' => $window->title(), 'subheading' => $window->subheading()], slots: true) ?>
-        <?php if ($window->content()->content() != "") : ?>
+        <?php if ($content != "") : ?>
           <div class="p-4 overflow-auto">
-            <?= $window->content()->content()->kt() ?>
+            <?= $content->kt() ?>
           </div>
-        <?php elseif ($page = $window->page()->toPage()) : ?>
+        <?php elseif ($page) : ?>
           <?php if ($image = $page->cover()->toFile()) : ?>
             <img class="w-full h-full object-cover" src="<?= $image->url() ?>" alt="<?= $image->alt()->esc() ?>">
           <?php endif ?>
         <?php endif ?>
         <?php endsnippet() ?>
+        <?php snippet('modal', ['content' => $content, 'page' => $page]) ?>
       </article>
     <?php endforeach ?>
   </div>
@@ -115,7 +118,10 @@ $windows = $page->windows()->toStructure();
       </article>
     <?php endforeach ?>
   </div>
+
 </div>
+
+
 
 <?php snippet('footer', ['title' => 'Hello!', 'subheading' => 'Subheading']) ?>
 

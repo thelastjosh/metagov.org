@@ -1,5 +1,5 @@
-<div class="bg-bg dark:bg-default border border-secondary opacity-[0.85] hover:opacity-100 shadow-window hover:shadow-windowhover transition-[opacity,box-shadow] flex flex-col h-full">
-  <div class="border-b border-secondary flex gap-2 items-center px-2 py-1.5 text-secondary shrink-0">
+<div class="bg-bg dark:bg-default border border-secondary opacity-[0.85] hover:opacity-100 shadow-window hover:shadow-windowhover transition-[opacity,box-shadow] flex flex-col h-full relative">
+  <div class="border-b bg-bg dark:bg-default border-secondary flex gap-2 items-center px-2 py-1.5 text-secondary shrink-0">
     <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M0.5 11.5V0.5H11.5V11.5H0.5Z" stroke="#008060" stroke-miterlimit="10" />
       <path d="M0.5 5.5V0.5H5.5V5.5H0.5Z" stroke="#008060" stroke-miterlimit="10" />
@@ -23,7 +23,7 @@
   <div class="border-secondary grow overflow-auto">
     <?= $slot ?>
   </div>
-  <div class="border-t border-secondary text-secondary shrink-0">
+  <div class="bg-bg border-t border-secondary text-secondary shrink-0">
     <span class="block font-mono text-center text-xxs py-1"><?= $subheading ?></span>
   </div>
 </div>
