@@ -1,5 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
+  darkMode: "class",
   theme: {
     extend: {
       colors: {
@@ -10,7 +11,8 @@ module.exports = {
         bg: "#FEFFFE",
       },
       boxShadow: {
-        window: "5px 5px 0px 0px rgba(0, 204, 153, 0.80);",
+        window: "5px 5px 0px 0px rgba(0, 204, 153, 0.2)",
+        windowhover: "8px 8px 8px 0px rgba(0, 204, 153, 0.2)",
       },
     },
     container: {
@@ -18,6 +20,7 @@ module.exports = {
       padding: "1rem",
     },
     fontSize: {
+      xxs: ["0.625rem", "10px"],
       xs: ["0.75rem", "12px"],
       tag: ["0.875rem", "14px"],
       small: ["1rem", "19.2px"],
