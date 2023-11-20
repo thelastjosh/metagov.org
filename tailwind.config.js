@@ -7,6 +7,7 @@ module.exports = {
         brand: "#00CC99",
         primary: "#3464C3",
         secondary: "#008060",
+        "secondary-dark": "#46D3CA",
         default: "#011B1A",
         bg: "#FEFFFE",
       },

@@ -58,20 +58,20 @@
 
 /* scrollbar */
 
-::-webkit-scrollbar {
+.window-scrollbar *::-webkit-scrollbar {
   width: 1em;
 }
 
-::-webkit-scrollbar-track {
-  @apply bg-bg dark:bg-default border-secondary;
+.window-scrollbar *::-webkit-scrollbar-track {
+  @apply bg-bg dark:bg-default border-secondary dark:border-secondary-dark;
   border-left-width: 1px;
   border-left-style: solid;
 }
 
-::-webkit-scrollbar-thumb {
-  @apply bg-secondary;
+.window-scrollbar *::-webkit-scrollbar-thumb {
+  @apply bg-secondary dark:bg-secondary-dark;
 }
 
-::-webkit-scrollbar-thumb:hover {
+.window-scrollbar *::-webkit-scrollbar-thumb:hover {
   @apply bg-brand;
 }
