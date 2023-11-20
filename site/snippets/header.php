@@ -18,7 +18,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/Draggable.min.js"></script>
 </head>
 
-<body class="bg-bg dark:bg-default">
+<body class="bg-bg dark:bg-default text-default dark:text-bg">
   <header class="flex justify-between w-full px-6 py-[30px] ">
     <a href="<?= $site->url() ?>" class="flex gap-4 items-center text-brand font-sans text-small">
       <svg width="42" height="42" viewBox="0 0 42 42" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden>
