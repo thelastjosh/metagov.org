@@ -95,7 +95,7 @@ $windows = $page->windows()->toStructure();
           <?php endif ?>
         <?php endif ?>
         <?php endsnippet() ?>
-        <?php snippet('modal', ['content' => $content, 'page' => $page]) ?>
+        <?php snippet('modal', ['content' => $content, 'page' => $page, 'title' => $window->title(), 'subheading' => $window->subheading()]) ?>
       </article>
     <?php endforeach ?>
   </div>
@@ -103,18 +103,21 @@ $windows = $page->windows()->toStructure();
   <!-- ordered -->
   <div x-cloak x-show="order" class="grid md:grid-cols-2 gap-4 md:gap-6 max-w-[924px] mx-auto mt-16" x-transition.duration.450ms x-transition:enter.delay.500ms>
     <?php foreach ($windows as $index => $window) : ?>
-      <article class="<?php if ($index == 0) echo 'md:col-span-2' ?>">
+      <article x-data="{ open : false }" @click="open = true" class="<?php if ($index == 0) echo 'md:col-span-2' ?> h-[275px] cursor-pointer">
+        <?php $content = $window->content()->content();
+        $page = $window->page()->toPage() ?>
         <?php snippet('window', ['title' => $window->title(), 'subheading' => $window->subheading()], slots: true) ?>
-        <?php if ($window->content()->content() != "") : ?>
-          <div class="p-4 overflow-auto h-52">
-            <?= $window->content()->content()->kt() ?>
+        <?php if ($content != "") : ?>
+          <div class="p-4 overflow-auto">
+            <?= $content->kt() ?>
           </div>
-        <?php elseif ($page = $window->page()->toPage()) : ?>
+        <?php elseif ($page) : ?>
           <?php if ($image = $page->cover()->toFile()) : ?>
-            <img class="w-full" src="<?= $image->url() ?>" alt="<?= $image->alt()->esc() ?>">
+            <img class="w-full h-full object-cover" src="<?= $image->url() ?>" alt="<?= $image->alt()->esc() ?>">
           <?php endif ?>
         <?php endif ?>
         <?php endsnippet() ?>
+        <?php snippet('modal', ['content' => $content, 'page' => $page, 'title' => $window->title(), 'subheading' => $window->subheading()]) ?>
       </article>
     <?php endforeach ?>
   </div>
