@@ -28,18 +28,18 @@ columns:
         size: large
         uploads:
           template: image
-      link:
-        label: Link
+      website:
+        label: Website
+        description: Link to project site for iframe / embedding
         type: url
       description:
-        label: About
+        label: Short description
         type: textarea
       participation:
-        label: Paths To Participation
+        label: Paths to participating + discussion forum
         type: textarea
-      aboutBlocks:
-        label: About (using blocks)
-        type: blocks
+      meetings:
+        type: textarea
 
   sidebar:
     width: 1/3
@@ -49,11 +49,17 @@ columns:
         fields:
           date:
             type: date
-            time: true
+            time: false
             default: now
           projectStatus:
-            label: Status
+            label: Project status
             type: tags
+          seekingParticipants:
+            label: Seeking participants
+            type: toggle
+            text:
+              - "No"
+              - "Yes"
           links:
             type: structure
             fields:
@@ -64,9 +70,10 @@ columns:
                 label: URL
                 type: url
           type:
-            label: Project type
             type: tags
           members:
             label: Members
             type: pages
             query: site.find('team')
+          contact:
+            type: email

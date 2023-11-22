@@ -3,7 +3,7 @@
         'name' => 'metagov/metagov',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'f893fa9a7cc66458621344cd3558991afa863e0b',
+        'reference' => 'e551aefa6904b1fc445644468296854c9ded43c6',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -91,7 +91,7 @@
         'metagov/metagov' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'f893fa9a7cc66458621344cd3558991afa863e0b',
+            'reference' => 'e551aefa6904b1fc445644468296854c9ded43c6',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
