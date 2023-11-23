@@ -9,9 +9,10 @@ if ($page->width()->toBool()) {
 
 <div class="container <?= $width ?>">
   <div class="mb-8">
-    <div class="flex gap-4 items-center">
-      <h1 class="text-xl font-semibold mb-2"><?= $page->title()->esc() ?></h1>
-    </div>
+    <h1 class="text-xl font-semibold mb-2"><?= $page->title()->esc() ?></h1>
+    <h2 class="text-large font-serif font-normal">
+      <?= $page->subHeading()->esc() ?>
+    </h2>
   </div>
 
   <?php if ($image = $page->cover()->toFile()) : ?>

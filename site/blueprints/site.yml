@@ -1,15 +1,34 @@
-# The layout of this form has two columns:
-columns:
-  - width: 1/2
-    sections:
-      projects: sections/projects
+title: Dashboard
 
-  - width: 1/2
-    sections:
-      pages:
-        type: pages
-        templates:
-          - page
-          - home
-          - projects
-          - team
+tabs:
+  content:
+    columns:
+      - width: 1/2
+        sections:
+          projects: sections/projects
+
+      - width: 1/2
+        sections:
+          pages:
+            type: pages
+            templates:
+              - page
+              - home
+              - projects
+              - team
+  seo:
+    label: SEO
+    icon: search
+    fields:
+      seoTitle:
+        label: SEO title
+        type: text
+      seoDescription:
+        label: SEO description
+        type: text
+      seoImage:
+        label: SEO Image
+        type: files
+        multiple: false
+        layout: cards
+        size: large

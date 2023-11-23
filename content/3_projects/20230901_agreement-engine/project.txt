@@ -22,11 +22,19 @@ Participation:
 
 ----
 
-Date: 2023-09-01 11:55:00
+Meetings: 
 
 ----
 
-status: 
+Date: 2023-09-01
+
+----
+
+Projectstatus: 
+
+----
+
+Seekingparticipants: false
 
 ----
 
@@ -39,6 +47,14 @@ Type:
 ----
 
 Members: 
+
+----
+
+Contact: 
+
+----
+
+Status: 
 
 ----
 
