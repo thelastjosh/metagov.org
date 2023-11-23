@@ -22,5 +22,9 @@ return [
         ]
       ]
     ]
+  ],
+  'panel' => [
+    'install' => true
   ]
+
 ];
