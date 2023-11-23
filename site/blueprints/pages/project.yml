@@ -20,6 +20,7 @@ columns:
       subheading:
         label: Subheading
         type: text
+        validate: notEmpty
       cover:
         label: Cover image
         type: files
@@ -28,6 +29,7 @@ columns:
         size: large
         uploads:
           template: image
+        validate: notEmpty
       website:
         label: Website
         description: Link to project site for iframe / embedding

@@ -4,7 +4,11 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
-  <title><?= $page->title()->esc() ?> | <?= $site->title()->esc() ?> </title>
+  <title><?= $titleTag ?></title>
+  <meta name="description" content="<?= $metaDescription ?>">
+  <meta property="og:title" content="<?= $titleTag ?>">
+  <meta property="og:description" content="<?= $metaDescription ?>">
+  <meta property="og:image" content="<?= $metaImage ?>">
   <?= css('assets/css/styles.css') ?>
   <link rel="stylesheet" href="https://use.typekit.net/twz5dhz.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
