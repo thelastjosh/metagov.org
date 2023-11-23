@@ -20,6 +20,10 @@ tabs:
     label: SEO
     icon: search
     fields:
+      info:
+        label:
+        type: info
+        text: ℹ️ Site wide SEO settings, these maybe be overwritted on individual pages by titles, subheading and cover images.
       seoTitle:
         label: SEO title
         type: text
