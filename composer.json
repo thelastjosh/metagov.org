@@ -1,26 +1,13 @@
 {
   "name": "metagov/metagov",
-  "description": "Kirby Plainkit",
+  "description": "The metagov.org website",
   "type": "project",
   "keywords": [
     "kirby",
     "cms",
-    "starterkit"
+    "metagov"
   ],
-  "authors": [
-    {
-      "name": "Bastian Allgeier",
-      "email": "bastian@getkirby.com",
-      "homepage": "https://getkirby.com"
-    }
-  ],
-  "homepage": "https://getkirby.com",
-  "support": {
-    "email": "support@getkirby.com",
-    "issues": "https://github.com/getkirby/starterkit/issues",
-    "forum": "https://forum.getkirby.com",
-    "source": "https://github.com/getkirby/starterkit"
-  },
+  "homepage": "https://metagov.org/",
   "require": {
     "php": ">=8.0.0 <8.3.0",
     "getkirby/cms": "^3.9",
