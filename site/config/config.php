@@ -23,4 +23,5 @@ return [
       ]
     ]
   ],
+  'thathoff.git-content.disable' => true,
 ];
