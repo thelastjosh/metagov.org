@@ -702,6 +702,18 @@ table td {
   padding: 0.5rem;
 }
 
+.button {
+  padding: 0.5rem;
+}
+
+.button:hover {
+  background-color: rgb(0 204 153 / 0.05);
+}
+
+.active-page {
+  background-color: rgb(0 204 153 / 0.15);
+}
+
 .fixed {
   position: fixed;
 }
@@ -722,12 +734,20 @@ table td {
   left: 50%;
 }
 
+.right-0 {
+  right: 0px;
+}
+
 .top-0 {
   top: 0px;
 }
 
 .top-1\/2 {
   top: 50%;
+}
+
+.top-8 {
+  top: 2rem;
 }
 
 .-z-10 {
@@ -738,6 +758,10 @@ table td {
   z-index: 40;
 }
 
+.z-\[99999999\] {
+  z-index: 99999999;
+}
+
 .z-\[9999\] {
   z-index: 9999;
 }
@@ -745,6 +769,11 @@ table td {
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
+}
+
+.my-1 {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
 }
 
 .mb-2 {
@@ -771,10 +800,6 @@ table td {
   margin-top: -5.5rem;
 }
 
-.mb-16 {
-  margin-bottom: 4rem;
-}
-
 .block {
   display: block;
 }
@@ -797,10 +822,6 @@ table td {
 
 .hidden {
   display: none;
-}
-
-.h-52 {
-  height: 13rem;
 }
 
 .h-8 {
@@ -866,6 +887,10 @@ table td {
 .w-min {
   width: -moz-min-content;
   width: min-content;
+}
+
+.min-w-\[200px\] {
+  min-width: 200px;
 }
 
 .max-w-3xl {
@@ -990,6 +1015,11 @@ table td {
   border-top-width: 1px;
 }
 
+.border-brand {
+  --tw-border-opacity: 1;
+  border-color: rgb(0 204 153 / var(--tw-border-opacity));
+}
+
 .border-secondary {
   --tw-border-opacity: 1;
   border-color: rgb(0 128 96 / var(--tw-border-opacity));
@@ -1024,6 +1054,10 @@ table td {
 .object-cover {
   -o-object-fit: cover;
      object-fit: cover;
+}
+
+.p-1 {
+  padding: 0.25rem;
 }
 
 .p-2 {
@@ -1061,11 +1095,6 @@ table td {
 .py-\[30px\] {
   padding-top: 30px;
   padding-bottom: 30px;
-}
-
-.py-16 {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
 }
 
 .pb-16 {
@@ -1256,6 +1285,11 @@ table td {
 :is(.dark .dark\:border-secondary-dark) {
   --tw-border-opacity: 1;
   border-color: rgb(70 211 202 / var(--tw-border-opacity));
+}
+
+:is(.dark .dark\:bg-black) {
+  --tw-bg-opacity: 1;
+  background-color: rgb(0 0 0 / var(--tw-bg-opacity));
 }
 
 :is(.dark .dark\:bg-default) {

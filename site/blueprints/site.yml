@@ -2,6 +2,7 @@ title: Dashboard
 
 tabs:
   content:
+    icon: document
     columns:
       - width: 1/2
         sections:
@@ -16,23 +17,43 @@ tabs:
               - home
               - projects
               - team
-  seo:
-    label: SEO
-    icon: search
-    fields:
-      info:
-        label:
-        type: info
-        text: ℹ️ Site wide SEO settings, these maybe be overwritted on individual pages by titles, subheading and cover images.
-      seoTitle:
-        label: SEO title
-        type: text
-      seoDescription:
-        label: SEO description
-        type: text
-      seoImage:
-        label: SEO Image
-        type: files
-        multiple: false
-        layout: cards
-        size: large
+  settings:
+    label: Site settings
+    icon: cog
+    columns:
+      - width: 1/2
+        fields:
+          info:
+            label:
+            type: info
+            text: ℹ️ Site wide SEO settings, these maybe be overwritted on individual pages by titles, subheading and cover images.
+          seoTitle:
+            label: SEO title
+            type: text
+          seoDescription:
+            label: SEO description
+            type: textarea
+            buttons: false
+          seoImage:
+            label: SEO Image
+            type: files
+            multiple: false
+            layout: cards
+            size: large
+
+      - width: 1/2
+        fields:
+          mainMenu:
+            type: structure
+            label: Main menu pages
+            help: Toggle seperator to true to add seperator below menu item.
+            fields:
+              page:
+                type: pages
+                multiple: false
+              seperator:
+                type: toggle
+                help: Toggle seperator to true/yes to add seperator below menu item.
+                text:
+                  - "No"
+                  - "Yes"
