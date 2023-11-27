@@ -54,6 +54,14 @@
   table td {
     @apply p-2 border-b border-secondary/20;
   }
+
+  .button {
+    @apply hover:bg-brand/5 p-2;
+  }
+
+  .active-page {
+    @apply bg-brand/[0.15];
+  }
 }
 
 /* scrollbar */

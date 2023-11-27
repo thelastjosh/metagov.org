@@ -34,14 +34,7 @@
       </svg>
       <span>Metagov</span>
     </a>
-    <button class="flex gap-2 items-center text-brand font-sans text-smal">
-      <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <rect y="1" width="16" height="2" fill="#00CC99" />
-        <path d="M0 7H16V9H0V7Z" fill="#00CC99" />
-        <path d="M0 13H16V15H0V13Z" fill="#00CC99" />
-      </svg>
-      <span>Menu</span>
-    </button>
+    <?php snippet('menu') ?>
     </div>
   </header>
 
