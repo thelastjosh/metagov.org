@@ -37,9 +37,10 @@ columns:
       description:
         label: Short description
         type: textarea
-      participation:
-        label: Paths to participating + discussion forum
+      participate:
+        label: Participate
         type: textarea
+        help: Paths to participating + discussion forum
       meetings:
         type: textarea
 

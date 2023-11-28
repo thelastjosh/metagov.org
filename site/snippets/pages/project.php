@@ -73,11 +73,11 @@
     </div>
   <?php endif ?>
 
-  <?php if ($page->participation()->isNotEmpty()) : ?>
+  <?php if ($page->participate()->isNotEmpty()) : ?>
     <div class="mb-8">
       <h3 class="text-small font-medium">PATHS TO PARTICIPATION + DISCUSSION FORUM</h3>
       <div class="font-serif">
-        <?= $page->participation()->kt() ?>
+        <?= $page->participate()->kt() ?>
       </div>
     </div>
   <?php endif ?>
