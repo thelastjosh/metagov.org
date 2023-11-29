@@ -59,3 +59,7 @@ Icon
 # ---------------
 
 /vendor
+kirby/vendor
+
+# Ignore content folder for now
+/content

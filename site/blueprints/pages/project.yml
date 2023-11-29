@@ -50,6 +50,11 @@ columns:
       meta:
         type: fields
         fields:
+          category:
+            type: tags
+            options:
+              type: query
+              query: site.page("project-categories").children.published
           date:
             type: date
             time: false
