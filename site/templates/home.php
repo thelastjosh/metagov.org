@@ -130,7 +130,5 @@ $windows = $page->windows()->toStructure();
 
 
 <script>
-  Draggable.create(".draggable", {
-    bounds: document.getElementById("window-container"),
-  });
+  Draggable.create(".draggable");
 </script>
