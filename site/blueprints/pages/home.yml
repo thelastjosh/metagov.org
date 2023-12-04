@@ -1,22 +1,15 @@
 title: Home
 icon: 🏡
-
-columns:
-  main:
-    width: 2/3
-    sections:
-      fields:
-        type: fields
-        fields:
-          windows:
-            type: structure
-            fields:
-              page:
-                type: pages
-                multiple: false
-              title:
-                type: text
-              subheading:
-                type: text
-              content:
-                type: textarea
+fields:
+  windows:
+    type: structure
+    fields:
+      page:
+        type: pages
+        multiple: false
+      title:
+        type: text
+      subheading:
+        type: text
+      description:
+        type: textarea
