@@ -83,3 +83,7 @@
 .window-scrollbar *::-webkit-scrollbar-thumb:hover {
   @apply bg-brand;
 }
+
+hr {
+  @apply my-6;
+}
