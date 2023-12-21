@@ -18,5 +18,6 @@ https://getkirby.com/docs/reference/panel/fields/line
 
 ## Reference links
 
--   **[getkirby.com](https://getkirby.com)** – Get to know the CMS.
--   **[Documentation](https://getkirby.com/docs/guide)** – Read the official guide, reference and cookbook recipes.
+-   **[getkirby.com](https://getkirby.com)** – Get to know the CMS
+-   **[Documentation](https://getkirby.com/docs/guide)** – Read the official guide, reference and cookbook recipes
+-   **[Cheatsheet](https://getkirby.com/docs/reference)** Quick reference
