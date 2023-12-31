@@ -27,13 +27,14 @@ module.exports = {
       small: ["1rem", "19.2px"],
       medium: ["1.25rem", "24px"],
       large: ["1.5rem", "28px"],
-      xl: ["3rem", "48px"],
+      xl: ["2.25rem", "36px"],
+      xxl: ["3rem", "48px"],
     },
     fontFamily: {
       sans: ["Inter"],
       serif: ["Times New Roman"],
       mono: ["input-mono-narrow"],
-    },
+    }
   },
   plugins: [],
 };

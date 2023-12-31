@@ -1,7 +1,7 @@
 <div class="container max-w-3xl pb-16">
   <div class="mb-8">
-    <div class="flex gap-4 items-center">
-      <h1 class="text-xl font-semibold"><?= $page->title()->esc() ?></h1>
+    <div class="flex gap-4 items-start">
+      <h1 class="text-xl font-semibold mb-1"><?= $page->title()->esc() ?></h1>
       <?php foreach ($page->projectStatus()->split() as $key => $status) : ?>
         <?php if ($key == 0) : ?>
           <span class="tag active"><?= $status ?></span>
@@ -13,9 +13,9 @@
         <span class="tag secondary active">✅ SEEKING PARTICIPANTS</span>
       <?php endif ?>
     </div>
-    <h2 class="text-large font-serif font-normal">
+    <h3 class="font-serif font-normal">
       <?= $page->subHeading()->esc() ?>
-    </h2>
+    </h3>
   </div>
 
   <img class="mb-8" src="<?= $page->image()->url() ?>" alt="<?= $page->image()->alt()->esc() ?>">
