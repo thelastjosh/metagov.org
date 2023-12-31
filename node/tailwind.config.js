@@ -32,7 +32,7 @@ module.exports = {
     },
     fontFamily: {
       sans: ["Inter"],
-      serif: ["Times New Roman"],
+      serif: ["Times", "Times New Roman"],
       mono: ["input-mono-narrow"],
     }
   },

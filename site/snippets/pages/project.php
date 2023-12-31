@@ -20,11 +20,13 @@
 
   <img class="mb-8" src="<?= $page->image()->url() ?>" alt="<?= $page->image()->alt()->esc() ?>">
 
+  <article>
 
+  <!-- Project meta -->
   <div class="mb-8 grid grid-cols-3 justify-evenly gap-6">
     <div>
       <?php if ($page->links()->isNotEmpty()) : ?>
-        <h3 class="text-small font-medium">LINKS</h3>
+        <h5 class="mb-2">LINKS</h5>
         <div>
           <?php
           $links = $page->links()->toStructure();
@@ -38,16 +40,22 @@
     </div>
     <div class="space-y-1">
       <?php if ($page->type()->isNotEmpty()) : ?>
-        <h3 class="text-small font-medium">PROJECT TYPE</h3>
+        <h5 class="mb-2">PROJECT TYPE</h5>
         <?php foreach ($page->type()->split() as $type) : ?>
           <span class="tag"><?= $type ?></span>
         <?php endforeach ?>
       <?php endif ?>
     </div>
     <div>
-      <?php if ($page->members()->isNotEmpty()) : ?>
+      <?php if ($page->contact()->isNotEmpty()) : ?>
         <div class="mb-4">
-          <h3 class="text-small font-medium">MEMBERS</h3>
+          <h5 class="mb-2">PRINCIPLE CONTACT</h5>
+          <?= Html::email($page->contact()) ?>
+        </div>
+      <?php endif ?>
+      <?php if ($page->members()->isNotEmpty()) : ?>
+        <div>
+          <h5 class="mb-2">MEMBERS</h5>
           <?php
           $members =  $page->members()->toPages();
           foreach ($members as $member) : ?>
@@ -55,19 +63,15 @@
           <?php endforeach ?>
         </div>
       <?php endif ?>
-      <?php if ($page->contact()->isNotEmpty()) : ?>
-        <div>
-          <h3 class="text-small font-medium">PRINCIPLE CONTACT</h3>
-          <?= Html::email($page->contact()) ?>
-        </div>
-      <?php endif ?>
+      
     </div>
   </div>
 
+  <!-- Project body -->
   <?php if ($page->description()->isNotEmpty()) : ?>
     <div class="mb-8">
-      <h3 class="text-small font-medium">DESCRIPTION</h3>
-      <div class="font-serif">
+      <h5>DESCRIPTION</h5>
+      <div class="prose">
         <?= $page->description()->kt() ?>
       </div>
     </div>
@@ -75,8 +79,8 @@
 
   <?php if ($page->participate()->isNotEmpty()) : ?>
     <div class="mb-8">
-      <h3 class="text-small font-medium">PATHS TO PARTICIPATION + DISCUSSION FORUM</h3>
-      <div class="font-serif">
+      <h5>PATHS TO PARTICIPATION + DISCUSSION FORUM</h5>
+      <div class="prose">
         <?= $page->participate()->kt() ?>
       </div>
     </div>
@@ -84,12 +88,12 @@
 
   <?php if ($page->meetings()->isNotEmpty()) : ?>
     <div>
-      <h3 class="text-small font-medium">MEETINGS</h3>
-      <div class="font-serif">
+      <h5>MEETINGS</h5>
+      <div class="prose">
         <?= $page->meetings()->kt() ?>
       </div>
     </div>
   <?php endif ?>
 
-
+  </article>
 </div>

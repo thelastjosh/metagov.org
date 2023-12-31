@@ -1,6 +1,10 @@
 <?php
 
 return [
+  'debug' => true,
+  'markdown' => [
+    'extra' => true
+  ],
   'blocks' => [
     'fieldsets' => [
       'text' => [
@@ -24,5 +28,5 @@ return [
       ]
     ]
   ],
-  'thathoff.git-content.disable' => true
+  'thathoff.git-content.disable' => true,
 ];

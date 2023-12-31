@@ -683,7 +683,7 @@ video {
 
 .prose p {
   margin-bottom: 2rem;
-  font-family: Times New Roman;
+  font-family: Times, Times New Roman;
   font-size: 1.25rem;
   line-height: 24px;
 }
@@ -746,20 +746,12 @@ table td {
   top: 50%;
 }
 
-.top-8 {
-  top: 2rem;
-}
-
-.top-2 {
-  top: 0.5rem;
-}
-
-.top-2\.5 {
-  top: 0.625rem;
-}
-
 .top-3 {
   top: 0.75rem;
+}
+
+.top-8 {
+  top: 2rem;
 }
 
 .-z-10 {
@@ -812,8 +804,16 @@ table td {
   margin-top: 4rem;
 }
 
+.mt-8 {
+  margin-top: 2rem;
+}
+
 .mt-\[-5\.5rem\] {
   margin-top: -5.5rem;
+}
+
+.mb-0 {
+  margin-bottom: 0px;
 }
 
 .block {
@@ -1134,7 +1134,7 @@ table td {
 }
 
 .font-serif {
-  font-family: Times New Roman;
+  font-family: Times, Times New Roman;
 }
 
 .text-large {
@@ -1160,10 +1160,6 @@ table td {
 .text-xxs {
   font-size: 0.625rem;
   line-height: 10px;
-}
-
-.font-medium {
-  font-weight: 500;
 }
 
 .font-normal {
@@ -1280,7 +1276,7 @@ table td {
 }
 
 p {
-  margin: 1rem 0;
+  margin: 0 0 1rem 0;
 }
 
 hr {
@@ -1336,7 +1332,7 @@ h6 {
   margin-bottom: 1rem;
 }
 
-main {
+p, article {
   a:link, a:visited {
     --tw-text-opacity: 1;
     color: rgb(52 100 195 / var(--tw-text-opacity));

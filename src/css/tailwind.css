@@ -86,7 +86,7 @@
 }
 
 p {
-  margin: 1rem 0;
+  margin: 0 0 1rem 0;
 }
 hr {
   @apply my-6;
@@ -123,7 +123,7 @@ h6 {
   margin-bottom: 1rem;
 }
 
-main {
+p, article {
   a:link, a:visited {
     @apply text-primary;
   }
