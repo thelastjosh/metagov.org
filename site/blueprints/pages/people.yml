@@ -6,12 +6,12 @@ columns:
     width: 1/2
     sections:
       drafts:
-        extends: sections/team
+        extends: sections/people
         label: Drafts
         status: draft
 
       unlisted:
-        extends: sections/team
+        extends: sections/people
         label: In Review
         status: unlisted
 
@@ -19,6 +19,6 @@ columns:
     width: 1/2
     sections:
       listed:
-        extends: sections/team
+        extends: sections/people
         label: Published
         status: listed
