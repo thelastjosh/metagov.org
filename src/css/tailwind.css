@@ -95,32 +95,32 @@ hr {
 h1 {
   @apply font-sans text-xxl;
   font-weight: 600;
-  margin-bottom: 2rem;
+  margin: 1rem 0 2rem;
 }
 h2 {
   @apply font-sans text-xl;
   font-weight: 600;
-  margin-bottom: 1rem;
+  margin: 1rem 0;
 }
 h3 {
   @apply font-sans text-large;
   font-weight: 600;
-  margin-bottom: 1rem;
+  margin: 1rem 0;
 }
 h4 {
   @apply font-sans text-medium;
   font-weight: 600;
-  margin-bottom: 1rem;
+  margin: 1rem 0;
 }
 h5 {
   @apply font-sans text-small;
   font-weight: 600;
-  margin-bottom: 1rem;
+  margin: 1rem 0;
 }
 h6 {
   @apply font-mono text-xs;
   font-weight: 500;
-  margin-bottom: 1rem;
+  margin: 1rem 0;
 }
 
 p, article {

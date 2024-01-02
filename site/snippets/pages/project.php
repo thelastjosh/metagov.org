@@ -1,7 +1,7 @@
 <div class="container max-w-3xl pb-16">
   <div class="mb-8">
     <div class="flex gap-4 items-start">
-      <h1 class="text-xl font-semibold mb-1"><?= $page->title()->esc() ?></h1>
+      <h1><?= $page->title()->esc() ?></h1>
       <?php foreach ($page->projectStatus()->split() as $key => $status) : ?>
         <?php if ($key == 0) : ?>
           <span class="tag active"><?= $status ?></span>

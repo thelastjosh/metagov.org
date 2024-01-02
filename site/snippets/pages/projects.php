@@ -1,7 +1,6 @@
 <div class="container max-w-[924px]">
   <div class="mb-8">
-    <h1 class="text-xl font-semibold mb-2">Projects</h1>
-    <h2 class="text-large font-serif font-normal">Subheading to go here.</h2>
+    <h1>Projects</h1>
   </div>
   <ul class="grid sm:grid-cols-2 gap-4 sm:gap-6 mx-auto mt-8">
     <?php foreach ($page->children()->listed() as $project) : ?>
