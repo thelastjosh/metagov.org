@@ -13,7 +13,7 @@
         <span class="tag secondary active">✅ SEEKING PARTICIPANTS</span>
       <?php endif ?>
     </div>
-    <h3 class="font-serif font-normal">
+    <h3>
       <?= $page->subHeading()->esc() ?>
     </h3>
   </div>
