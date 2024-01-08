@@ -56,11 +56,63 @@
   }
 
   .button {
-    @apply hover:bg-brand/5 p-2;
+    @apply hover:bg-brand/10 p-2;
   }
 
   .active-page {
     @apply bg-brand/[0.15];
+  }
+
+  /* filter checkbox */
+
+  .filter-checkbox {
+    /* create a postioning context for the checkbox within the label */
+    position: relative;
+
+    /* other label styles here */
+  }
+
+  .filter-checkbox input[type="checkbox"] {
+    /* remove the checkbox from flow */
+    position: absolute;
+
+    /* hide it visually */
+    opacity: 0;
+
+    /* tweak size and position if needed */
+    width: 1em;
+    height: 1em;
+    right: 26px;
+  }
+
+  /* visually show focus outline when the SVG receives focus */
+  .filter-checkbox input[type="checkbox"]:focus + svg {
+    outline: 3px solid #e55360;
+    outline-offset: 2px;
+  }
+
+  /* hide the focus styles for mouse users */
+  .filter-checkbox input[type="checkbox"]:focus:not(:focus-visible) + svg {
+    outline: none;
+  }
+
+  /* basic styles for the svg */
+  .filter-checkbox svg {
+    /* set SVG dimensions in ems; i.e. relative to the font size so that it scales with the size of the text in the label */
+    width: 1em;
+    height: 1em;
+
+    /* apply a transition to the elements inside the svg */
+    * {
+      transition: all 0.1s linear;
+    }
+  }
+
+  /* style changes inside the svg when the checkbox is checked */
+  .filter-checkbox input[type="checkbox"]:checked + svg {
+    .checkmark {
+      @apply fill-brand;
+    }
   }
 }
 
