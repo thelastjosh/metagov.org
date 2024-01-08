@@ -11,17 +11,19 @@ if ($page)
       <div class="h-screen">
         <?php snippet('window', ['title' => $title, 'subheading' => $subheading, 'modal' => true, 'url' => $url], slots: true) ?>
         <!-- decide what to show depending on content type -->
-
-        <div class="p-4 max-h-[75vh]">
-          <?php if ($page) : ?>
-            <?php snippet('pages/' . $page->template()->name(), ['page' => $page]) ?>
-          <?php elseif ($content != "") : ?>
-            <div class="p-4 overflow-auto">
-              <?= $content->kt() ?>
-            </div>
-          <?php endif ?>
-        </div>
+        <main>
+          <div class="p-4 max-h-[75vh]">
+            <?php if ($page) : ?>
+              <?php snippet('pages/' . $page->template()->name(), ['page' => $page]) ?>
+            <?php elseif ($content != "") : ?>
+              <div class="overflow-auto prose">
+                <?= $content->kt() ?>
+              </div>
+            <?php endif ?>
+          </div>
+        </main>
         <?php endsnippet() ?>
+
       </div>
     </div>
   </div>

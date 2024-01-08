@@ -97,45 +97,4 @@
 
     updateList()
   }
-
-  // function filters() {
-  //   return {
-  //     filters: {
-  //       status: [],
-  //       type: {
-  //         "API": null,
-  //         "Community of Practice": null
-  //       },
-  //       seekingParticipants: {
-  //         Yes: null,
-  //         No: null
-  //       }
-  //     }
-  //   }
-  // }
-
-  // document.addEventListener("alpine:init", () => {
-  //   Alpine.data('Filters', () => ({
-  //     filters: {
-  //       status: {
-  //         "Active": null,
-  //         "Paused": null
-  //       },
-  //       type: {
-  //         "API": null,
-  //         "Community of Practice": null
-  //       },
-  //       seekingParticipants: {
-  //         Yes: null,
-  //         No: null
-  //       }
-  //     },
-  //     init() {
-  //       this.$watch('filters', (value) => {
-  //         console.log('filters changed')
-  //         updateList(value)
-  //       })
-  //     }
-  //   }));
-  // });
 </script>

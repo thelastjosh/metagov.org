@@ -683,7 +683,7 @@ video {
 
 .prose p {
   margin-bottom: 2rem;
-  font-family: Times New Roman;
+  font-family: Times, Times New Roman;
   font-size: 1.25rem;
   line-height: 24px;
 }
@@ -800,6 +800,9 @@ table td {
 
 .top-12 {
   top: 3rem;
+
+.top-3 {
+  top: 0.75rem;
 }
 
 .top-8 {
@@ -854,6 +857,10 @@ table td {
 
 .mt-16 {
   margin-top: 4rem;
+}
+
+.mt-8 {
+  margin-top: 2rem;
 }
 
 .mt-\[-5\.5rem\] {
@@ -1030,6 +1037,10 @@ table td {
   flex-direction: column;
 }
 
+.items-start {
+  align-items: flex-start;
+}
+
 .items-end {
   align-items: flex-end;
 }
@@ -1186,15 +1197,6 @@ table td {
   font-family: Inter;
 }
 
-.font-serif {
-  font-family: Times New Roman;
-}
-
-.text-large {
-  font-size: 1.5rem;
-  line-height: 28px;
-}
-
 .text-small {
   font-size: 1rem;
   line-height: 19.2px;
@@ -1205,26 +1207,9 @@ table td {
   line-height: 14px;
 }
 
-.text-xl {
-  font-size: 3rem;
-  line-height: 48px;
-}
-
 .text-xxs {
   font-size: 0.625rem;
   line-height: 10px;
-}
-
-.font-medium {
-  font-weight: 500;
-}
-
-.font-normal {
-  font-weight: 400;
-}
-
-.font-semibold {
-  font-weight: 600;
 }
 
 .text-brand {
@@ -1336,6 +1321,10 @@ table td {
   background-color: rgb(0 204 153 / var(--tw-bg-opacity));
 }
 
+p {
+  margin: 0 0 1rem 0;
+}
+
 hr {
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
@@ -1343,6 +1332,68 @@ hr {
 
 .hover\:bg-brand\/15:hover {
   background-color: rgb(0 204 153 / 0.15);
+}
+  
+h1 {
+  font-family: Inter;
+  font-size: 3rem;
+  line-height: 48px;
+  font-weight: 600;
+  margin: 1rem 0 2rem;
+}
+
+h2 {
+  font-family: Inter;
+  font-size: 2.25rem;
+  line-height: 36px;
+  font-weight: 600;
+  margin: 1rem 0;
+}
+
+h3 {
+  font-family: Inter;
+  font-size: 2rem;
+  line-height: 28px;
+  font-weight: 600;
+  margin: 1rem 0;
+}
+
+h4 {
+  font-family: Inter;
+  font-size: 1.25rem;
+  line-height: 24px;
+  font-weight: 600;
+  margin: 1rem 0;
+}
+
+h5 {
+  font-family: Inter;
+  font-size: 1rem;
+  line-height: 19.2px;
+  font-weight: 600;
+  margin: 1rem 0;
+}
+
+h6 {
+  font-family: input-mono-narrow;
+  font-size: 0.75rem;
+  line-height: 12px;
+  font-weight: 500;
+  margin: 1rem 0;
+}
+
+p, article {
+  a:link, a:visited {
+    --tw-text-opacity: 1;
+    color: rgb(52 100 195 / var(--tw-text-opacity));
+  }
+  a:hover {
+    --tw-text-opacity: 1;
+    color: rgb(52 100 195 / var(--tw-text-opacity));
+  }
+  a:hover {
+    text-decoration: underline;
+  }
 }
 
 .hover\:opacity-100:hover {

@@ -1,0 +1,7 @@
+type: pages
+label: People
+parent: kirby.page("people")
+info: "{{ page.date.toDate('d.m.Y') }}"
+template: people
+empty: No people yet
+sortBy: date desc

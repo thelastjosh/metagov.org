@@ -9,6 +9,7 @@
 @layer components {
   .tag {
     @apply px-3 pt-2 pb-1 rounded-[20px] border-2 uppercase font-mono inline-block text-tag text-brand border-brand bg-default bg-opacity-5 hover:bg-brand hover:bg-opacity-5;
+
   }
 
   .tag.active {
@@ -136,6 +137,50 @@
   @apply bg-brand;
 }
 
+p {
+  margin: 0 0 1rem 0;
+}
 hr {
   @apply my-6;
+}
+
+h1 {
+  @apply font-sans text-xxl;
+  font-weight: 600;
+  margin: 1rem 0 2rem;
+}
+h2 {
+  @apply font-sans text-xl;
+  font-weight: 600;
+  margin: 1rem 0;
+}
+h3 {
+  @apply font-sans text-large;
+  font-weight: 600;
+  margin: 1rem 0;
+}
+h4 {
+  @apply font-sans text-medium;
+  font-weight: 600;
+  margin: 1rem 0;
+}
+h5 {
+  @apply font-sans text-small;
+  font-weight: 600;
+  margin: 1rem 0;
+}
+h6 {
+  @apply font-mono text-xs;
+  font-weight: 500;
+  margin: 1rem 0;
+}
+
+p, article {
+  a:link, a:visited {
+    @apply text-primary;
+  }
+  a:hover {
+    @apply text-primary;
+    text-decoration: underline;
+  }
 }
