@@ -16,7 +16,7 @@ tabs:
               - page
               - home
               - projects
-              - team
+              - people
   settings:
     label: Site settings
     icon: cog
