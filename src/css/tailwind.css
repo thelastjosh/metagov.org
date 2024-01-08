@@ -9,7 +9,6 @@
 @layer components {
   .tag {
     @apply px-3 pt-2 pb-1 rounded-[20px] border-2 uppercase font-mono inline-block text-tag text-brand border-brand bg-default bg-opacity-5 hover:bg-brand hover:bg-opacity-5;
-
   }
 
   .tag.active {
@@ -48,6 +47,10 @@
     @apply font-serif text-medium mb-8;
   }
 
+  .prose a {
+    @apply underline text-white;
+  }
+
   table th {
     @apply p-2 border-b border-secondary text-left;
   }
@@ -67,43 +70,27 @@
   /* filter checkbox */
 
   .filter-checkbox {
-    /* create a postioning context for the checkbox within the label */
-    position: relative;
-
-    /* other label styles here */
+    @apply relative;
   }
 
   .filter-checkbox input[type="checkbox"] {
-    /* remove the checkbox from flow */
-    position: absolute;
-
-    /* hide it visually */
-    opacity: 0;
-
-    /* tweak size and position if needed */
-    width: 1em;
-    height: 1em;
+    @apply absolute opacity-0 w-4 h-4;
     right: 26px;
   }
 
   /* visually show focus outline when the SVG receives focus */
   .filter-checkbox input[type="checkbox"]:focus + svg {
-    outline: 3px solid #e55360;
-    outline-offset: 2px;
+    @apply outline outline-brand outline-1 outline-offset-2;
   }
 
   /* hide the focus styles for mouse users */
   .filter-checkbox input[type="checkbox"]:focus:not(:focus-visible) + svg {
-    outline: none;
+    @apply outline-none;
   }
 
   /* basic styles for the svg */
   .filter-checkbox svg {
-    /* set SVG dimensions in ems; i.e. relative to the font size so that it scales with the size of the text in the label */
-    width: 1em;
-    height: 1em;
-
-    /* apply a transition to the elements inside the svg */
+    @apply w-4 h-4;
     * {
       transition: all 0.1s linear;
     }
@@ -140,6 +127,7 @@
 p {
   margin: 0 0 1rem 0;
 }
+
 hr {
   @apply my-6;
 }
@@ -149,38 +137,33 @@ h1 {
   font-weight: 600;
   margin: 1rem 0 2rem;
 }
+
 h2 {
   @apply font-sans text-xl;
   font-weight: 600;
   margin: 1rem 0;
 }
+
 h3 {
   @apply font-sans text-large;
   font-weight: 600;
   margin: 1rem 0;
 }
+
 h4 {
   @apply font-sans text-medium;
   font-weight: 600;
   margin: 1rem 0;
 }
+
 h5 {
   @apply font-sans text-small;
   font-weight: 600;
   margin: 1rem 0;
 }
+
 h6 {
   @apply font-mono text-xs;
   font-weight: 500;
   margin: 1rem 0;
-}
-
-p, article {
-  a:link, a:visited {
-    @apply text-primary;
-  }
-  a:hover {
-    @apply text-primary;
-    text-decoration: underline;
-  }
 }

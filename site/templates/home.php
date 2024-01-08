@@ -81,8 +81,8 @@ $windows = $page->windows()->toStructure();
   <!-- chaos -->
   <div x-cloak x-show="!order" x-transition.duration.450ms x-transition:enter.delay.500ms class="min-h-[calc(100vh-250px)] relative mt-16" :class="order ? 'opacity-0 ' : ''" id="window-container">
     <?php foreach ($windows as $index => $window) : ?>
-      <article x-data="{ open : false }" @click="open = true" class="draggable absolute w-[450px] h-[275px] chaos-window-<?= $index + 1 ?>">
-      <?php $content = $window->description()->kt();
+      <article x-data="{ open : false }" @click="open = true" class="draggable absolute w-[450px] h-[275px] chaos-window-<?= $index + 1 ?> prose">
+        <?php $content = $window->description()->kt();
         $page = $window->page()->toPage() ?>
         <?php snippet('window', ['title' => $window->title(), 'subheading' => $window->subheading()], slots: true) ?>
         <?php if ($content != "") : ?>
@@ -103,7 +103,7 @@ $windows = $page->windows()->toStructure();
   <!-- ordered -->
   <div x-cloak x-show="order" class="grid md:grid-cols-2 gap-4 md:gap-6 max-w-[924px] mx-auto mt-16" x-transition.duration.450ms x-transition:enter.delay.500ms>
     <?php foreach ($windows as $index => $window) : ?>
-      <article x-data="{ open : false }" @click="open = true" class="<?php if ($index == 0) echo 'md:col-span-2' ?> h-[275px] cursor-pointer">
+      <article x-data="{ open : false }" @click="open = true" class="<?php if ($index == 0) echo 'md:col-span-2' ?> h-[275px] cursor-pointer prose">
         <?php $content = $window->description()->kt();
         $page = $window->page()->toPage() ?>
         <?php snippet('window', ['title' => $window->title(), 'subheading' => $window->subheading()], slots: true) ?>

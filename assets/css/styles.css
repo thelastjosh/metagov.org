@@ -688,6 +688,12 @@ video {
   line-height: 24px;
 }
 
+.prose a {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+  text-decoration-line: underline;
+}
+
 table th {
   border-bottom-width: 1px;
   --tw-border-opacity: 1;
@@ -717,42 +723,38 @@ table td {
 /* filter checkbox */
 
 .filter-checkbox {
-  /* create a postioning context for the checkbox within the label */
   position: relative;
-  /* other label styles here */
 }
 
 .filter-checkbox input[type="checkbox"] {
-  /* remove the checkbox from flow */
   position: absolute;
-  /* hide it visually */
+  height: 1rem;
+  width: 1rem;
   opacity: 0;
-  /* tweak size and position if needed */
-  width: 1em;
-  height: 1em;
   right: 26px;
 }
 
 /* visually show focus outline when the SVG receives focus */
 
 .filter-checkbox input[type="checkbox"]:focus + svg {
-  outline: 3px solid #e55360;
+  outline-style: solid;
+  outline-width: 1px;
   outline-offset: 2px;
+  outline-color: #00CC99;
 }
 
 /* hide the focus styles for mouse users */
 
 .filter-checkbox input[type="checkbox"]:focus:not(:focus-visible) + svg {
-  outline: none;
+  outline: 2px solid transparent;
+  outline-offset: 2px;
 }
 
 /* basic styles for the svg */
 
 .filter-checkbox svg {
-  /* set SVG dimensions in ems; i.e. relative to the font size so that it scales with the size of the text in the label */
-  width: 1em;
-  height: 1em;
-  /* apply a transition to the elements inside the svg */
+  height: 1rem;
+  width: 1rem;
   * {
     transition: all 0.1s linear;
   }
@@ -802,24 +804,8 @@ table td {
   top: 3rem;
 }
 
-.top-3 {
-  top: 0.75rem;
-}
-
 .top-8 {
   top: 2rem;
-}
-
-.top-2 {
-  top: 0.5rem;
-}
-
-.top-1 {
-  top: 0.25rem;
-}
-
-.top-1\.5 {
-  top: 0.375rem;
 }
 
 .-z-10 {
@@ -848,6 +834,10 @@ table td {
   margin-bottom: 0.25rem;
 }
 
+.mb-0 {
+  margin-bottom: 0px;
+}
+
 .mb-12 {
   margin-bottom: 3rem;
 }
@@ -874,18 +864,6 @@ table td {
 
 .mt-\[-5\.5rem\] {
   margin-top: -5.5rem;
-}
-
-.mt-1 {
-  margin-top: 0.25rem;
-}
-
-.mb-0 {
-  margin-bottom: 0px;
-}
-
-.mt-0 {
-  margin-top: 0px;
 }
 
 .block {
@@ -1052,10 +1030,6 @@ table td {
 
 .flex-col {
   flex-direction: column;
-}
-
-.place-items-center {
-  place-items: center;
 }
 
 .items-start {
@@ -1423,20 +1397,6 @@ h6 {
   line-height: 12px;
   font-weight: 500;
   margin: 1rem 0;
-}
-
-p, article {
-  a:link, a:visited {
-    --tw-text-opacity: 1;
-    color: rgb(52 100 195 / var(--tw-text-opacity));
-  }
-  a:hover {
-    --tw-text-opacity: 1;
-    color: rgb(52 100 195 / var(--tw-text-opacity));
-  }
-  a:hover {
-    text-decoration: underline;
-  }
 }
 
 .hover\:bg-brand\/15:hover {
