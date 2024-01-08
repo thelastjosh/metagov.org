@@ -1,9 +1,9 @@
 </main>
 
-<footer class="flex justify-between w-full px-6 py-[30px]">
-  <p class="text-brand">Metagov –– </p>
+<footer class="grid grid-cols-3 w-full px-6 py-[30px]">
+  <span class="text-brand mb-0">Metagov –– </span>
   <?php snippet('color-mode') ?>
-  <p class="text-brand">–– 2023</p>
+  <span class="text-brand text-right mb-0">–– 2023</span>
 </footer>
 
 </body>

@@ -1,4 +1,4 @@
-<div class="flex">
+<div class="flex mx-auto">
   <button @click="darkMode = !darkMode" role="switch" class="group cursor-pointer relative" :aria-pressed="darkMode" aria-label="Dark mode">
     <div class="flex items-center">
       <div class="p-2">
@@ -12,6 +12,6 @@
         </svg>
       </div>
     </div>
-    <div class="absolute bg-brand/[0.15] rounded-sm left-0 top-3 w-8 h-8 group-aria-pressed:translate-x-full transition"></div>
+    <div class="absolute bg-brand/[0.15] rounded-sm left-0 top-0 w-8 h-8 group-aria-pressed:translate-x-full transition"></div>
   </button>
 </div>
