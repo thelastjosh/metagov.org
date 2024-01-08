@@ -15,6 +15,9 @@ module.exports = {
         window: "5px 5px 0px 0px rgba(0, 204, 153, 0.2)",
         windowhover: "8px 8px 8px 0px rgba(0, 204, 153, 0.2)",
       },
+      opacity: {
+        15: "0.15",
+      },
     },
     container: {
       center: true,
