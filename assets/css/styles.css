@@ -800,6 +800,7 @@ table td {
 
 .top-12 {
   top: 3rem;
+}
 
 .top-3 {
   top: 0.75rem;
@@ -857,10 +858,6 @@ table td {
 
 .mt-16 {
   margin-top: 4rem;
-}
-
-.mt-8 {
-  margin-top: 2rem;
 }
 
 .mt-\[-5\.5rem\] {
@@ -1029,10 +1026,6 @@ table td {
   grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
-.flex-row {
-  flex-direction: row;
-}
-
 .flex-col {
   flex-direction: column;
 }
@@ -1197,6 +1190,15 @@ table td {
   font-family: Inter;
 }
 
+.font-serif {
+  font-family: Times, Times New Roman;
+}
+
+.text-large {
+  font-size: 2rem;
+  line-height: 28px;
+}
+
 .text-small {
   font-size: 1rem;
   line-height: 19.2px;
@@ -1207,9 +1209,22 @@ table td {
   line-height: 14px;
 }
 
+.text-xl {
+  font-size: 2.25rem;
+  line-height: 36px;
+}
+
 .text-xxs {
   font-size: 0.625rem;
   line-height: 10px;
+}
+
+.font-normal {
+  font-weight: 400;
+}
+
+.font-semibold {
+  font-weight: 600;
 }
 
 .text-brand {
@@ -1330,10 +1345,6 @@ hr {
   margin-bottom: 1.5rem;
 }
 
-.hover\:bg-brand\/15:hover {
-  background-color: rgb(0 204 153 / 0.15);
-}
-  
 h1 {
   font-family: Inter;
   font-size: 3rem;
@@ -1394,6 +1405,10 @@ p, article {
   a:hover {
     text-decoration: underline;
   }
+}
+
+.hover\:bg-brand\/15:hover {
+  background-color: rgb(0 204 153 / 0.15);
 }
 
 .hover\:opacity-100:hover {
@@ -1459,20 +1474,8 @@ p, article {
     grid-column: span 2 / span 2;
   }
 
-  .md\:flex {
-    display: flex;
-  }
-
   .md\:grid-cols-2 {
     grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-
-  .md\:flex-row {
-    flex-direction: row;
-  }
-
-  .md\:items-center {
-    align-items: center;
   }
 
   .md\:gap-6 {
