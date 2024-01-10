@@ -40,6 +40,9 @@ columns:
   sidebar:
     width: 1/3
     fields:
+      email:
+        type: email
+        label: Email
       role:
         type: checkboxes
         label: Metagov community role
