@@ -6,7 +6,7 @@ module.exports = {
       colors: {
         brand: "#00CC99",
         primary: "#3464C3",
-        secondary: "#008060",
+        secondary: "#46D3CA",
         "secondary-dark": "#46D3CA",
         default: "#011B1A",
         bg: "#FEFFFE",
@@ -37,7 +37,7 @@ module.exports = {
       sans: ["Inter"],
       serif: ["Times", "Times New Roman"],
       mono: ["input-mono-narrow"],
-    }
+    },
   },
   plugins: [],
 };

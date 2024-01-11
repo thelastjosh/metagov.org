@@ -27,32 +27,35 @@ columns:
       bio:
         type: textarea
         label: Bio
-        size:  small
+        size: small
+      email:
+        type: email
+      website:
+        type: url
       interests:
         type: tags
         label: Research interests
         accept: all
+        query: site.index.filterBy("template", "person").pluck("interests", ",", true)
       contributions:
         type: tags
         label: Ways of contributing to research
         accept: all
+        query: site.index.filterBy("template", "person").pluck("contributions", ",", true)
 
   sidebar:
     width: 1/3
     fields:
-      email:
-        type: email
-        label: Email
       role:
-        type: checkboxes
-        label: Metagov community role
+        type: tags
         options:
-          participant: Participant
-          researchDirector: Research Director
-          contributor: Contributor
-          board: Board
-          alumni: Alumni
-          staff: Staff
+          type: query
+          query: site.index.filterBy("template", "person").pluck("role", ",", true)
+      projects:
+        type: tags
+        options:
+          type: query
+          query: site.children.template("projects").children
       links:
         type: structure
         fields:

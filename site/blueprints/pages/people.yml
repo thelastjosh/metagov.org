@@ -2,6 +2,22 @@ title: People
 icon: user
 
 columns:
+  main:
+    width: 1/1
+    fields:
+      subheading:
+        label: Subheading
+        type: text
+        validate: notEmpty
+      content:
+        type: blocks
+        label: Content
+      team:
+        type: tags
+        options:
+          type: query
+          query: site.index.filterBy("template", "person").pluck("role", ",", true)
+
   left:
     width: 2/3
     sections:
