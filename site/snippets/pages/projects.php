@@ -1,9 +1,6 @@
 <div id="projects" class="container max-w-[1088px]">
   <div class="mb-12">
     <h1 class="text-xl font-semibold mb-2">Projects</h1>
-    <?php if ($page->subheading()) : ?>
-      <h2 class="text-large font-serif font-normal"><?= $page->subheading() ?></h2>
-    <?php endif ?>
   </div>
   <div class="mb-12 flex flex-col lg:flex-row lg:items-center gap-2 lg:gap-4">
     <span>FILTERS:</span>
@@ -13,7 +10,7 @@
   </div>
   <ul class="grid sm:grid-cols-2 xl:grid-cols-3 gap-4 sm:gap-6 mx-auto list">
     <?php foreach ($page->children()->listed() as $project) : ?>
-      <li data-title="<?= $project->title() ?>" data-status="<?= $project->projectStatus()->split()[0] ?? null ?>" data-category="<?= page($project->category())->title() ?? null ?>" data-participants="<?= ($project->seekingParticipants()->toBool()) ? 'Yes' : 'No' ?>">
+      <li data-title="<?= $project->title() ?>" data-status="<?= $project->projectStatus()->split()[0] ?? null ?>" data-category="<?= $project->category()->title() ?? null ?>" data-participants="<?= ($project->seekingParticipants()->toBool()) ? 'Yes' : 'No' ?>">
         <a href="<?= $project->url() ?>">
           <?php snippet('window', ['title' => $project->title(), 'subheading' => $project->subheading()], slots: true) ?>
           <?php if ($image = $project->cover()->toFile()) : ?>
@@ -28,6 +25,7 @@
           <?php endsnippet() ?>
         </a>
       </li>
+
     <?php endforeach ?>
   </ul>
 </div>

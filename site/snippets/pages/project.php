@@ -18,7 +18,9 @@
     </h3>
   </div>
 
-  <img class="mb-8" src="<?= $page->image()->url() ?>" alt="<?= $page->image()->alt()->esc() ?>">
+  <?php if ($page->cover()->isNotEmpty()) : ?>
+    <img class="mb-8" src="<?= $page->image()->url() ?>" alt="<?= $page->image()->alt()->esc() ?>">
+  <?php endif ?>
 
   <article>
 

@@ -63,6 +63,12 @@ columns:
           projectStatus:
             label: Project status
             type: tags
+            options:
+              - "Active"
+              - "Complete"
+              - "Paused"
+              - "Pending Funding"
+              - "Inactive"
           seekingParticipants:
             label: Seeking participants
             type: toggle
@@ -80,9 +86,25 @@ columns:
                 type: url
           type:
             type: tags
+            options:
+              - "Tool"
+              - "Publication"
+              - "Community of Practice"
+              - "Guidebook"
+              - "Data Set"
+              - "Coordination Tool"
+              - "Roundtable"
+              - "R&D"
+              - "Market Intervention"
+              - "Data Standards"
+              - "Technical Standard"
+          researchDirectors:
+            label: Research Directors
+            type: pages
+            query: site.find('people').children.filterBy('role','researchDirector')
           members:
             label: Members
             type: pages
-            query: site.find('team')
+            query: site.find('people')
           contact:
             type: email
