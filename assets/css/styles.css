@@ -866,6 +866,10 @@ table td {
   margin-top: -5.5rem;
 }
 
+.ml-4 {
+  margin-left: 1rem;
+}
+
 .block {
   display: block;
 }
@@ -1082,6 +1086,14 @@ table td {
   border-radius: 0.125rem;
 }
 
+.rounded-\[4px\] {
+  border-radius: 4px;
+}
+
+.rounded {
+  border-radius: 0.25rem;
+}
+
 .border {
   border-width: 1px;
 }
@@ -1102,6 +1114,10 @@ table td {
 .border-secondary {
   --tw-border-opacity: 1;
   border-color: rgb(0 128 96 / var(--tw-border-opacity));
+}
+
+.border-brand\/30 {
+  border-color: rgb(0 204 153 / 0.3);
 }
 
 .bg-bg {
@@ -1456,6 +1472,10 @@ h6 {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
+  .sm\:grid-cols-4 {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
   .sm\:gap-6 {
     gap: 1.5rem;
   }
@@ -1480,6 +1500,14 @@ h6 {
     display: flex;
   }
 
+  .lg\:grid {
+    display: grid;
+  }
+
+  .lg\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .lg\:flex-row {
     flex-direction: row;
   }
@@ -1496,5 +1524,9 @@ h6 {
 @media (min-width: 1280px) {
   .xl\:grid-cols-3 {
     grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .xl\:grid-cols-6 {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
   }
 }
