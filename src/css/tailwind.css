@@ -60,7 +60,7 @@
   }
 
   .button {
-    @apply hover:bg-brand/10 p-2;
+    @apply hover:bg-brand/15 px-2 py-1 text-brand font-sans text-small border-brand border rounded-sm;
   }
 
   .active-page {

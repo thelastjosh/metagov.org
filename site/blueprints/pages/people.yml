@@ -12,6 +12,12 @@ columns:
       content:
         type: blocks
         label: Content
+      team:
+        type: tags
+        options:
+          type: query
+          query: site.index.filterBy("template", "person").pluck("role", ",", true)
+
   left:
     width: 2/3
     sections:

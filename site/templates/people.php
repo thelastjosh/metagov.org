@@ -18,18 +18,37 @@
     <?php endforeach ?>
   </div>
 
+  <div class="mb-8 lg:grid lg:grid-cols-2 xl:grid-cols-3">
+    <?php foreach ($page->team()->split() as $role) : ?>
+      <h3>
+        <?= $role ?>
+      </h3>
+      <?php $people = $page->children()->filterBy('role', $role, ',') ?>
+      <ul class="grid grid-cols-2">
+        <?php foreach ($people as $person) : ?>
+          <li>
+            <p class="text-secondary mb-0"><?= $person->title() ?></p>
+            <p class="font-serif"><?= $person->affiliation() ?></p>
+          </li>
+        <?php endforeach ?>
+      </ul>
+    <?php endforeach ?>
+  </div>
+
   <section>
     <div class="mb-8 flex justify-between items-center">
       <h3>Community directory</h3>
-      <div class="mb-12 flex flex-col lg:flex-row lg:items-center gap-2 lg:gap-4">
+      <div class="flex flex-col lg:flex-row lg:items-center gap-2 lg:gap-4">
         <span>FILTERS:</span>
         <?php snippet('blocks/filter', ['filters' => $roles, 'group' => 'Role', 'label' => 'Role']) ?>
+        <?php snippet('blocks/filter', ['filters' => $researchInterests, 'group' => 'researchInterests', 'label' => 'Research interests']) ?>
+
       </div>
     </div>
 
     <ul class="grid sm:grid-cols-4 xl:grid-cols-6 gap-4 sm:gap-6 mx-auto list">
       <?php foreach ($page->children()->listed() as $person) : ?>
-        <li class="cursor-pointer" x-data="{ open : false }" @click="open = true" data-title="<?= $person->title() ?>" data-role="<?= $person->role() ?? null ?>">
+        <li class="cursor-pointer p-2 rounded-sm hover:outline hover:outline-brand hover:bg-brand/10" x-data="{ open : false }" @click="open = true" data-title="<?= $person->title() ?>" data-role="<?= $person->role() ?? null ?>">
           <?php if ($image = $person->image()) : ?>
             <img class="w-full border border-brand/30 rounded mb-4" src="<?= $image->crop(154, 120, "center")->url() ?>" srcset="<?= $image->srcset(
                                                                                                                                     [
@@ -39,8 +58,10 @@
                                                                                                                                     ]
                                                                                                                                   ) ?>" alt="<?= $image->alt()->esc() ?>" width="<?= $image->resize(154)->width() ?>" height="<?= $image->resize(235)->height() ?>">
           <?php endif ?>
-          <p class="text-secondary"><?= $person->title() ?></p>
-          <p><?= $person->affiliation() ?></p>
+          <p class="text-secondary mb-1"><?= $person->title() ?></p>
+          <p class="mb-1"><?= $person->affiliation() ?></p>
+          <span class="button inline-block mb-1"><?= $person->role()->split()[0] ?></span>
+
           <div>
             <a href="<?= $person->website() ?>" target="_blank">🌐 www</a>
             <a href="mailto:<?= $person->email() ?>" target="_blank" class="ml-4">📧 email</a>

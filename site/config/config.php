@@ -15,7 +15,7 @@ return [
           'heading',
           'table',
           'markdown',
-          'line'
+          'line',
         ]
       ],
       'media' => [
