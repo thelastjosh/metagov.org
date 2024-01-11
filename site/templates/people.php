@@ -1,5 +1,5 @@
 <?php snippet('header') ?>
-<div class="container">
+<div id="people" class="container">
   <div class="mb-8">
     <h1><?= $page->title()->esc() ?></h1>
     <h2 class="text-large font-serif font-normal">
@@ -91,7 +91,7 @@
     peopleList.filter(function(item) {
       let role = false
 
-      if (filters.Role.indexOf(item.values().category) > -1 || filters.Role.length == 0) {
+      if (filters.Role.find((element) => item.values().role.includes(element)) || filters.Role.length == 0) {
         role = true
       } else {
         role = false
