@@ -2,13 +2,9 @@
 
 return function ($page, $pages, $site, $kirby) {
   $shared = $kirby->controller('site', compact('page', 'pages', 'site', 'kirby'));
-  $categoryPages = $site->page("project-categories")->children()->published();
-  $categories = [];
-  foreach ($categoryPages as $category) {
-    $title = $category->title();
-    array_push($categories, $title);
-  }
+  $categories = $page->children()->pluck("category", ",", true);
+  $types = $page->children()->pluck("type", ",", true);
   $status = ['Active', 'Paused'];
   $seekingParticipants = ['Yes', 'No'];
-  return A::merge($shared, compact('categories', 'status', 'seekingParticipants'));
+  return A::merge($shared, compact('categories', 'types', 'status', 'seekingParticipants'));
 };
