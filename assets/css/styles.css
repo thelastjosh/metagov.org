@@ -995,10 +995,6 @@ table td {
   max-width: 924px;
 }
 
-.max-w-xs {
-  max-width: 20rem;
-}
-
 .shrink-0 {
   flex-shrink: 0;
 }
@@ -1126,6 +1122,10 @@ table td {
   border-top-width: 1px;
 }
 
+.border-none {
+  border-style: none;
+}
+
 .border-brand {
   --tw-border-opacity: 1;
   border-color: rgb(0 204 153 / var(--tw-border-opacity));
@@ -1207,14 +1207,14 @@ table td {
   padding-bottom: 0.375rem;
 }
 
-.py-\[30px\] {
-  padding-top: 30px;
-  padding-bottom: 30px;
-}
-
 .py-2 {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
+}
+
+.py-\[30px\] {
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .pb-16 {
