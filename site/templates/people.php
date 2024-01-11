@@ -40,15 +40,14 @@
       <h3>Community directory</h3>
       <div class="flex flex-col lg:flex-row lg:items-center gap-2 lg:gap-4">
         <span>FILTERS:</span>
-        <?php snippet('blocks/filter', ['filters' => $roles, 'group' => 'Role', 'label' => 'Role']) ?>
+        <?php snippet('blocks/filter', ['filters' => $roles, 'group' => 'role', 'label' => 'Role']) ?>
         <?php snippet('blocks/filter', ['filters' => $researchInterests, 'group' => 'researchInterests', 'label' => 'Research interests']) ?>
-
       </div>
     </div>
 
     <ul class="grid sm:grid-cols-4 xl:grid-cols-6 gap-4 sm:gap-6 mx-auto list">
       <?php foreach ($page->children()->listed() as $person) : ?>
-        <li class="cursor-pointer p-2 rounded-sm hover:outline hover:outline-brand hover:bg-brand/10" x-data="{ open : false }" @click="open = true" data-title="<?= $person->title() ?>" data-role="<?= $person->role() ?? null ?>">
+        <li class="cursor-pointer p-2 rounded-sm hover:outline hover:outline-brand hover:bg-brand/10" x-data="{ open : false }" @click="open = true" data-title="<?= $person->title() ?>" data-role="<?= $person->role() ?? null ?>" data-research-interests="<?= $person->interests() ?? null ?>">
           <?php if ($image = $person->image()) : ?>
             <img class="w-full border border-brand/30 rounded mb-4" src="<?= $image->crop(154, 120, "center")->url() ?>" srcset="<?= $image->srcset(
                                                                                                                                     [
@@ -76,12 +75,13 @@
 
 <script>
   let filters = {
-    Role: [],
+    role: [],
+    researchInterests: []
   }
 
   var options = {
     valueNames: [{
-      data: ['title', 'role', ]
+      data: ['title', 'role', 'research-interests']
     }]
   }
 
@@ -90,14 +90,21 @@
   const updateList = () => {
     peopleList.filter(function(item) {
       let role = false
+      let researchInterests = false
 
-      if (filters.Role.find((element) => item.values().role.includes(element)) || filters.Role.length == 0) {
+      if (filters.role.find((element) => item.values().role.includes(element)) || filters.role.length == 0) {
         role = true
       } else {
         role = false
       }
 
-      if (role) return true
+      if (filters.researchInterests.find((element) => item.values()['research-interests'].includes(element)) || filters.researchInterests.length == 0) {
+        researchInterests = true
+      } else {
+        researchInterests = false
+      }
+
+      if (role && researchInterests) return true
       else return false
     })
   }
