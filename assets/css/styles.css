@@ -854,6 +854,10 @@ table td {
   margin-bottom: 2rem;
 }
 
+.ml-4 {
+  margin-left: 1rem;
+}
+
 .mr-2 {
   margin-right: 0.5rem;
 }
@@ -864,10 +868,6 @@ table td {
 
 .mt-\[-5\.5rem\] {
   margin-top: -5.5rem;
-}
-
-.ml-4 {
-  margin-left: 1rem;
 }
 
 .block {
@@ -1082,16 +1082,12 @@ table td {
   overflow: auto;
 }
 
-.rounded-sm {
-  border-radius: 0.125rem;
-}
-
-.rounded-\[4px\] {
-  border-radius: 4px;
-}
-
 .rounded {
   border-radius: 0.25rem;
+}
+
+.rounded-sm {
+  border-radius: 0.125rem;
 }
 
 .border {
@@ -1111,13 +1107,13 @@ table td {
   border-color: rgb(0 204 153 / var(--tw-border-opacity));
 }
 
+.border-brand\/30 {
+  border-color: rgb(0 204 153 / 0.3);
+}
+
 .border-secondary {
   --tw-border-opacity: 1;
   border-color: rgb(0 128 96 / var(--tw-border-opacity));
-}
-
-.border-brand\/30 {
-  border-color: rgb(0 204 153 / 0.3);
 }
 
 .bg-bg {
