@@ -606,6 +606,11 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
+:is(.dark .tag.active) {
+  --tw-text-opacity: 1;
+  color: rgb(1 27 26 / var(--tw-text-opacity));
+}
+
 .tag.primary {
   --tw-border-opacity: 1;
   border-color: rgb(52 100 195 / var(--tw-border-opacity));
@@ -631,11 +636,11 @@ video {
 
 .tag.secondary {
   --tw-border-opacity: 1;
-  border-color: rgb(70 211 202 / var(--tw-border-opacity));
-  background-color: rgb(70 211 202 / var(--tw-bg-opacity));
+  border-color: rgb(0 128 96 / var(--tw-border-opacity));
+  background-color: rgb(0 128 96 / var(--tw-bg-opacity));
   --tw-bg-opacity: 0.05;
   --tw-text-opacity: 1;
-  color: rgb(70 211 202 / var(--tw-text-opacity));
+  color: rgb(1 27 26 / var(--tw-text-opacity));
 }
 
 .tag.secondary:hover {
@@ -646,11 +651,20 @@ video {
 
 .tag.secondary.active {
   --tw-border-opacity: 1;
-  border-color: rgb(70 211 202 / var(--tw-border-opacity));
+  border-color: rgb(0 128 96 / var(--tw-border-opacity));
   --tw-bg-opacity: 1;
-  background-color: rgb(70 211 202 / var(--tw-bg-opacity));
+  background-color: rgb(0 128 96 / var(--tw-bg-opacity));
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+:is(.dark .tag.secondary.active) {
+  --tw-border-opacity: 1;
+  border-color: rgb(255 255 255 / var(--tw-border-opacity));
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+  --tw-text-opacity: 1;
+  color: rgb(1 27 26 / var(--tw-text-opacity));
 }
 
 .tag.grayscale {
@@ -697,14 +711,14 @@ video {
 table th {
   border-bottom-width: 1px;
   --tw-border-opacity: 1;
-  border-color: rgb(70 211 202 / var(--tw-border-opacity));
+  border-color: rgb(0 128 96 / var(--tw-border-opacity));
   padding: 0.5rem;
   text-align: left;
 }
 
 table td {
   border-bottom-width: 1px;
-  border-color: rgb(70 211 202 / 0.2);
+  border-color: rgb(0 128 96 / 0.2);
   padding: 0.5rem;
 }
 
@@ -876,6 +890,10 @@ table td {
 
 .mr-2 {
   margin-right: 0.5rem;
+}
+
+.mt-0 {
+  margin-top: 0px;
 }
 
 .mt-16 {
@@ -1137,7 +1155,7 @@ table td {
 
 .border-secondary {
   --tw-border-opacity: 1;
-  border-color: rgb(70 211 202 / var(--tw-border-opacity));
+  border-color: rgb(0 128 96 / var(--tw-border-opacity));
 }
 
 .bg-bg {
@@ -1286,7 +1304,7 @@ table td {
 
 .text-secondary {
   --tw-text-opacity: 1;
-  color: rgb(70 211 202 / var(--tw-text-opacity));
+  color: rgb(0 128 96 / var(--tw-text-opacity));
 }
 
 .opacity-0 {
@@ -1351,7 +1369,7 @@ table td {
 
 .window-scrollbar *::-webkit-scrollbar-track {
   --tw-border-opacity: 1;
-  border-color: rgb(70 211 202 / var(--tw-border-opacity));
+  border-color: rgb(0 128 96 / var(--tw-border-opacity));
   --tw-bg-opacity: 1;
   background-color: rgb(254 255 254 / var(--tw-bg-opacity));
 }
@@ -1370,7 +1388,7 @@ table td {
 
 .window-scrollbar *::-webkit-scrollbar-thumb {
   --tw-bg-opacity: 1;
-  background-color: rgb(70 211 202 / var(--tw-bg-opacity));
+  background-color: rgb(0 128 96 / var(--tw-bg-opacity));
 }
 
 :is(.dark .window-scrollbar *)::-webkit-scrollbar-thumb {

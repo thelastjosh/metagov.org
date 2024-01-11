@@ -4,13 +4,14 @@
   </div>
   <div class="mb-12 flex flex-col lg:flex-row lg:items-center gap-2 lg:gap-4">
     <span>FILTERS:</span>
-    <?php snippet('blocks/filter', ['filters' => $categories, 'group' => 'Category', 'label' => 'Category']) ?>
-    <?php snippet('blocks/filter', ['filters' => $status, 'group' => 'Status', 'label' => 'Status']) ?>
+    <?php snippet('blocks/filter', ['filters' => $categories, 'group' => 'category', 'label' => 'Category']) ?>
+    <?php snippet('blocks/filter', ['filters' => $types, 'group' => 'type', 'label' => 'Project type']) ?>
+    <?php snippet('blocks/filter', ['filters' => $status, 'group' => 'status', 'label' => 'Status']) ?>
     <?php snippet('blocks/filter', ['filters' => $seekingParticipants, 'group' => 'participants', 'label' => 'Seeking participants']) ?>
   </div>
   <ul class="grid sm:grid-cols-2 xl:grid-cols-3 gap-4 sm:gap-6 mx-auto list">
     <?php foreach ($page->children()->listed() as $project) : ?>
-      <li data-title="<?= $project->title() ?>" data-status="<?= $project->projectStatus()->split()[0] ?? null ?>" data-category="<?= $project->category()->title() ?? null ?>" data-participants="<?= ($project->seekingParticipants()->toBool()) ? 'Yes' : 'No' ?>">
+      <li data-title="<?= $project->title() ?>" data-status="<?= $project->projectStatus() ?? null ?>" data-type="<?= $project->type() ?? null ?>" data-category="<?= $project->category() ?? null ?>" data-participants="<?= ($project->seekingParticipants()->toBool()) ? 'Yes' : 'No' ?>">
         <a href="<?= $project->url() ?>">
           <?php snippet('window', ['title' => $project->title(), 'subheading' => $project->subheading()], slots: true) ?>
           <?php if ($image = $project->cover()->toFile()) : ?>
@@ -33,15 +34,15 @@
 
 <script>
   let filters = {
-    Category: [],
-    Status: [],
-    'Project type': [],
+    category: [],
+    type: [],
+    status: [],
     participants: []
   }
 
   var options = {
     valueNames: [{
-      data: ['title', 'category', 'status', 'type', 'participants']
+      data: ['title', 'category', 'type', 'status', 'participants']
     }]
   }
 
@@ -50,16 +51,23 @@
   const updateList = () => {
     projectList.filter(function(item) {
       let category = false
+      let type = false
       let status = false
       let participants = false
 
-      if (filters.Category.indexOf(item.values().category) > -1 || filters.Category.length == 0) {
+      if (filters.category.find((element) => item.values().category.includes(element)) || filters.category.length == 0) {
         category = true
       } else {
         category = false
       }
 
-      if (filters.Status.indexOf(item.values().status) > -1 || filters.Status.length == 0) {
+      if (filters.type.find((element) => item.values().type.includes(element)) || filters.type.length == 0) {
+        type = true
+      } else {
+        type = false
+      }
+
+      if (filters.status.indexOf(item.values().status) > -1 || filters.status.length == 0) {
         status = true
       } else {
         status = false
@@ -74,7 +82,7 @@
       console.log(filters)
       console.log(item.values())
 
-      if (category && status && participants) return true
+      if (category && type && status && participants) return true
       else return false
     })
   }
