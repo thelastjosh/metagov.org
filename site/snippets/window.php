@@ -1,5 +1,5 @@
 <div class="window-scrollbar bg-bg dark:bg-default border border-secondary dark:border-secondary-dark opacity-[0.85] hover:opacity-100 shadow-window hover:shadow-windowhover transition-[opacity,box-shadow] flex flex-col h-full relative">
-  <header class="border-b bg-bg dark:bg-default border-secondary dark:border-secondary-dark flex gap-2 items-center px-2 py-1.5 text-secondary dark:text-secondary-dark shrink-0">
+  <div class="border-b bg-bg dark:bg-default border-secondary dark:border-secondary-dark flex gap-2 items-center px-2 py-1.5 text-secondary dark:text-secondary-dark shrink-0">
     <?php if (!empty($modal)) : ?>
       <a href="<?= $url ?>">
         <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -27,11 +27,11 @@
         </svg>
       </button>
     <?php endif ?>
-    </header>
+  </div>
   <div class="border-secondary dark:border-secondary-dark grow overflow-auto">
     <?= $slot ?>
   </div>
-  <footer class="bg-bg dark:bg-default border-t border-secondary dark:border-secondary-dark text-secondary dark:text-secondary-dark shrink-0">
+  <div class="bg-bg dark:bg-default border-t border-secondary dark:border-secondary-dark text-secondary dark:text-secondary-dark shrink-0">
     <span class="block font-mono text-center text-xxs py-1"><?= $subheading ?></span>
-    </footer>
+  </div>
 </div>

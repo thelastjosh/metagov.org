@@ -8,6 +8,7 @@ return function ($page, $pages, $site, $kirby) {
   $types = $site->find('projects')->children()->pluck("type", ",", true);
   $status = ['Active', 'Paused'];
   $seekingParticipants = ['Yes', 'No'];
-
-  return A::merge($shared, compact('titleTag', 'metaDescription', 'categories', 'types', 'status', 'seekingParticipants'));
+  $windows = $page->windows()->toStructure();
+  $chaosHeight = count($windows) * 125;
+  return A::merge($shared, compact('titleTag', 'metaDescription', 'categories', 'types', 'status', 'seekingParticipants', 'windows', 'chaosHeight'));
 };
