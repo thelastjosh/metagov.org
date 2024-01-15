@@ -29,6 +29,9 @@
 
     <?php endforeach ?>
   </ul>
+  <div id="no-result" class="hidden">
+    <p>No projects found</p>
+  </div>
 </div>
 
 
@@ -47,6 +50,24 @@
   }
 
   var projectList = new List('projects', options);
+
+  projectList.on('updated', function(list) {
+    if (list.matchingItems.length > 0) {
+      document.getElementById("no-result").style.display = 'hidden'
+    } else {
+      document.getElementById("no-result").style.display = 'block'
+    }
+  });
+
+  const resetFilter = () => {
+    filters = {
+      category: [],
+      type: [],
+      status: [],
+      participants: []
+    }
+    updateList()
+  }
 
   const updateList = () => {
     projectList.filter(function(item) {

@@ -69,6 +69,9 @@
         </li>
       <?php endforeach ?>
     </ul>
+    <div id="no-result" class="hidden">
+      <p>No people found</p>
+    </div>
   </section>
 </div>
 <?php snippet('footer') ?>
@@ -86,6 +89,14 @@
   }
 
   var peopleList = new List('people', options);
+
+  peopleList.on('updated', function(list) {
+    if (list.matchingItems.length > 0) {
+      document.getElementById("no-result").style.display = 'hidden'
+    } else {
+      document.getElementById("no-result").style.display = 'block'
+    }
+  });
 
   const updateList = () => {
     peopleList.filter(function(item) {
