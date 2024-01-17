@@ -42,7 +42,7 @@ if ($items->isNotEmpty()) :
           $seperator = $item->seperator()->toBool()
           ?>
 
-          <li class="button <?php if ($link->isActive()) echo 'active-page' ?>">
+          <li class="button border-none py-2 <?php if ($link->isActive()) echo 'active-page' ?>">
             <a class="block" href="<?= $link->url() ?>"><?= $link->title() ?></a>
           </li>
           <?php if ($item->seperator()->toBool() === true) : ?>

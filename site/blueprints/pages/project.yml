@@ -55,7 +55,7 @@ columns:
             type: tags
             options:
               type: query
-              query: site.page("project-categories").children.published
+              query: site.find('projects').children.pluck("category", ",", true)
           date:
             type: date
             time: false
@@ -105,6 +105,6 @@ columns:
           members:
             label: Members
             type: pages
-            query: site.find('people')
+            query: site.find('people').children
           contact:
             type: email

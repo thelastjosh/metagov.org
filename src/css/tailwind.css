@@ -12,7 +12,7 @@
   }
 
   .tag.active {
-    @apply text-white border-brand bg-brand;
+    @apply text-white dark:text-default border-brand bg-brand;
   }
 
   .tag.primary {
@@ -24,11 +24,11 @@
   }
 
   .tag.secondary {
-    @apply text-secondary border-secondary bg-secondary bg-opacity-5 hover:bg-[#008060] hover:bg-opacity-[15%];
+    @apply text-default border-secondary bg-secondary bg-opacity-5 hover:bg-[#008060] hover:bg-opacity-[15%];
   }
 
   .tag.secondary.active {
-    @apply text-white border-secondary bg-secondary;
+    @apply text-white dark:text-default border-secondary bg-secondary dark:border-white dark:bg-white;
   }
 
   .tag.grayscale {
@@ -60,7 +60,7 @@
   }
 
   .button {
-    @apply hover:bg-brand/10 p-2;
+    @apply hover:bg-brand/15 px-2 py-1 text-brand font-sans text-small border-brand border rounded-sm;
   }
 
   .active-page {

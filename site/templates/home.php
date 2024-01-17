@@ -1,12 +1,7 @@
-<?php
-
-$windows = $page->windows()->toStructure();
-
-?>
 <style>
   .chaos-window-1 {
-    top: 30%;
-    left: 30%;
+    top: 28%;
+    left: 33%;
     z-index: 1000;
   }
 
@@ -47,8 +42,8 @@ $windows = $page->windows()->toStructure();
   }
 
   .chaos-window-8 {
-    top: 75%;
-    left: 18%;
+    top: 80%;
+    left: 10%;
     z-index: 993;
   }
 
@@ -76,10 +71,10 @@ $windows = $page->windows()->toStructure();
       if (width < 1024) {
       order = true
       }">
-  <image class="w-[480px] h-[480px] fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 -z-10" alt="Dithered image of the globe in green" src="/src/globe-dithered.png" width="480px" height="480px" />
+  <image class="p-8 sm:p-0 sm:w-[480px] sm:h-[480px] fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 -z-10" alt="Dithered image of the globe in green" src="/src/globe-dithered.png" width="480px" height="480px" />
   <?php snippet('chaos-order') ?>
   <!-- chaos -->
-  <div x-cloak x-show="!order" x-transition.duration.450ms x-transition:enter.delay.500ms class="min-h-[calc(100vh-250px)] relative mt-16" :class="order ? 'opacity-0 ' : ''" id="window-container">
+  <div x-cloak x-show="!order" x-transition.duration.450ms x-transition:enter.delay.500ms style="height: <?php echo $chaosHeight ?>px" class="min-h-[calc(100vh-250px)] relative mt-16 mb-16" :class="order ? 'opacity-0 ' : ''" id="window-container">
     <?php foreach ($windows as $index => $window) : ?>
       <article x-data="{ open : false }" @click="open = true" class="draggable absolute w-[450px] h-[275px] chaos-window-<?= $index + 1 ?> prose">
         <?php $content = $window->description()->kt();
