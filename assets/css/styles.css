@@ -794,6 +794,55 @@ table td {
   }
 }
 
+.prose h1 {
+  font-family: Inter;
+  font-size: 3rem;
+  line-height: 48px;
+  font-weight: 600;
+  margin: 1rem 0 2rem;
+}
+
+.prose h2 {
+  font-family: Inter;
+  font-size: 2.25rem;
+  line-height: 36px;
+  font-weight: 600;
+  margin: 1rem 0;
+}
+
+.prose h3 {
+  font-family: Inter;
+  font-size: 1.5rem;
+  line-height: 28.8px;
+  font-weight: 600;
+  margin: 1rem 0;
+}
+
+.prose h4 {
+  font-family: Inter;
+  font-size: 1.25rem;
+  line-height: 24px;
+  font-weight: 600;
+  margin: 1rem 0;
+}
+
+.prose h5 {
+  font-family: Inter;
+  font-size: 1rem;
+  line-height: 19.2px;
+  font-weight: 600;
+  margin: 1rem 0;
+}
+
+.prose h6,
+  .h6 {
+  font-family: input-mono-narrow;
+  font-size: 0.75rem;
+  line-height: 12px;
+  font-weight: 500;
+  margin: 1rem 0;
+}
+
 .fixed {
   position: fixed;
 }
@@ -850,10 +899,6 @@ table td {
   z-index: 9999;
 }
 
-.m-8 {
-  margin: 2rem;
-}
-
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -876,6 +921,10 @@ table td {
   margin-bottom: 3rem;
 }
 
+.mb-16 {
+  margin-bottom: 4rem;
+}
+
 .mb-2 {
   margin-bottom: 0.5rem;
 }
@@ -896,20 +945,12 @@ table td {
   margin-right: 0.5rem;
 }
 
-.mt-0 {
-  margin-top: 0px;
-}
-
 .mt-16 {
   margin-top: 4rem;
 }
 
 .mt-\[-5\.5rem\] {
   margin-top: -5.5rem;
-}
-
-.mb-16 {
-  margin-bottom: 4rem;
 }
 
 .block {
@@ -968,26 +1009,6 @@ table td {
   min-height: calc(100vh - 250px);
 }
 
-.min-h-\[calc\(100vh\+250px\)\] {
-  min-height: calc(100vh + 250px);
-}
-
-.min-h-\[calc\(100vh\+200px\)\] {
-  min-height: calc(100vh + 200px);
-}
-
-.min-h-\[calc\(100vh\+150px\)\] {
-  min-height: calc(100vh + 150px);
-}
-
-.min-h-\[100vh-250px\] {
-  min-height: 100vh-250px;
-}
-
-.min-h-\[100vh-250\] {
-  min-height: 100vh-250;
-}
-
 .w-1\/2 {
   width: 50%;
 }
@@ -1002,6 +1023,10 @@ table td {
 
 .w-\[450px\] {
   width: 450px;
+}
+
+.w-\[600px\] {
+  width: 600px;
 }
 
 .w-full {
@@ -1031,6 +1056,10 @@ table td {
 
 .max-w-\[924px\] {
   max-width: 924px;
+}
+
+.flex-shrink-0 {
+  flex-shrink: 0;
 }
 
 .shrink-0 {
@@ -1284,8 +1313,13 @@ table td {
 }
 
 .text-large {
-  font-size: 2rem;
-  line-height: 28px;
+  font-size: 1.5rem;
+  line-height: 28.8px;
+}
+
+.text-medium {
+  font-size: 1.25rem;
+  line-height: 24px;
 }
 
 .text-small {
@@ -1303,6 +1337,16 @@ table td {
   line-height: 36px;
 }
 
+.text-xs {
+  font-size: 0.75rem;
+  line-height: 12px;
+}
+
+.text-xxl {
+  font-size: 3rem;
+  line-height: 48px;
+}
+
 .text-xxs {
   font-size: 0.625rem;
   line-height: 10px;
@@ -1314,6 +1358,10 @@ table td {
 
 .font-semibold {
   font-weight: 600;
+}
+
+.italic {
+  font-style: italic;
 }
 
 .text-brand {
@@ -1432,54 +1480,6 @@ p {
 hr {
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
-}
-
-h1 {
-  font-family: Inter;
-  font-size: 3rem;
-  line-height: 48px;
-  font-weight: 600;
-  margin: 1rem 0 2rem;
-}
-
-h2 {
-  font-family: Inter;
-  font-size: 2.25rem;
-  line-height: 36px;
-  font-weight: 600;
-  margin: 1rem 0;
-}
-
-h3 {
-  font-family: Inter;
-  font-size: 2rem;
-  line-height: 28px;
-  font-weight: 600;
-  margin: 1rem 0;
-}
-
-h4 {
-  font-family: Inter;
-  font-size: 1.25rem;
-  line-height: 24px;
-  font-weight: 600;
-  margin: 1rem 0;
-}
-
-h5 {
-  font-family: Inter;
-  font-size: 1rem;
-  line-height: 19.2px;
-  font-weight: 600;
-  margin: 1rem 0;
-}
-
-h6 {
-  font-family: input-mono-narrow;
-  font-size: 0.75rem;
-  line-height: 12px;
-  font-weight: 500;
-  margin: 1rem 0;
 }
 
 .hover\:bg-brand\/10:hover {
