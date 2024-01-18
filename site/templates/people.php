@@ -1,7 +1,7 @@
 <?php snippet('header') ?>
 <div id="people" class="container">
   <div class="mb-8">
-    <h1><?= $page->title()->esc() ?></h1>
+    <h1 class="text-xxl"><?= $page->title()->esc() ?></h1>
     <h2 class="text-large font-serif font-normal">
       <?= $page->subHeading()->esc() ?>
     </h2>
@@ -37,7 +37,7 @@
 
   <section>
     <div class="mb-8 flex justify-between items-center">
-      <h3>Community directory</h3>
+      <h3 class="text-medium">Community directory</h3>
       <div class="flex flex-col lg:flex-row lg:items-center gap-2 lg:gap-4">
         <span>FILTERS:</span>
         <?php snippet('blocks/filter', ['filters' => $roles, 'group' => 'role', 'label' => 'Role']) ?>
@@ -49,23 +49,23 @@
       <?php foreach ($page->children()->listed() as $person) : ?>
         <li class="cursor-pointer p-2 rounded-sm hover:outline hover:outline-brand hover:bg-brand/10" x-data="{ open : false }" @click="open = true" data-title="<?= $person->title() ?>" data-role="<?= $person->role() ?? null ?>" data-research-interests="<?= $person->interests() ?? null ?>">
           <?php if ($image = $person->image()) : ?>
-            <img class="w-full border border-brand/30 rounded mb-4" src="<?= $image->crop(154, 120, "center")->url() ?>" srcset="<?= $image->srcset(
+            <img class="w-full border border-brand/30 rounded mb-4" src="<?= $image->crop(200, 200, "center")->url() ?>" srcset="<?= $image->srcset(
                                                                                                                                     [
-                                                                                                                                      '1x'  => ['width' => 154, 'height' => 120, 'crop' => 'center'],
-                                                                                                                                      '2x'  => ['width' => 308, 'height' => 240, 'crop' => 'center'],
-                                                                                                                                      '3x'  => ['width' => 462, 'height' => 360, 'crop' => 'center'],
+                                                                                                                                      '1x'  => ['width' => 200, 'height' => 200, 'crop' => 'center'],
+                                                                                                                                      '2x'  => ['width' => 400, 'height' => 400, 'crop' => 'center'],
+                                                                                                                                      '3x'  => ['width' => 600, 'height' => 600, 'crop' => 'center'],
                                                                                                                                     ]
                                                                                                                                   ) ?>" alt="<?= $image->alt()->esc() ?>" width="<?= $image->resize(154)->width() ?>" height="<?= $image->resize(235)->height() ?>">
           <?php endif ?>
-          <p class="text-secondary mb-1"><?= $person->title() ?></p>
-          <p class="mb-1"><?= $person->affiliation() ?></p>
+          <p class="text-small text-secondary mb-1"><?= $person->title() ?></p>
+          <p class="mb-1 italic font-serif"><?= $person->affiliation() ?></p>
           <span class="button inline-block mb-1"><?= $person->role()->split()[0] ?></span>
 
           <div>
             <a href="<?= $person->website() ?>" target="_blank">🌐 www</a>
             <a href="mailto:<?= $person->email() ?>" target="_blank" class="ml-4">📧 email</a>
           </div>
-          <?php snippet('modal', ['page' => $person, 'title' => $person->title(), 'subheading' => '']) ?>
+          <?php snippet('modal', ['page' => $person, 'title' => $person->title(), 'subheading' => '', 'small' => 'true']) ?>
         </li>
       <?php endforeach ?>
     </ul>

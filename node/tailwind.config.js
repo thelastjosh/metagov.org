@@ -29,7 +29,7 @@ module.exports = {
       tag: ["0.875rem", "14px"],
       small: ["1rem", "19.2px"],
       medium: ["1.25rem", "24px"],
-      large: ["2rem", "28px"],
+      large: ["1.5rem", "28.8px"],
       xl: ["2.25rem", "36px"],
       xxl: ["3rem", "48px"],
     },
