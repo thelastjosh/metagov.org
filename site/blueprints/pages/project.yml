@@ -39,9 +39,14 @@ columns:
         type: textarea
         maxlength: 600
       participate:
-        label: Participate
+        label: Paths to participating
         type: textarea
-        help: Paths to participating + discussion forum
+        when:
+          seeking_participants: true
+        required: true
+      discussion_forum:
+        type: textarea
+        label: Discussion forum
       meetings:
         type: textarea
 
@@ -60,7 +65,7 @@ columns:
             type: date
             time: false
             default: now
-          projectStatus:
+          project_status:
             label: Project status
             type: tags
             options:
@@ -69,7 +74,7 @@ columns:
               - "Paused"
               - "Pending Funding"
               - "Inactive"
-          seekingParticipants:
+          seeking_participants:
             label: Seeking participants
             type: toggle
             text:
@@ -98,7 +103,7 @@ columns:
               - "Market Intervention"
               - "Data Standards"
               - "Technical Standard"
-          researchDirectors:
+          research_directors:
             label: Research Directors
             type: pages
             query: site.find('people').children.filterBy('role','researchDirector')
