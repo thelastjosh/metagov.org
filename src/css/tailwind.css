@@ -139,6 +139,10 @@
     font-weight: 500;
     margin: 1rem 0;
   }
+
+  .search {
+    @apply hover:bg-brand/15 bg-white dark:bg-default p-2 text-brand placeholder-brand/75 font-sans text-small border-brand border rounded-sm;
+  }
 }
 
 /* scrollbar */
@@ -167,4 +171,16 @@ p {
 
 hr {
   @apply my-6;
+}
+
+.pagination {
+  @apply flex gap-1 my-4;
+}
+
+.page {
+  @apply hover:bg-brand/15 px-2 py-1 text-brand font-sans text-small border-brand border rounded-sm;
+}
+
+.active .page {
+  @apply text-white dark:text-default bg-brand;
 }
