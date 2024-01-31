@@ -16,14 +16,13 @@ fields:
       in_order:
         label: Show in ordered tab
         type: toggle
-        default: "Yes"
+        default: true
         text:
           - "No"
           - "Yes"
       width_order:
         label: Width of windows in ordered tab
         type: toggle
-        default: "Half width"
         text:
           - "Half width"
           - "Full width"
