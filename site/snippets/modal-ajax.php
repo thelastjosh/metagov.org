@@ -27,7 +27,7 @@ if ($page)
         // remove content of modal when we close it
         document.getElementById("modal-content").innerHTML = "";
         // change browser url to previous state
-        window.history.back();
+        history.replaceState(1, '', '/')
       }, 300);
     }
   }

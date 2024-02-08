@@ -78,7 +78,17 @@
     <?php foreach ($windows as $index => $window) : ?>
       <?php $content = $window->description()->kt();
       $page = $window->page()->toPage() ?>
-      <?php if ($content != "") : ?>
+      <?php if ($page) : ?>
+        <button class="draggable absolute w-[450px] h-[275px] chaos-window-<?= $index + 1 ?> prose" href="#" @click="$dispatch('toggle_modal')" hx-get="<?= $page->url() ?>" hx-replace-url="true" hx-target="#modal-content" hx-swap="innerHTML settle:5s">
+          <?php snippet('window', ['title' => $window->title(), 'subheading' => $window->subheading()], slots: true) ?>
+
+          <?php if ($image = $page->cover()->toFile()) : ?>
+            <img class="w-full h-full object-cover" src="<?= $image->url() ?>" alt="<?= $image->alt()->esc() ?>">
+          <?php endif ?>
+          <?php endsnippet() ?>
+
+        </button>
+      <?php elseif ($content != "") : ?>
         <button class="draggable absolute w-[450px] h-[275px] chaos-window-<?= $index + 1 ?> prose" x-data="{ open: false }" @click="open = true">
           <?php snippet('window', ['title' => $window->title(), 'subheading' => $window->subheading()], slots: true) ?>
 
@@ -89,16 +99,7 @@
           <?php endsnippet() ?>
 
         </button>
-      <?php elseif ($page) : ?>
-        <button class="draggable absolute w-[450px] h-[275px] chaos-window-<?= $index + 1 ?> prose" href="#" @click="$dispatch('toggle_modal')" hx-get="<?= $page->url() ?>" hx-push-url="true" hx-target="#modal-content" hx-swap="innerHTML settle:5s">
-          <?php snippet('window', ['title' => $window->title(), 'subheading' => $window->subheading()], slots: true) ?>
 
-          <?php if ($image = $page->cover()->toFile()) : ?>
-            <img class="w-full h-full object-cover" src="<?= $image->url() ?>" alt="<?= $image->alt()->esc() ?>">
-          <?php endif ?>
-          <?php endsnippet() ?>
-
-        </button>
       <?php endif ?>
     <?php endforeach ?>
   </div>
@@ -129,29 +130,5 @@
 
 </div>
 
-
-
 <?php snippet('footer', ['title' => 'Hello!', 'subheading' => 'Subheading']) ?>
-
-
-<script>
-  const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches
-
-  Draggable.create(".draggable");
-
-  const animateWindows = () => {
-    if (prefersReducedMotion) return
-    gsap.fromTo(".draggable", {
-      opacity: 0,
-      scale: 0.5
-    }, {
-      scale: 1,
-      opacity: 1,
-      duration: 0.3,
-      ease: "expo.out",
-      stagger: 0.15, // 0.1 seconds between when each ".box" element starts animating
-    });
-  }
-
-  animateWindows()
-</script>
+<?= js('assets/js/home.js') ?>
