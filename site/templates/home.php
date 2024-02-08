@@ -1,7 +1,10 @@
 <style>
   .chaos-window-1 {
-    top: 28%;
-    left: 33%;
+    top: 26%;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
     z-index: 1000;
   }
 
