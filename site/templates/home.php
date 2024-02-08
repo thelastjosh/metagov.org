@@ -87,6 +87,10 @@
 
           <?php if ($image = $page->cover()->toFile()) : ?>
             <img class="w-full h-full object-cover" src="<?= $image->url() ?>" alt="<?= $image->alt()->esc() ?>">
+          <?php elseif ($content != "") : ?>
+            <div class="p-4 overflow-auto pointer-events-none">
+              <?= $content->kt() ?>
+            </div>
           <?php endif ?>
           <?php endsnippet() ?>
 
@@ -111,22 +115,35 @@
   <div x-cloak x-show="order" class="grid md:grid-cols-2 gap-4 md:gap-6 max-w-[924px] mx-auto mt-16" x-transition.duration.450ms x-transition:enter.delay.500ms>
     <?php foreach ($windows as $index => $window) : ?>
       <?php if ($window->in_order()->toBool() === true) : ?>
-        <article x-data="{ open: false }" @click="open = true" class="<?php if ($window->width_order()->toBool() === true) echo 'md:col-span-2' ?> h-[275px] cursor-pointer prose">
-          <?php $content = $window->description()->kt();
-          $page = $window->page()->toPage() ?>
-          <?php snippet('window', ['title' => $window->title(), 'subheading' => $window->subheading()], slots: true) ?>
-          <?php if ($content != "") : ?>
-            <div class="p-4 overflow-auto">
-              <?= $content->kt() ?>
-            </div>
-          <?php elseif ($page) : ?>
+        <?php $content = $window->description()->kt();
+        $page = $window->page()->toPage() ?>
+        <?php if ($page) : ?>
+          <button class="<?php if ($window->width_order()->toBool() === true) echo 'md:col-span-2' ?> h-[275px] cursor-pointer prose href=" #" @click="$dispatch('toggle_modal')" hx-get="<?= $page->url() ?>" hx-replace-url="true" hx-target="#modal-content" hx-swap="innerHTML settle:5s">
+            <?php snippet('window', ['title' => $window->title(), 'subheading' => $window->subheading()], slots: true) ?>
+
             <?php if ($image = $page->cover()->toFile()) : ?>
               <img class="w-full h-full object-cover" src="<?= $image->url() ?>" alt="<?= $image->alt()->esc() ?>">
+            <?php elseif ($content != "") : ?>
+              <div class="p-4 overflow-auto pointer-events-none">
+                <?= $content->kt() ?>
+              </div>
             <?php endif ?>
-          <?php endif ?>
-          <?php endsnippet() ?>
-          <?php snippet('modal', ['content' => $content, 'page' => $page, 'title' => $window->title(), 'subheading' => $window->subheading()]) ?>
-        </article>
+            <?php endsnippet() ?>
+
+          </button>
+        <?php elseif ($content != "") : ?>
+          <button class="<?php if ($window->width_order()->toBool() === true) echo 'md:col-span-2' ?> h-[275px] cursor-pointer prose class=" x-data="{ open: false }" @click="open = true">
+            <?php snippet('window', ['title' => $window->title(), 'subheading' => $window->subheading()], slots: true) ?>
+
+            <div class="p-4 overflow-auto pointer-events-none">
+              <?= $content->kt() ?>
+            </div>
+            <?php snippet('modal', ['content' => $content, 'title' => $window->title(), 'subheading' => $window->subheading()]) ?>
+            <?php endsnippet() ?>
+
+          </button>
+
+        <?php endif ?>
       <?php endif ?>
     <?php endforeach ?>
   </div>
