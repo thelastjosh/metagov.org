@@ -170,8 +170,6 @@
       }
     }
 
-    console.log(filters)
-
     updateList()
   }
 </script>
