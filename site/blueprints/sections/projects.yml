@@ -4,5 +4,5 @@ parent: kirby.page("projects")
 info: "{{ page.date.toDate('d.m.Y') }}"
 template: project
 empty: No projects yet
-sortBy: title desc
+sortBy: title asc
 search: true

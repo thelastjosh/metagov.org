@@ -9,6 +9,14 @@ columns:
         label: Subheading
         type: text
         validate: notEmpty
+      cover:
+        label: Cover image
+        type: files
+        multiple: false
+        layout: cards
+        size: large
+        uploads:
+          template: image
       content:
         type: blocks
         label: Content

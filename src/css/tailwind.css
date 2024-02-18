@@ -8,6 +8,8 @@
 
 html {
   scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 @layer components {
@@ -51,8 +53,8 @@ html {
     @apply font-serif text-medium mb-8;
   }
 
-  .prose a {
-    @apply underline text-white;
+  .prose a, .main a {
+    @apply underline underline-offset-4;
   }
 
   table th {
@@ -199,6 +201,9 @@ hr {
 
 .pagination {
   @apply flex gap-1 my-4;
+}
+.pagination a {
+  text-decoration: none;
 }
 
 .page {

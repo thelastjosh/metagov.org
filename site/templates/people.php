@@ -104,7 +104,7 @@
   <div id="no-result" class="hidden">
     <p>No people found</p>
   </div>
-  <ul class="pagination"></ul>
+  <ul class="pagination justify-center"></ul>
 
 </section>
 </div>

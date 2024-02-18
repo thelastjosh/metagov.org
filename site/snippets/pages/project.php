@@ -69,6 +69,8 @@
       </div>
     </div>
 
+    
+
     <!-- Project body -->
     <?php if ($page->description()->isNotEmpty()) : ?>
       <div class="mb-8">
@@ -115,6 +117,29 @@
         </div>
       </div>
     <?php endif ?>
+
+      <hr />
+
+    <div class="flex flex-wrap">
+      <div class="flex-auto text-left">
+        <?php
+          $collection = $page->siblings()->sortBy('title', 'asc');
+          if($prev = $page->prevListed($collection)): ?>
+            &larr; <a href="<?= $prev->url() ?>"><?= $prev->title() ?></a>
+        <?php endif ?>
+      </div>
+
+      <div class="flex-auto text-center">
+        <a href="<?= $page->parent()->url() ?>">All projects</a>
+      </div>
+
+      <div class="flex-auto text-right">
+        <?php
+          $collection = $page->siblings()->sortBy('title', 'asc');
+          if($next = $page->nextListed($collection)): ?>
+            <a href="<?= $next->url() ?>"><?= $next->title() ?></a> &rarr;
+          <?php endif ?>
+      </div>
 
   </article>
 </div>
