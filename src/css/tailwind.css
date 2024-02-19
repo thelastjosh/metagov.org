@@ -45,6 +45,7 @@ html {
     @apply text-white border-default bg-default;
   }
 
+  
   .prose h3 {
     @apply font-sans text-small;
   }
@@ -52,8 +53,11 @@ html {
   .prose p {
     @apply font-serif text-medium mb-8;
   }
+  .prose li {
+    @apply font-serif text-medium mb-2;
+  }
 
-  .prose a, .main a {
+  .prose a {
     @apply underline underline-offset-4;
   }
 
@@ -118,7 +122,7 @@ html {
   .prose h2 {
     @apply font-sans text-xl;
     font-weight: 600;
-    margin: 1rem 0;
+    margin: 2rem 0 1rem;
   }
 
   .prose h3 {
@@ -172,6 +176,9 @@ html {
 }
 
 /* scrollbar */
+.modal-text p, .modal-text li {
+  @apply text-small text-left;
+}
 
 .window-scrollbar *::-webkit-scrollbar {
   width: 1em;
@@ -199,11 +206,18 @@ hr {
   @apply my-6;
 }
 
+li {
+  @apply font-serif text-left list-disc mb-2 ml-4;
+}
+li a {
+  @apply no-underline;
+}
+
 .pagination {
   @apply flex gap-1 my-4;
 }
 .pagination a {
-  text-decoration: none;
+  @apply no-underline;
 }
 
 .page {

@@ -88,7 +88,7 @@
           <?php if ($image = $page->cover()->toFile()) : ?>
             <img class="w-full h-full object-cover" src="<?= $image->url() ?>" alt="<?= $image->alt()->esc() ?>">
           <?php elseif ($content != "") : ?>
-            <div class="p-4 overflow-auto pointer-events-none">
+            <div class="modal-text p-4 overflow-auto pointer-events-none">
               <?= $content->kt() ?>
             </div>
           <?php endif ?>
@@ -99,7 +99,7 @@
         <button class="draggable absolute w-[450px] h-[275px] chaos-window-<?= $index + 1 ?> prose" x-data="{ open: false }" @click="open = true">
           <?php snippet('window', ['title' => $window->title(), 'subheading' => $window->subheading()], slots: true) ?>
 
-          <div class="p-4 overflow-auto pointer-events-none">
+          <div class="modal-text p-4 overflow-auto pointer-events-none">
             <?= $content->kt() ?>
           </div>
           <?php snippet('modal', ['content' => $content, 'title' => $window->title(), 'subheading' => $window->subheading()]) ?>
@@ -124,7 +124,7 @@
             <?php if ($image = $page->cover()->toFile()) : ?>
               <img class="w-full h-full object-cover" src="<?= $image->url() ?>" alt="<?= $image->alt()->esc() ?>">
             <?php elseif ($content != "") : ?>
-              <div class="p-4 overflow-auto pointer-events-none">
+              <div class="modal-text p-4 overflow-auto pointer-events-none">
                 <?= $content->kt() ?>
               </div>
             <?php endif ?>
@@ -135,7 +135,7 @@
           <button class="<?php if ($window->width_order()->toBool() === true) echo 'md:col-span-2' ?> h-[275px] cursor-pointer prose class=" x-data="{ open: false }" @click="open = true">
             <?php snippet('window', ['title' => $window->title(), 'subheading' => $window->subheading()], slots: true) ?>
 
-            <div class="p-4 overflow-auto pointer-events-none">
+            <div class="modal-text p-4 overflow-auto pointer-events-none">
               <?= $content->kt() ?>
             </div>
             <?php snippet('modal', ['content' => $content, 'title' => $window->title(), 'subheading' => $window->subheading()]) ?>

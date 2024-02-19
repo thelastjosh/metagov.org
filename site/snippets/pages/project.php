@@ -19,7 +19,7 @@
   </div>
 
   <?php if ($page->cover()->isNotEmpty()) : ?>
-    <img class="mb-8" src="<?= $page->image()->url() ?>" alt="<?= $page->image()->alt()->esc() ?>">
+    <img class="mb-8 border border-brand shadow-window hover:shadow-windowhover transition-[opacity,box-shadow]" src="<?= $page->image()->url() ?>" alt="<?= $page->image()->alt()->esc() ?>">
   <?php endif ?>
 
   <article>
