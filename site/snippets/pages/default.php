@@ -10,7 +10,7 @@ if ($page->width()->toBool()) {
 <div class="container <?= $width ?> py-8">
   <div class="mb-8">
     <h1 class="text-xxl mb-2"><?= $page->title()->esc() ?></h1>
-    <h2 class="font-serif text-large">
+    <h2 class="text-large">
       <?= $page->subHeading()->esc() ?>
     </h2>
   </div>

@@ -5,6 +5,9 @@
 [x-cloak] {
   display: none !important;
 }
+a:hover {
+  transition: all 0.1s linear;
+}
 
 html {
   scroll-behavior: smooth;
@@ -14,7 +17,7 @@ html {
 
 @layer components {
   .tag {
-    @apply px-3 pt-2 pb-1 rounded-[20px] border-2 uppercase font-mono inline-block text-tag text-brand border-brand bg-default bg-opacity-5 hover:bg-brand hover:bg-opacity-5;
+    @apply px-3 pt-1 pb-1 rounded-[20px] border uppercase font-mono inline-block text-tag text-brand border-brand bg-default bg-opacity-5 hover:bg-brand hover:bg-opacity-5;
   }
 
   .tag.active {
@@ -46,19 +49,25 @@ html {
   }
 
   
+  article h3,
   .prose h3 {
     @apply font-sans text-small;
   }
 
+  article p,
   .prose p {
     @apply font-serif text-medium mb-8;
   }
+  article li,
   .prose li {
     @apply font-serif text-medium mb-2;
   }
 
-  .prose a {
-    @apply underline underline-offset-4;
+  article a,
+  .prose a,
+  .modal-text a,
+  div.embedded_schedule a {
+    @apply underline underline-offset-4 text-default hover:text-brand dark:text-white dark:hover:text-brand;
   }
 
   table th {
@@ -66,7 +75,7 @@ html {
   }
 
   table td {
-    @apply p-2 border-b border-secondary/20;
+    @apply p-2 border-b border-secondary/20 font-serif;
   }
 
   .button {
@@ -113,36 +122,42 @@ html {
     }
   }
 
+  article h1,
   .prose h1 {
     @apply font-sans text-xxl;
     font-weight: 600;
     margin: 1rem 0 2rem;
   }
 
+  article h2,
   .prose h2 {
     @apply font-sans text-xl;
     font-weight: 600;
     margin: 2rem 0 1rem;
   }
 
+  article h3,
   .prose h3 {
     @apply font-sans text-large;
     font-weight: 600;
     margin: 1rem 0;
   }
 
+  article h4,
   .prose h4 {
     @apply font-sans text-medium;
     font-weight: 600;
     margin: 1rem 0;
   }
 
+  article h5,
   .prose h5 {
     @apply font-sans text-small;
     font-weight: 600;
-    margin: 1rem 0;
+    margin: 0.5rem 0;
   }
 
+  article h6,
   .prose h6,
   .h6 {
     @apply font-mono text-xs;
@@ -206,7 +221,7 @@ hr {
   @apply my-6;
 }
 
-li {
+.prose li {
   @apply font-serif text-left list-disc mb-2 ml-4;
 }
 li a {

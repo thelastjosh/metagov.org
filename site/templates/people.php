@@ -2,7 +2,7 @@
 <div class="container">
   <div class="mb-8">
     <h1 class="text-xxl"><?= $page->title()->esc() ?></h1>
-    <h2 class="text-large font-serif font-normal">
+    <h2 class="text-large font-normal">
       <?= $page->subHeading()->esc() ?>
     </h2>
   </div>
@@ -36,7 +36,7 @@
             <?php $index += 1 ?>
             <li>
               <p class="text-secondary dark:text-secondary-dark mb-0"><?= $person->title() ?></p>
-              <p class="font-serif"><?= $person->affiliation() ?></p>
+              <p class="font-serif italic leading-5"><?= $person->affiliation() ?></p>
             </li>
           <?php endforeach ?>
         </ul>
@@ -84,7 +84,7 @@
                                                                                                                                         ) ?>" alt="<?= $image->alt()->esc() ?>" width="<?= $image->resize(154)->width() ?>" height="<?= $image->resize(235)->height() ?>">
 
         <p class="text-small text-secondary dark:text-secondary-dark mb-1"><?= $person->title() ?></p>
-        <p class="mb-1 italic font-serif line-clamp-1"><?= $person->affiliation() ?></p>
+        <p class="mb-1 italic font-serif line-clamp-1 leading-4"><?= $person->affiliation() ?></p>
         <?php if ($person->role()->isNotEmpty()) : ?>
           <span class="button inline-block mb-1"><?= $person->role()->split()[0] ?></span>
         <?php endif ?>

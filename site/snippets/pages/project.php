@@ -13,7 +13,7 @@
         <a href="#participate" class="tag secondary active block" @click="participate = true">✅ SEEKING PARTICIPANTS</a>
       <?php endif ?>
     </div>
-    <h2 class="font-serif text-large">
+    <h2 class="text-large">
       <?= $page->subheading()->esc() ?>
     </h2>
   </div>
