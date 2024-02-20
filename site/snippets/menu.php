@@ -38,7 +38,7 @@ if ($items->isNotEmpty()) :
       <ul>
         <?php foreach ($items as $item) : ?>
           <?php
-          $link = $item->page()->related()->toPage();
+          $link = $item->page()->toPage();
           $seperator = $item->seperator()->toBool()
           ?>
 
