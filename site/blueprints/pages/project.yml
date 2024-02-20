@@ -44,11 +44,9 @@ columns:
         when:
           seeking_participants: true
         required: true
-      discussion_forum:
-        type: textarea
-        label: Discussion forum
       meetings:
         type: textarea
+        label: Meetings
 
   sidebar:
     width: 1/3
@@ -95,6 +93,8 @@ columns:
               - "Tool"
               - "Publication"
               - "Community of Practice"
+              - "Cross-group Collaboration"
+              - "Fundraising"
               - "Guidebook"
               - "Data Set"
               - "Coordination Tool"
