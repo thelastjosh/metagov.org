@@ -79,7 +79,7 @@
   <!-- chaos -->
   <div x-cloak x-show="!order" x-transition.duration.450ms x-transition:enter.delay.500ms style="height: <?php echo $chaosHeight ?>px" class="min-h-[calc(100vh-250px)] relative mt-16 mb-16" :class="order ? 'opacity-0 ' : ''" id="window-container">
     <?php foreach ($windows as $index => $window) : ?>
-      <?php $content = $window->description()->kt();
+      <?php $content = $window->description();
       $page = $window->page()->toPage() ?>
       <?php if ($page) : ?>
         <button class="draggable absolute w-[450px] h-[275px] chaos-window-<?= $index + 1 ?> prose" href="#" @click="$dispatch('toggle_modal')" hx-get="<?= $page->url() ?>" hx-replace-url="true" hx-target="#modal-content" hx-swap="innerHTML settle:5s">
@@ -95,7 +95,7 @@
           <?php endsnippet() ?>
 
         </button>
-      <?php elseif ($content != "") : ?>
+      <?php elseif ($content) : ?>
         <button class="draggable absolute w-[450px] h-[275px] chaos-window-<?= $index + 1 ?> prose" x-data="{ open: false }" @click="open = true">
           <?php snippet('window', ['title' => $window->title(), 'subheading' => $window->subheading()], slots: true) ?>
 
@@ -115,7 +115,7 @@
   <div x-cloak x-show="order" class="grid md:grid-cols-2 gap-4 md:gap-6 max-w-[924px] mx-auto mt-16" x-transition.duration.450ms x-transition:enter.delay.500ms>
     <?php foreach ($windows as $index => $window) : ?>
       <?php if ($window->in_order()->toBool() === true) : ?>
-        <?php $content = $window->description()->kt();
+        <?php $content = $window->description();
         $page = $window->page()->toPage() ?>
         <?php if ($page) : ?>
           <button class="<?php if ($window->width_order()->toBool() === true) echo 'md:col-span-2' ?> h-[275px] cursor-pointer prose href=" @click="$dispatch('toggle_modal')" hx-get="<?= $page->url() ?>" hx-replace-url="true" hx-target="#modal-content" hx-swap="innerHTML settle:5s">
@@ -131,7 +131,7 @@
             <?php endsnippet() ?>
 
           </button>
-        <?php elseif ($content != "") : ?>
+        <?php elseif ($content) : ?>
           <button class="<?php if ($window->width_order()->toBool() === true) echo 'md:col-span-2' ?> h-[275px] cursor-pointer prose class=" x-data="{ open: false }" @click="open = true">
             <?php snippet('window', ['title' => $window->title(), 'subheading' => $window->subheading()], slots: true) ?>
 
