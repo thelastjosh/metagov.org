@@ -82,8 +82,8 @@
       <?php $content = $window->description();
       $page = $window->page()->toPage() ?>
       <?php if ($page) : ?>
-        <button class="draggable absolute w-[450px] h-[275px] chaos-window-<?= $index + 1 ?> prose" href="#" @click="$dispatch('toggle_modal')" hx-get="<?= $page->url() ?>" hx-replace-url="true" hx-target="#modal-content" hx-swap="innerHTML settle:5s">
-          <?php snippet('window', ['title' => $window->title(), 'subheading' => $window->subheading()], slots: true) ?>
+        <button class="draggable absolute w-[450px] h-[275px] chaos-window-<?= $index + 1 ?> prose" href="#" @click="$dispatch('toggle_modal')" hx-get="<?= $page->url() ?>" hx-replace-url="true" hx-target="#modal-content" hx-swap="innerHTML">
+          <?php snippet('window', ['title' => $page->title(), 'subheading' => $page->subheading()], slots: true) ?>
 
           <?php if ($image = $page->cover()->toFile()) : ?>
             <img class="w-full h-full object-cover" src="<?= $image->url() ?>" alt="<?= $image->alt()->esc() ?>">
@@ -118,7 +118,7 @@
         <?php $content = $window->description();
         $page = $window->page()->toPage() ?>
         <?php if ($page) : ?>
-          <button class="<?php if ($window->width_order()->toBool() === true) echo 'md:col-span-2' ?> h-[275px] cursor-pointer prose href=" @click="$dispatch('toggle_modal')" hx-get="<?= $page->url() ?>" hx-replace-url="true" hx-target="#modal-content" hx-swap="innerHTML settle:5s">
+          <button class="<?php if ($window->width_order()->toBool() === true) echo 'md:col-span-2' ?> h-[275px] cursor-pointer prose href=" @click="$dispatch('toggle_modal')" hx-get="<?= $page->url() ?>" hx-replace-url="true" hx-target="#modal-content" hx-swap="innerHTML">
             <?php snippet('window', ['title' => $window->title(), 'subheading' => $window->subheading()], slots: true) ?>
 
             <?php if ($image = $page->cover()->toFile()) : ?>
