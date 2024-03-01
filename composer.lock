@@ -4,8 +4,108 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "82fa057b1add2d44c618896f98267c86",
+    "content-hash": "bfa3a9b19a57e6a0939af58a7d519475",
     "packages": [
+        {
+            "name": "bnomei/kirby3-redirects",
+            "version": "4.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bnomei/kirby3-redirects.git",
+                "reference": "813ced3e3b086bbcc32e62767fe358dfc9a0e590"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bnomei/kirby3-redirects/zipball/813ced3e3b086bbcc32e62767fe358dfc9a0e590",
+                "reference": "813ced3e3b086bbcc32e62767fe358dfc9a0e590",
+                "shasum": ""
+            },
+            "require": {
+                "getkirby/composer-installer": "^1.2",
+                "php": ">=8.1"
+            },
+            "require-dev": {
+                "getkirby/cms": "^4.1.0",
+                "php-coveralls/php-coveralls": "^2.4",
+                "phpunit/phpunit": "^9.5",
+                "spatie/ray": "^1.41"
+            },
+            "suggest": {
+                "bnomei/kirby3-csv": "Adds functions to import and export data from structures (like the redirect table)",
+                "bnomei/kirby3-feed": "Add xml-rss and/or json feed",
+                "bnomei/kirby3-robots-txt": "Automatic robots.txt. Detects xmlsitemap.",
+                "bnomei/kirby3-security-headers": "CPS headers to make the the web a saver place. Sensible defaults with zero configuration.",
+                "distantnative/retour-for-kirby": "Better choice than bnomei\\kirby3-redirects if you are porting a Kirby 2 website.",
+                "omz13/kirby3-xmlsitemap": "Adds a xml sitemap"
+            },
+            "type": "kirby-plugin",
+            "extra": {
+                "kirby-cms-path": "tests/kirby"
+            },
+            "autoload": {
+                "psr-4": {
+                    "Bnomei\\": "classes/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Bruno Meilick",
+                    "email": "b@bnomei.com"
+                }
+            ],
+            "description": "Setup performant HTTP Status Code Redirects from within the Kirby Panel",
+            "homepage": "https://github.com/bnomei/kirby3-redirects",
+            "keywords": [
+                "301",
+                "302",
+                "307",
+                "308",
+                "attack",
+                "defense",
+                "dos",
+                "firewall",
+                "hack",
+                "header",
+                "kirby",
+                "kirby-cms",
+                "kirby-plugin",
+                "performance",
+                "placeholder",
+                "protection",
+                "redirect",
+                "redirects",
+                "regex",
+                "shield",
+                "status-codes"
+            ],
+            "support": {
+                "issues": "https://github.com/bnomei/kirby3-redirects/issues",
+                "source": "https://github.com/bnomei/kirby3-redirects/tree/v4.2.0"
+            },
+            "funding": [
+                {
+                    "url": "https://buymeacoff.ee/bnomei",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://paypal.me/bnomei",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/bnomei",
+                    "type": "github"
+                },
+                {
+                    "url": "https://www.patreon.com/bnomei",
+                    "type": "patreon"
+                }
+            ],
+            "time": "2024-02-09T11:23:20+00:00"
+        },
         {
             "name": "christian-riesen/base32",
             "version": "1.6.0",

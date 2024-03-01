@@ -72,3 +72,7 @@ tabs:
             image:
               ratio: 1/1
               cover: true
+  redirects:
+    icon: shuffle
+    sections:
+      extends: plugin-redirects3xx
