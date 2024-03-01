@@ -40,6 +40,8 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*) index.php [L]
 
+Redirect 307 /old-page/ https://www.yourdomain.com/new-page/
+
 </IfModule>
 
 # pass the Authorization header to PHP
