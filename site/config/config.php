@@ -1,7 +1,15 @@
 <?php
-
 return [
-  'debug' => true,
+  'ready' => function ($kirby) {
+    return [
+      'debug' => kirby()->user() && kirby()->user()->role()->isAdmin()
+    ];
+  },
+  'cache' => [
+    'pages' => [
+      'active' => true,
+    ]
+  ],
   'markdown' => [
     'extra' => true
   ],
