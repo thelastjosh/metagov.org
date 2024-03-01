@@ -2,9 +2,9 @@
   <div class="mb-12">
     <h1 class="text-xl font-semibold mb-2">Projects</h1>
   </div>
-  <div class="mb-12 flex flex-col md:flex-row items-center gap-2 lg:gap-4">
+  <div class="mb-12 flex flex-col lg:flex-row lg:items-center gap-2 lg:gap-4">
     <span>FILTERS:</span>
-    <input class="hidden md:block search" placeholder="Search" />
+    <input class="search w-full md:w-1/2 lg:w-auto" placeholder="Search" />
     <?php snippet('blocks/filter', ['filters' => $categories, 'group' => 'category', 'label' => 'Category']) ?>
     <?php snippet('blocks/filter', ['filters' => $types, 'group' => 'type', 'label' => 'Project type']) ?>
     <?php snippet('blocks/filter', ['filters' => $status, 'group' => 'status', 'label' => 'Status']) ?>

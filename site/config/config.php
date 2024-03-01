@@ -5,11 +5,12 @@ return [
       'debug' => kirby()->user() && kirby()->user()->role()->isAdmin()
     ];
   },
-  'cache' => [
-    'pages' => [
-      'active' => true,
-    ]
-  ],
+  // issue with caching and htmx modals, enable when fixed.
+  // 'cache' => [
+  //   'pages' => [
+  //     'active' => true,
+  //   ]
+  // ],
   'markdown' => [
     'extra' => true
   ],

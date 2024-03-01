@@ -113,17 +113,10 @@ main {
   /* basic styles for the svg */
   .filter-checkbox svg {
     @apply w-4 h-4;
-    * {
-      transition: all 0.1s linear;
-    }
+    transition: opacity 0.1s linear;
   }
 
   /* style changes inside the svg when the checkbox is checked */
-  .filter-checkbox input[type="checkbox"]:checked + svg {
-    .checkmark {
-      @apply fill-brand;
-    }
-  }
 
   article h1,
   .prose h1 {
