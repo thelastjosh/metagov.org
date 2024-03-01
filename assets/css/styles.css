@@ -1563,6 +1563,10 @@ article h6,
   color: rgb(0 128 96 / var(--tw-text-opacity));
 }
 
+.underline {
+  text-decoration-line: underline;
+}
+
 .opacity-0 {
   opacity: 0;
 }
