@@ -4,6 +4,7 @@
   </div>
   <div class="mb-12 flex flex-col md:flex-row items-center gap-2 lg:gap-4">
     <span>FILTERS:</span>
+    <input class="hidden md:block search" placeholder="Search" />
     <?php snippet('blocks/filter', ['filters' => $categories, 'group' => 'category', 'label' => 'Category']) ?>
     <?php snippet('blocks/filter', ['filters' => $types, 'group' => 'type', 'label' => 'Project type']) ?>
     <?php snippet('blocks/filter', ['filters' => $status, 'group' => 'status', 'label' => 'Status']) ?>
@@ -36,7 +37,7 @@
 
 
 <script>
-  let filters = {
+  var filters = {
     category: [],
     type: [],
     status: [],
@@ -59,7 +60,7 @@
     }
   });
 
-  const resetFilter = () => {
+  var resetFilter = () => {
     filters = {
       category: [],
       type: [],
@@ -69,7 +70,7 @@
     updateList()
   }
 
-  const updateList = () => {
+  var updateList = () => {
     projectList.filter(function(item) {
       let category = false
       let type = false
@@ -100,15 +101,12 @@
         participants = false
       }
 
-      console.log(filters)
-      console.log(item.values())
-
       if (category && type && status && participants) return true
       else return false
     })
   }
 
-  const toggleFilter = (e) => {
+  var toggleFilter = (e) => {
     const checked = e.target.checked
     const value = e.target.dataset.value
     const group = e.target.dataset.group
@@ -121,8 +119,6 @@
         filters[group].splice(index, 1);
       }
     }
-
-    console.log(filters)
 
     updateList()
   }

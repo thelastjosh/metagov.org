@@ -31,11 +31,11 @@
           <?= $role ?>
         </h3>
         <?php $people = $page->children()->filterBy('role', $role, ',') ?>
-        <ul class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-2 gap-4">
+        <ul class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-2 gap-4 mb-8">
           <?php foreach ($people as $person) : ?>
             <?php $index += 1 ?>
             <li>
-              <p class="text-secondary dark:text-secondary-dark mb-0"><?= $person->title() ?></p>
+              <a href="/people/<?= $person->slug() ?>" class="text-secondary dark:text-secondary-dark mb-0"><?= $person->title() ?></a>
               <p class="font-serif italic leading-5"><?= $person->affiliation() ?></p>
             </li>
           <?php endforeach ?>
@@ -66,22 +66,22 @@
     </div>
   </div>
 
-  <ul class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6 gap-4 sm:gap-6 mx-auto list">
+  <ul class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 sm:gap-6 mx-auto list">
     <?php foreach ($page->children()->listed() as $person) : ?>
-      <li class="cursor-pointer p-2 rounded-sm hover:outline hover:outline-brand hover:bg-brand/10" x-data="{ open : false }" @click="open = true" data-title="<?= $person->title() ?>" data-role="<?= $person->role() ?? null ?>" data-research-interests="<?= $person->interests() ?? null ?>">
+      <li class="cursor-pointer p-2 rounded-sm hover:outline hover:outline-brand hover:bg-brand/10" x-data="{ openPerson : false }" @click="openPerson = true" data-title="<?= $person->title() ?>" data-role="<?= $person->role() ?? null ?>" data-research-interests="<?= $person->interests() ?? null ?>">
         <?php
         if ($person->image()) :
           $image = $person->image();
         else :
-          $image = $site->avatar();
+          $image = $site->avatar()->toFile();
         endif ?>
-        <img class="w-full border border-brand/30 rounded mb-4" src="<?= $image->toFile()->crop(200, 200, "center")->url() ?>" srcset="<?= $image->srcset(
-                                                                                                                                          [
-                                                                                                                                            '1x'  => ['width' => 200, 'height' => 200, 'crop' => 'center'],
-                                                                                                                                            '2x'  => ['width' => 400, 'height' => 400, 'crop' => 'center'],
-                                                                                                                                            '3x'  => ['width' => 600, 'height' => 600, 'crop' => 'center'],
-                                                                                                                                          ]
-                                                                                                                                        ) ?>" alt="<?= $image->alt()->esc() ?>" width="<?= $image->resize(154)->width() ?>" height="<?= $image->resize(235)->height() ?>">
+        <img class="w-full border border-brand/30 rounded mb-4" src="<?= $image->crop(300, 300, "center")->url() ?>" srcset="<?= $image->srcset(
+                                                                                                                                [
+                                                                                                                                  '1x'  => ['width' => 300, 'height' => 300, 'crop' => 'center'],
+                                                                                                                                  '2x'  => ['width' => 600, 'height' => 600, 'crop' => 'center'],
+                                                                                                                                  '3x'  => ['width' => 900, 'height' => 900, 'crop' => 'center'],
+                                                                                                                                ]
+                                                                                                                              ) ?>" alt="<?= $image->alt()->esc() ?>" width="<?= $image->resize(154)->width() ?>" height="<?= $image->resize(235)->height() ?>">
 
         <p class="text-small text-secondary dark:text-secondary-dark mb-1"><?= $person->title() ?></p>
         <p class="mb-1 italic font-serif line-clamp-1 leading-4"><?= $person->affiliation() ?></p>
@@ -97,7 +97,7 @@
             </a>
           <?php endforeach ?>
         </div>
-        <?php snippet('modal', ['page' => $person, 'title' => $person->title(), 'subheading' => '', 'small' => 'true']) ?>
+        <?php snippet('modal-person', ['page' => $person, 'title' => $person->title(), 'subheading' => '', 'small' => 'true']) ?>
       </li>
     <?php endforeach ?>
   </ul>
@@ -111,7 +111,7 @@
 <?php snippet('footer') ?>
 
 <script>
-  let filters = {
+  var filters = {
     role: [],
     researchInterests: []
   }
@@ -134,7 +134,7 @@
     }
   });
 
-  const updateList = () => {
+  var updateList = () => {
     peopleList.filter(function(item) {
       let role = false
       let researchInterests = false
@@ -156,7 +156,7 @@
     })
   }
 
-  const toggleFilter = (e) => {
+  var toggleFilter = (e) => {
     const checked = e.target.checked
     const value = e.target.dataset.value
     const group = e.target.dataset.group

@@ -15,6 +15,10 @@ html {
   -moz-osx-font-smoothing: grayscale;
 }
 
+main {
+  min-height: calc(100vh - 200px);
+}
+
 @layer components {
   .tag {
     @apply px-3 pt-1 pb-1 rounded-[20px] border uppercase font-mono inline-block text-tag text-brand border-brand bg-default bg-opacity-5 hover:bg-brand hover:bg-opacity-5;
@@ -48,7 +52,6 @@ html {
     @apply text-white border-default bg-default;
   }
 
-  
   article h3,
   .prose h3 {
     @apply font-sans text-small;
@@ -93,8 +96,8 @@ html {
   }
 
   .filter-checkbox input[type="checkbox"] {
-    @apply absolute opacity-0 w-4 h-4;
-    right: 26px;
+    @apply absolute opacity-0 w-4 h-4 cursor-pointer;
+    right: 8px;
   }
 
   /* visually show focus outline when the SVG receives focus */
@@ -191,7 +194,8 @@ html {
 }
 
 /* scrollbar */
-.modal-text p, .modal-text li {
+.modal-text p,
+.modal-text li {
   @apply text-small text-left;
 }
 
