@@ -14,6 +14,10 @@ return [
   'markdown' => [
     'extra' => true
   ],
+  'url' => [
+    'https://metagov.org',
+    'https://www.metagov.org'
+  ],
   'blocks' => [
     'fieldsets' => [
       'text' => [
