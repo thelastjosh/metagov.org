@@ -6,7 +6,11 @@
 
 # enable awesome urls. i.e.:
 # http://yourdomain.com/about-us/team
-RewriteEngine on
+RewriteEngine On
+
+# redirect www to naked domain
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
 
 # make sure to set the RewriteBase correctly
 # if you are running the site in a subfolder;
