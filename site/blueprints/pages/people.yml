@@ -55,11 +55,14 @@ tabs:
     icon: user
     fields:
       avatars:
-        extends: sections/image
+        type: files
+        layout: cards
+        info: "{{ file.dimensions }}"
         label: Avatars
         help: Default images used for when person does not provide image
-        required: true
         multiple: true
+        uploads:
+          template: image
         image:
           ratio: 1/1
           cover: true
