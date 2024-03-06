@@ -58,7 +58,6 @@ tabs:
         extends: sections/image
         label: Avatars
         help: Default images used for when person does not provide image
-        max: 10
         required: true
         multiple: true
         image:
