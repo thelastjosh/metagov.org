@@ -33,7 +33,7 @@
   <article>
 
     <!-- Project meta -->
-    <div class="mb-8 grid grid-cols-2 md:grid-cols-3 justify-evenly gap-6">
+    <div class="mb-8 grid md:grid-cols-3 md:justify-evenly gap-6">
       <div>
         <?php if ($page->links()->isNotEmpty()) : ?>
           <h5 class="mb-2">LINKS</h5>
@@ -56,9 +56,9 @@
           <?php endforeach ?>
         <?php endif ?>
       </div>
-      <div>
+      <div class="col-span-2">
         <?php if ($page->contact()->isNotEmpty()) : ?>
-          <div class="mb-4">
+          <div class="mb-8">
             <h5 class="mb-2">PRINCIPLE CONTACT</h5>
             <?= Html::email($page->contact()) ?>
           </div>
