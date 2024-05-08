@@ -63,13 +63,23 @@
             <?= Html::email($page->contact()) ?>
           </div>
         <?php endif ?>
+        <?php if ($page->research_directors()->isNotEmpty()) : ?>
+          <div class="mb-8">
+            <h5 class="mb-2">RESEARCH DIRECTORS</h5>
+            <?php
+            $researchDirectors =  $page->research_directors()->toPages();
+            foreach ($researchDirectors as $person) : ?>
+              <a class="inline-block mr-2" href="/people/<?= $person->slug() ?>"><?= $person->title() ?></a>
+            <?php endforeach ?>
+          </div>
+        <?php endif ?>
         <?php if ($page->members()->isNotEmpty()) : ?>
           <div>
             <h5 class="mb-2">PARTICIPANTS</h5>
             <?php
-            $members =  $page->members()->toPages();
-            foreach ($members as $member) : ?>
-              <a class="inline-block mr-2" href="/people/<?= $member->slug() ?>"><?= $member->title() ?></a>
+            $participants =  $page->members()->toPages();
+            foreach ($participants as $person) : ?>
+              <a class="inline-block mr-2" href="/people/<?= $person->slug() ?>"><?= $person->title() ?></a>
             <?php endforeach ?>
           </div>
         <?php endif ?>
