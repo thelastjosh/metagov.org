@@ -61,6 +61,18 @@
     right: 12%;
     z-index: 991;
   }
+
+  .chaos-window-11 {
+    top: 80%;
+    right: 20%;
+    z-index: 990;
+  }
+
+  .chaos-window-12 {
+    top: 84%;
+    left: 8%;
+    z-index: 989;
+  }
 </style>
 
 <?php snippet('header') ?>

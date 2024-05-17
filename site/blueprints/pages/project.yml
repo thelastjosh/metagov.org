@@ -110,7 +110,7 @@ columns:
             type: pages
             query: site.find('people').children
           members:
-            label: Participants
+            label: Contributors
             type: pages
             query: site.find('people').children
           contact:

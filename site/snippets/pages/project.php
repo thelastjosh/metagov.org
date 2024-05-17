@@ -75,7 +75,7 @@
         <?php endif ?>
         <?php if ($page->members()->isNotEmpty()) : ?>
           <div>
-            <h5 class="mb-2">PARTICIPANTS</h5>
+            <h5 class="mb-2">CONTRIBUTORS</h5>
             <?php
             $participants =  $page->members()->toPages();
             foreach ($participants as $person) : ?>
