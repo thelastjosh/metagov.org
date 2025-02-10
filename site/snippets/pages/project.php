@@ -9,7 +9,11 @@
     <!-- End Nav -->
 
     <div class="mb-2 flex gap-4 items-center">
-      <h1 class="text-xxl"><?= $page->title()->esc() ?></h1>
+     
+      <h1 class="text-xxl">
+        <?= $page->title()->esc() ?>
+      </h1>
+
       <?php foreach ($page->projectStatus()->split() as $key => $status) : ?>
         <?php if ($key == 0) : ?>
           <span class="tag active"><?= $status ?></span>
@@ -56,7 +60,7 @@
           <?php endforeach ?>
         <?php endif ?>
       </div>
-      <div class="col-span-2">
+      <div>
         <?php if ($page->contact()->isNotEmpty()) : ?>
           <div class="mb-8">
             <h5 class="mb-2">PRINCIPLE CONTACT</h5>

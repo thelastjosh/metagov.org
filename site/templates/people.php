@@ -1,5 +1,5 @@
 <?php snippet('header') ?>
-<div class="container">
+<div class="container max-w-4xl py-8">
   <div class="mb-8">
     <h1 class="text-xxl"><?= $page->title()->esc() ?></h1>
     <h2 class="text-large font-normal">

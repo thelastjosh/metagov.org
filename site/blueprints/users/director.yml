@@ -1,0 +1,39 @@
+title: Director
+description: Research Directors can only edit the pages they're assigned to
+# home: /panel/pages
+permissions:
+  access:
+    account: true
+    panel: true
+    site: false
+    languages: false
+    system: false
+    users: false
+  files: true
+  languages: false
+  pages:
+    access: true
+    changeSlug: true
+    changeStatus: true
+    changeTemplate: false
+    changeTitle: true
+    create: true
+    delete: false
+    edit: true
+    list: true
+    move: true
+    duplicate: true
+    preview: true
+    read: true
+    sort: true
+    update: true
+  site: false
+  user: # applies to current user
+    changeEmail: true
+    changeLanguage: true
+    changeName: true
+    changePassword: true
+    changeRole: false
+    delete: false
+    update: true
+  users: false # applies to other users 
