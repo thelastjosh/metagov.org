@@ -1039,7 +1039,11 @@ iframe {
   z-index: 9999;
 }
 
-.mx-auto{
+.col-span-2 {
+  grid-column: span 2 / span 2;
+}
+
+.mx-auto {
   margin-left: auto;
   margin-right: auto;
 }
@@ -1336,7 +1340,7 @@ iframe {
   justify-content: space-between;
 }
 
-.gap-2{
+.gap-2 {
   gap: 0.5rem;
 }
 
@@ -1846,8 +1850,8 @@ li a{
   color: rgb(70 211 202 / var(--tw-text-opacity));
 }
 
-@media (min-width: 640px){
-  .sm\:h-\[480px\]{
+@media (min-width: 640px) {
+  .sm\:h-\[480px\] {
     height: 480px;
   }
 
@@ -1889,11 +1893,11 @@ li a{
     grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 
-  .md\:justify-evenly{
+  .md\:justify-evenly {
     justify-content: space-evenly;
   }
 
-  .md\:gap-4{
+  .md\:gap-4 {
     gap: 1rem;
   }
 
