@@ -244,13 +244,16 @@ hr {
 li a {
   @apply no-underline;
 }
+li a:hover {
+  @apply underline;
+}
 
 .pagination {
   @apply flex gap-1 my-4;
 }
-.pagination a {
+/* .pagination a {
   @apply no-underline;
-}
+} */
 
 .page {
   @apply hover:bg-brand/15 px-2 py-1 text-brand font-sans text-small border-brand border rounded-sm;

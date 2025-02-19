@@ -24,9 +24,9 @@ module.exports = {
       padding: "1rem",
     },
     fontSize: {
-      xxs: ["0.625rem", "0.8rem"],
-      xs: ["0.75rem", "1rem"],
+      xxs: ["0.825rem", "0.8rem"],
       tag: ["0.875rem", "1rem"],
+      xs: ["0.9rem", "1rem"],
       small: ["1rem", "1.4rem"],
       medium: ["1.2rem", "1.8rem"],
       large: ["1.6rem", "2rem"],
@@ -37,6 +37,9 @@ module.exports = {
       sans: ["Inter"],
       serif: ["EB Garamond", "Times", "Times New Roman"],
       mono: ["input-mono-narrow"],
+    },
+    screens: {
+      'xs': '598px'
     }
   },
   plugins: [],
