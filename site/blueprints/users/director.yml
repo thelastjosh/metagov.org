@@ -1,5 +1,5 @@
 title: Director
-description: Research directors in charge of a project
+description: Research Directors can only edit the pages they're assigned to
 
 permissions:
   access:
