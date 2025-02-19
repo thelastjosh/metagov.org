@@ -37,9 +37,6 @@ module.exports = {
       sans: ["Inter"],
       serif: ["EB Garamond", "Times", "Times New Roman"],
       mono: ["input-mono-narrow"],
-    },
-    screens: {
-      'xs': '598px'
     }
   },
   plugins: [],
