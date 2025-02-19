@@ -66,10 +66,12 @@
         <?php if ($page->research_directors()->isNotEmpty()) : ?>
           <div class="mb-8">
             <h5 class="mb-2">RESEARCH DIRECTORS</h5>
-            <?php
-            $researchDirectors =  $page->research_directors()->toPages();
-            foreach ($researchDirectors as $person) : ?>
-              <a class="inline-block mr-2" href="/people/<?= $person->slug() ?>"><?= $person->title() ?></a>
+            <?php 
+              $researchDirectors = $page->research_directors()->toUsers();
+              foreach ($researchDirectors as $person) : ?>
+              <a class="inline-block mr-2" href="<?= $person->personPage()->toPage()->url() ?>">
+                <?php echo $person->name() ?>
+              </a>
             <?php endforeach ?>
           </div>
         <?php endif ?>
