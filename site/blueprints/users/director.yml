@@ -1,6 +1,6 @@
 title: Director
 description: Research Directors can only edit the pages they're assigned to
-# home: /panel/pages
+
 permissions:
   access:
     account: true
