@@ -72,8 +72,6 @@
               <a class="inline-block mr-2" href="<?= $person->personPage()->toPage()->url() ?>">
                 <?php echo $person->name() ?>
               </a>
-
-              <!-- <a class="inline-block mr-2" href="/people/<?= $person->slug() ?>"><?= $person->title() ?></a> -->
             <?php endforeach ?>
           </div>
         <?php endif ?>

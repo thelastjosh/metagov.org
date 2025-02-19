@@ -1,7 +1,7 @@
 <?php
 
 return function ($site, $kirby) {
-    // BUG WIP: $user needs to be changed from the logged in user (which is Admin, when setting a Director's permissions), to the active Director role being created. If that Director has a personPage set, then they should be able to access it. Create a new collection here to include it with the collection of all projects.
+    // BUG WIP: $user needs to be changed from the logged in user (which is Admin, when setting a Director's permissions), to the active Director role being created. If that Director has a personPage set, then they should be able to access it. Create a new collection here to include it with the collection of all projects. 
 
     // Get the logged-in user
     $user = $kirby->user();
