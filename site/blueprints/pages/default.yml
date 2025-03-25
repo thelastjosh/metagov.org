@@ -23,6 +23,9 @@ columns:
   sidebar:
     width: 1/3
     sections:
+      ## add in to allow switching pages
+      bouncernav:
+        type: bouncernav
       meta:
         type: fields
         fields:
