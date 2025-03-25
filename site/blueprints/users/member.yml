@@ -1,17 +1,22 @@
-title: Person
-num: date
-icon: user
+title: Member
+description: Members who can change their own bio and account info, but nothing else
 
-status:
-  draft: true
-  listed: true
+permissions:
+  access:
+    *: false
+    account: true
+    panel: true
+    home: "account"
+  user:
+    changeEmail: true
+    changeName: true
+    changePassword: true
+    changeRole: false # Can't change your role, can change everything else
 
+## EXPERIMENTAL: Attaching Person page fields over to the member
 columns:
   main:
     width: 2/3
-    ## add in to allow switching pages
-    bouncernav:
-      type: bouncernav
     fields:
       affiliation:
         type: text
@@ -52,6 +57,12 @@ columns:
   sidebar:
     width: 1/3
     fields:
+      personPage: # TO BE DEPRECATED (connecting to bio page)
+        label: 'Link to person page'
+        type: pages
+        multiple: false
+        options: query
+        query: site.find('people').children
       role:
         type: tags
         options:

@@ -1,18 +1,32 @@
-title: Person
-num: date
-icon: user
+title: Editor
+description: Editors can only edit the pages they're assigned to (including Research Directors)
 
-status:
-  draft: true
-  listed: true
+permissions:
+  access:
+    account: true
+    panel: true
+    settings: false
+    site: true
+    system: false
+    languages: false
+    users: false
+    home: "account"
+  user:
+    changeRole: false  # Can't change your role, can change everything else
+    delete: false
+    update: false
+
 
 columns:
   main:
     width: 2/3
-    ## add in to allow switching pages
-    bouncernav:
-      type: bouncernav
     fields:
+      canaccess: # using the Bouncer plugin, select pages user should get limited to
+        label: 'The user will only be able to access:'
+        type: pages
+        multiple: true
+        options: query
+        query: site.pages # Editors can access any particular subpages, Directors should focus on Projects
       affiliation:
         type: text
         label: Organization affiliation
@@ -52,6 +66,12 @@ columns:
   sidebar:
     width: 1/3
     fields:
+      personPage: # TO BE DEPRECATED (connecting to bio page)
+        label: 'Link to person page'
+        type: pages
+        multiple: false
+        options: query
+        query: site.find('people').children
       role:
         type: tags
         options:

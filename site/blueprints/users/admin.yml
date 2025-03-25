@@ -1,18 +1,18 @@
-title: Person
-num: date
-icon: user
+title: Admin
+description: Admin user
 
-status:
-  draft: true
-  listed: true
+permissions:
+  access:
+    *: true
+  user:
+    *: true
+
 
 columns:
   main:
     width: 2/3
-    ## add in to allow switching pages
-    bouncernav:
-      type: bouncernav
     fields:
+## EXPERIMENTAL: Attaching Person page fields over to the member
       affiliation:
         type: text
         label: Organization affiliation
@@ -52,6 +52,12 @@ columns:
   sidebar:
     width: 1/3
     fields:
+      personPage: # TO BE DEPRECATED (connecting to bio page)
+        label: 'Link to person page'
+        type: pages
+        multiple: false
+        options: query
+        query: site.find('people').children
       role:
         type: tags
         options:
