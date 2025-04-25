@@ -12,7 +12,7 @@ http://164.90.138.103/
     * Install node: `npm install` (into node folder)
     * `npm run watch`
     * `npm run build`
-* For pushing to live site, SSH into Digital Ocean (may require connecting to Dokku?)
+* For pushing to live site, SSH into Digital Ocean
 
 https://getkirby.com/docs/reference/panel/fields/line
 
