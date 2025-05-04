@@ -62,4 +62,4 @@ Icon
 kirby/vendor
 
 # Ignore content folder for now
-/content
+# /content
