@@ -1,0 +1,97 @@
+Title: Eric Siu
+
+----
+
+Bio: Professional investor in crypto. Research topics and focus primarily around protocol-level topics
+
+----
+
+Links: 
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: CryptoShire
+
+----
+
+Contributing: 
+
+----
+
+Interests: cooperatives
+
+----
+
+Research-experience: crypto / DAOs / web3,economics
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Govbase* - A lab building research data sets in online governance.,*Modpol *- A self-governance toolkit for communities in online worlds.,*DAOstar *- DAO standards working groups.,*Telescope*- A Discord bot for ethical and responsive digital ethnography.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 2/14/2023 9:43pm
+
+----
+
+Uuid: ndSoSZcnjiPxK69M

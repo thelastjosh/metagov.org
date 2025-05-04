@@ -1,0 +1,101 @@
+Title: Sophia Knight
+
+----
+
+Bio: I'm Sophia, a digital policy researcher at the think tank Demos based in London, UK. My interests include technomoral virtues, platform infrastructures, labour & governance, esp. tools for decentralised decision-making such as Pol.is.
+
+----
+
+Links:
+
+- 
+  text: Twitter
+  url: https://twitter.com/sophia_a_knight
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: 
+
+----
+
+Interests: civic engagement,economics,human computer interaction (HCI),crypto / DAOs / web3,policy / law,quantitative methods,software development,somatic practices
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Cartographies of Internet Metagovernance* - Metagov research and governance mapping project,*Telescope *- A Discord bot for ethical and responsive digital ethnography.,*Modpol *- A self-governance toolkit for communities in online worlds.,*DAOstar *- DAO standards working groups.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: je5ocxfZoRd2Q4Da

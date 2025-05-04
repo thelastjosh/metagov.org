@@ -1,0 +1,57 @@
+Title: Marcus Khoo
+
+----
+
+Affiliation: DAOstar, Research Fellow
+
+----
+
+Image: 
+
+----
+
+Bio: 
+
+----
+
+Links: 
+
+----
+
+Email: 
+
+----
+
+Interests: 
+
+----
+
+Contributions: 
+
+----
+
+Role: Team
+
+----
+
+Projects: projects/daostar
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: false
+
+----
+
+Uuid: X3zKU1QtZfPLtKKu

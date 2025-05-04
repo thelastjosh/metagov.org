@@ -1,0 +1,101 @@
+Title: Daniel Friedman
+
+----
+
+Bio: I am a researcher (entomology, genomics, cognitive security) and organizer (Complexity Weekend & Active Inference Lab).
+
+----
+
+Links:
+
+- 
+  text: 🌐 Website
+  url: https://www.danielarifriedman.com/
+
+----
+
+Role: Member,Contributor,Participant
+
+----
+
+Affiliation: Complexity Weekend
+
+----
+
+Contributing: Funding, Listening, Building, Synthesizing, Facilitating, Applying, Quantitatively, Conversing, Peer Reviewing, Theorizing
+
+----
+
+Interests: cooperatives,quantitative methods,crypto / DAOs / web3,civic engagement
+
+----
+
+Research-experience: cooperatives,online community / web2,quantitative methods,offline governance,qualitative methods,human computer interaction (HCI),civic engagement,crypto / DAOs / web3,social theory,complexity,active inference
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Metagov Gateway,Modpol
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: Complexity Weekend
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: true
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: tiqe1oKQBncYGIJB

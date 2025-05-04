@@ -1,0 +1,101 @@
+Title: Jackson Berry
+
+----
+
+Bio: I'm Jackson, I'm a video game designer in Los Angeles making games that experiment with governance and ways of being. You can find short previews of my work at communion.games, reach out to me for more!
+
+----
+
+Links:
+
+- 
+  text: Website
+  url: https://communion.games/
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Building, Conversing, Applying
+
+----
+
+Interests: social theory,quantitative methods,human computer interaction (HCI),cooperatives
+
+----
+
+Research-experience: software development,human computer interaction (HCI),online community / web2,crypto / DAOs / web3
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,*Metagov Gateway* - A unified API gateway for digital governance services.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: 2D95ehbgkDbLQKOT

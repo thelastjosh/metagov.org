@@ -1,0 +1,97 @@
+Title: John Bodin
+
+----
+
+Bio: I have 25 years experience in providing governence services and have been  General Manager at Election Trust LLC (electiontrust.com) since 2003. I am also a Founder and President at Forum LCA, a start-up Platform Co-op building and providing a governace utility to Patron member communities.
+
+----
+
+Links: 
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: Forum Cooperative LCA
+
+----
+
+Contributing: Applying, Building, Synthesizing
+
+----
+
+Interests: civic engagement,cooperatives,offline governance,crypto / DAOs / web3,online community / web2,policy / law,human computer interaction (HCI)
+
+----
+
+Research-experience: offline governance,cooperatives
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Metagov Gateway* - A unified API gateway for digital governance services.,*Modpol *- A self-governance toolkit for communities in online worlds.,*Govbase* - An open database of projects and tools in online governance.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:03
+
+----
+
+Uuid: xswHpn9yQvqcL118

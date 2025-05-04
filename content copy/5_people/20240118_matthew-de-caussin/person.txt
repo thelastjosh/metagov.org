@@ -1,0 +1,110 @@
+Title: Matthew de Caussin
+
+----
+
+Bio:
+
+On the core team at PsyDAO, a decentralized collective funding research at the intersection of psychedelics and mental health. 
+Kernel Block 7, Seed Club SC05. 
+
+Inspired by how DAOs can be a coordinating structure for communities to realize the original, radical vision for the internet.
+
+----
+
+Links:
+
+- 
+  text: 🌐 Research Collective
+  url: https://psydao.io/  - 
+  text: 🐤 Twitter
+  url: https://twitter.com/MattdeCaussin  - 
+  text: 🔗 Link Tree
+  url: https://links.mattdecaussin.com/
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: https://psydao.io/
+
+----
+
+Contributing: 
+
+----
+
+Interests: cooperatives,human computer interaction (HCI)
+
+----
+
+Research-experience: crypto / DAOs / web3,cooperatives
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *DAOstar *- DAO standards working groups.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: l0rgFZoScFMH5HKj

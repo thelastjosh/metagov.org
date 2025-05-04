@@ -1,0 +1,62 @@
+Title: B Cavello
+
+----
+
+Affiliation: The Aspen Institute
+
+----
+
+Image: 
+
+----
+
+Bio: 
+
+----
+
+Links:
+
+- 
+  text: Aspen Intitute Profile
+  url: >
+    https://www.aspeninstitute.org/people/b-cavello/
+
+----
+
+Email: 
+
+----
+
+Interests: 
+
+----
+
+Contributions: 
+
+----
+
+Role: Board, Member, Contributor
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: false
+
+----
+
+Uuid: S61UAxPM7uoLs3Ew

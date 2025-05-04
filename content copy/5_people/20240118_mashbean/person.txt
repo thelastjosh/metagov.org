@@ -1,0 +1,97 @@
+Title: mashbean
+
+----
+
+Bio: I'am mashbean, a DAO contributor in Taiwan & currently work in Taiwan Government for DAO & web3 development.
+
+----
+
+Links: 
+
+----
+
+Role: 
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: "I am know hosting a project ""Plural Entrance"" for researching and experimenting the DAO environment in Taiwan Gov perspective with community. There could be some cool ongoing project in the sandbox."
+
+----
+
+Interests: cooperatives,human computer interaction (HCI),quantitative methods
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *DAOstar *- DAO standards working groups.,*Cartographies of Internet Metagovernance* - Metagov research and governance mapping project
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:19
+
+----
+
+Uuid: onPQlwUI23viqtuW

@@ -1,0 +1,64 @@
+Title: Liz Barry
+
+----
+
+Affiliation: Executive Director
+
+----
+
+Image: - file://BWD596R6PNi4eZrU
+
+----
+
+Bio:
+
+Liz Barry is the Executive Director of Metagov.
+Before joining Metagov, she served as Head of Partnerships at The Computational Democracy Project, the 501(c)3 organization she established with the creators of the Polis technology to steward its open source code and methods. Liz works with facilitators, social movements, civil society organizations, journalists, indigenous nations, democratic governments both young and old, and peacebuilders to implement "listening at scale." The collaboration began when her presence at Taiwan's 2014 Sunflower Revolution and subsequent relationship with g0v led to her writing up the first coverage of vTaiwan in the west, in the 2016 piece for Civicist titled "vTaiwan: Public Participation Methods on the Cyberpunk Frontier of Democracy," now republished by Taiwan's government.
+
+----
+
+Links:
+
+- 
+  text: https://lizbarry.net
+  url: ""
+
+----
+
+Email: liz@metagov.org
+
+----
+
+Interests: self-determination, collective action, movement technology
+
+----
+
+Contributions: 
+
+----
+
+Role: Team, Research Director
+
+----
+
+Projects: projects/interop, projects/public-ai
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 2024-10-01
+
+----
+
+Public: true
+
+----
+
+Uuid: 9mbR1N0oCxke0G9i

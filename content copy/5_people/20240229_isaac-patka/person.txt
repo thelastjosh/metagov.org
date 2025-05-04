@@ -1,0 +1,122 @@
+Title: Isaac Patka
+
+----
+
+Affiliation: Research Fellow
+
+----
+
+Image: 
+
+----
+
+Bio: 
+
+----
+
+Links:
+
+- 
+  text: LinkedIn
+  url: >
+    https://www.linkedin.com/in/isaac-patka-417b4328/
+
+----
+
+Email: 
+
+----
+
+Interests: 
+
+----
+
+Contributions: 
+
+----
+
+Role: Team
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: true
+
+----
+
+Contributing: 
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Last-modified: 11/29/2023 9:51pm
+
+----
+
+Uuid: eRVW6mM6kkFgL1O6

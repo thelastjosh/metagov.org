@@ -1,0 +1,121 @@
+Title: Jenny Fan
+
+----
+
+Affiliation: Product Designer
+
+----
+
+Image: 
+
+----
+
+Bio: I'm a product designer and researcher interested in democratic legitimacy for social media governance.
+
+----
+
+Links:
+
+- 
+  text: Personal Website
+  url: http://jennyfan.com/
+
+----
+
+Email: me@jennyfan.com
+
+----
+
+Interests: 
+
+----
+
+Contributions: 
+
+----
+
+Role: Participant, Contributor, Team
+
+----
+
+Projects: projects/daostar
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: true
+
+----
+
+Contributing: 
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: Digital Juries
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Last-modified: 11/29/2023 9:51pm
+
+----
+
+Uuid: xCa2ufCYD2fl5nu8

@@ -1,0 +1,45 @@
+Title: Micropublishing
+
+----
+
+Subheading: Learning
+
+----
+
+Cover: - file://XpN5GxjcWubkZh60
+
+----
+
+Website: https://github.com/oasisresearchlab/dg-social-media
+
+----
+
+Inputs: 
+
+----
+
+Outputs: 
+
+----
+
+Description: Enable researchers to micropublish — from their lab notebooks — evidence-based knowledge graphs that can interoperate with evidence-informed deliberations in online platforms
+
+----
+
+Stage: Learning
+
+----
+
+Function: 
+
+----
+
+License: 
+
+----
+
+Infrastructure: 
+
+----
+
+Uuid: raywMtgAXfRXcoL64V4vYA

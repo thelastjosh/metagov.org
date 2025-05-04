@@ -1,0 +1,101 @@
+Title: Moritz J Kleinaltenkamp
+
+----
+
+Bio: I'm Moritz, a Postdoc in Organizational Theory at Copenhagen Business School. I wrote my PhD dissertation about the role of time and performativity in blockchain organizations.
+
+----
+
+Links:
+
+- 
+  text: PhD Thesis
+  url: https://opus4.kobv.de/opus4-hsog/frontdoor/deliver/index/docId/4498/file/Dissertation_Kleinaltenkamp.pdf
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: 
+
+----
+
+Interests: cooperatives,crypto / DAOs / web3,social theory,software development,economics,human computer interaction (HCI),somatic practices
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: Qualitative methods, epistemology, organizational and management theory, writing/structuring journal articles, writing/structuring articles for societal impact
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *DAOstar *- DAO standards working groups.,*Telescope *- A Discord bot for ethical and responsive digital ethnography.,*Modpol *- A self-governance toolkit for communities in online worlds.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: gCb0yKnPGlP3b49w

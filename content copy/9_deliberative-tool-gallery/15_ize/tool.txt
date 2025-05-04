@@ -1,0 +1,49 @@
+Title: Ize
+
+----
+
+Subheading: Elicitating
+
+----
+
+Cover: - file://DAyItlBbB56onfQ7
+
+----
+
+Website: https://ize.space
+
+----
+
+Inputs: 
+
+----
+
+Outputs: 
+
+----
+
+Description: Participants trigger workflows using predefined templates or custom processes, engaging asynchronously across platforms via their preferred identities (e.g., Discord, email, NFTs). Workflows collect inputs, generate structured outputs like prioritized lists or decisions, and can trigger automated actions. The process evolves through participant-driven updates
+
+----
+
+Stage: Elicitation
+
+----
+
+Function: 
+
+----
+
+License: 
+
+----
+
+Infrastructure: 
+
+----
+
+Links: 
+
+----
+
+Uuid: YovXnD2js6Sndjik

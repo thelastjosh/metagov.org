@@ -1,0 +1,96 @@
+Title: Telescope
+
+----
+
+Subheading: a Discord bot for ethical, responsive digital ethnography
+
+----
+
+Cover: - file://B2bilK2ItfWAGdjB
+
+----
+
+Website: 
+
+----
+
+Description: Telescope is a Discord bot for ethical, responsive ethnography.
+
+----
+
+Participate: Discord communities: We are looking for communities who want to use the Telescope bot.
+
+----
+
+Meetings: Slack: #govbase
+
+----
+
+Category: Mapping Governance, Governance UX
+
+----
+
+Date: 2024-01-10
+
+----
+
+Project-status: Active
+
+----
+
+Seeking-participants: true
+
+----
+
+Links:
+
+- 
+  text: 🎓 Publication
+  url: >
+    https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4078259
+- 
+  text: 📝 Blog Post
+  url: >
+    https://medium.com/metagov/introduction-documentation-of-the-telescope-bot-cfd084beba87
+
+----
+
+Type: Tool, Publication
+
+----
+
+Research-directors: 
+
+----
+
+Members:
+
+- page://mWwQboaRefqbagcR
+- page://JPjopqQjX2g2TQFv
+- page://JhteperhZJLSvhzz
+- page://xAIKANHjHhEkXdGO
+- page://4gZi5E3CbYkAj38k
+
+----
+
+Contact: 
+
+----
+
+Discussion-forum: 
+
+----
+
+Projectstatus: Active
+
+----
+
+Seekingparticipants: true
+
+----
+
+Researchdirectors: 
+
+----
+
+Uuid: e51kFVwVKydNjiQ2

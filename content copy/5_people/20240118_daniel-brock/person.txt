@@ -1,0 +1,97 @@
+Title: Daniel Brock
+
+----
+
+Bio: I'm Dan from London, UK. I recently left my corporate job and I'm looking to work full time for Impact DAOs, particularly in DeSci. I am fascinated by the governance structures and future of work created by DAOs and I'm excited to apply them to building the institutions we need for the future and powering community organising. I studied Chemistry and worked in Product Management for IT products for scientists.
+
+----
+
+Links: 
+
+----
+
+Role: 
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: I want to understand the best practices are in governance from MetaGov and help ensure that new DAOs especially in DeSci learn from these and apply them where they can. I would also be interested in contributing to research projects on governance and comm
+
+----
+
+Interests: cooperatives,online communities / web2,somatic practices,human computer interaction (HCI),civic engagement
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *DAOstar *- DAO standards working groups.,*Modpol *- A self-governance toolkit for communities in online worlds.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:03
+
+----
+
+Uuid: 9W8eDfeEOS62sAo8

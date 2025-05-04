@@ -1,0 +1,101 @@
+Title: Ashwin Nagappa
+
+----
+
+Bio: I am a PhD student at Queensland University of Technology. My research focuses on a blockchain based video streaming platform. I am student member at the ARC CoE for Automated decision making and society.
+
+----
+
+Links:
+
+- 
+  text: Bio
+  url: https://www.admscentre.org.au/ashwin-nagappa/
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Theorizing, Exploring, Describing
+
+----
+
+Interests: social theory,software development,somatic practices,cooperatives
+
+----
+
+Research-experience: online community / web2,software development,qualitative methods,quantitative methods,social theory
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,*Govbase* - An open database of projects and tools in online governance.,*Metaeth* - A Discord bot for ethical and responsive digital ethnography.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: nhmUgF5421IH8bbM

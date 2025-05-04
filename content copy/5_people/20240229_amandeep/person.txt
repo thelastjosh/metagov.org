@@ -1,0 +1,125 @@
+Title: Amandeep
+
+----
+
+Affiliation: Growth Lead
+
+----
+
+Image: 
+
+----
+
+Bio: Hi! I'm Aman, Growth Lead at DAOstar and DeepDAO. I'm interested in DAOs, web3 tech and most things that hold beauty effortlessly.
+
+----
+
+Links:
+
+- 
+  text: Twitter
+  url: https://twitter.com/_amanwithwings
+- 
+  text: LinkedIn
+  url: >
+    https://www.linkedin.com/in/amanwithwings?originalSubdomain=ae
+
+----
+
+Email: 
+
+----
+
+Interests: cooperatives, civic engagement, online communities / web2, policy / law, qualitative methods, quantitative methods
+
+----
+
+Contributions: 
+
+----
+
+Role: Participant, Team
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: true
+
+----
+
+Contributing: 
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,*DAOstar *- DAO standards working groups.,*Telescope *- A Discord bot for ethical and responsive digital ethnography.,*Cartographies of Internet Metagovernance* - Metagov research and governance mapping project
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: bqD5uZ4GLIAEpQXJ

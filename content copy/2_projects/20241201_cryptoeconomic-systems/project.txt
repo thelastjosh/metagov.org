@@ -1,0 +1,65 @@
+Title: Cryptoeconomic Systems
+
+----
+
+Subheading: Cryptoeconomic Systems
+
+----
+
+Cover: - file://uIniFzNxe1XaS4gc
+
+----
+
+Website: https://cryptoeconomicsystems.pubpub.org/
+
+----
+
+Description: A diamond open access journal for blockchain research. Formerly run by the MIT Digital Currency Initiative, now housed at Metagov.
+
+----
+
+Participate: Submit research papers to the journal!
+
+----
+
+Meetings: 
+
+----
+
+Category: Network Building
+
+----
+
+Date: 2024-12-01
+
+----
+
+Project-status: Active
+
+----
+
+Seeking-participants: true
+
+----
+
+Links: 
+
+----
+
+Type: Publication
+
+----
+
+Research-directors: - page://JhteperhZJLSvhzz
+
+----
+
+Members: 
+
+----
+
+Contact: journal@metagov.org
+
+----
+
+Uuid: dgUS51PMKU5n5U55

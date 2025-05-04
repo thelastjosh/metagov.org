@@ -1,0 +1,83 @@
+Title: Governance Experience Design
+
+----
+
+Subheading: a living manifesto for online spaces
+
+----
+
+Cover: - file://gZCz50N7qr0FhPPl
+
+----
+
+Website: 
+
+----
+
+Description: Toward a paradigm in the design of online spaces.
+
+----
+
+Participate: Suggest revisions or additions to the Crowdwrite copy of the design note.
+
+----
+
+Meetings: 
+
+----
+
+Category: 
+
+----
+
+Date: 2024-02-20
+
+----
+
+Project-status: Complete
+
+----
+
+Seeking-participants: true
+
+----
+
+Links:
+
+- 
+  text: Design Note on Crowdwrite
+  url: >
+    https://www.crowdwrite.xyz/metagov/cl7e9sjvc000q09jx9kjhbocz/text
+- 
+  text: Co-writing document with Our Networks
+  url: >
+    https://docs.google.com/document/d/e/2PACX-1vTcthgiPuc7wY5sP9G_KJTfpTjgxQ_jykY0WyLS6a7jYwFkYMDznYkbkusUTKNpvDEKWoVh6NWwgxkB/pub
+
+----
+
+Type: Community of Practice, Guidebook, Publication, Cross-group Collaboration
+
+----
+
+Research-directors: 
+
+----
+
+Members:
+
+- page://iBfkolMQSL37Rx8F
+- page://kmdL4mQPQ0rQDyIG
+- page://r9psCw91JonaxtsY
+- page://neuVC2NprsEZ2c8u
+
+----
+
+Contact: 
+
+----
+
+Projectstatus: Complete
+
+----
+
+Uuid: YrnC01tbEBoh1eA9

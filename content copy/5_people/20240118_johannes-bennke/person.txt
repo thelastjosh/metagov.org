@@ -1,0 +1,104 @@
+Title: Johannes Bennke
+
+----
+
+Bio: I´m Johannes, I´m post-doc at Hebrew University of Jerusalem and do research on media of verification, with a special focus on the stewardship of archives containing verified data and the governance and coordination of online communities in Web3.
+
+----
+
+Links: 
+
+----
+
+Role: 
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: I like to design multidisciplinary spaces for experimentation between art, science and design and build tools for decision making. I ask media philosophical questions and love to use art as inspiration for concept development. I am particularly excited by art and archival practices that combine the archaeological and historical with the speculative and future-oriented.
+
+----
+
+Interests: cooperatives,crypto / DAOs / web3,civic engagement,human computer interaction (HCI),online communities / web2,social theory,quantitative methods,qualitative methods,economics,policy / law
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers:
+
+- shaping a thesis for b.a./m.a./phd - You have an interest, an idea, or a rough sketch but no clue how to develop it?
+- project management - You have difficulties setting goals, and stay on track to achieve them?
+- tandem reading - You not only want to read about media philosophy, decision making, DAOs and the like but also want to discuss it?
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests:
+
+- building DAOs
+- designing decision making mechanisms for online communities
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: 7Iv60xsDLhQx8o80

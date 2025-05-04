@@ -1,0 +1,101 @@
+Title: Ronen Tamari
+
+----
+
+Bio: I'm Ronen, a PhD candidate at the Hebrew University of Jerusalem. Interested in AI, cognitive science, collective intelligence, self-organizing networks and web3.
+
+----
+
+Links:
+
+- 
+  text: GitHub
+  url: https://ronentk.github.io/
+
+----
+
+Role: Member,Contributor,Participant
+
+----
+
+Affiliation: DAOStack
+
+----
+
+Contributing: Synthesizing, Exploring, Quantitatively
+
+----
+
+Interests: crypto / DAOs / web3,human computer interaction (HCI),cooperatives,civic engagement,social theory,quantitative methods
+
+----
+
+Research-experience: crypto / DAOs / web3,quantitative methods,software development
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Metagov Gateway
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: true
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: RTGvbHBJoWWhSf3r

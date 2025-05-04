@@ -1,0 +1,91 @@
+Title: Public AI
+
+----
+
+Subheading: a new political economy for AI
+
+----
+
+Cover: - file://eOEkl3XC8x8CLRln
+
+----
+
+Website: 
+
+----
+
+Description: A new political economy for AI.
+
+----
+
+Participate: Join the mailing list.
+
+----
+
+Meetings: Slack: #public-ai
+
+----
+
+Category: Network Building
+
+----
+
+Date: 2024-01-10
+
+----
+
+Project-status: Active
+
+----
+
+Seeking-participants: false
+
+----
+
+Links:
+
+- 
+  text: publicai.network
+  url: https://publicai.network/
+- 
+  text: Newsletter
+  url: https://publicai.substack.com
+
+----
+
+Type: Community of Practice
+
+----
+
+Research-directors: 
+
+----
+
+Members:
+
+- page://A3AGM4FX5GoGJP91
+- page://JhteperhZJLSvhzz
+
+----
+
+Contact: hello@publicai.network
+
+----
+
+Discussion-forum: 
+
+----
+
+Projectstatus: Active
+
+----
+
+Seekingparticipants: false
+
+----
+
+Researchdirectors: 
+
+----
+
+Uuid: Og2a8IVVKVlOidGG

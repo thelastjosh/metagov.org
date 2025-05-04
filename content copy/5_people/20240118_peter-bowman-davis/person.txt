@@ -1,0 +1,103 @@
+Title: Peter Bowman-Davis
+
+----
+
+Bio: I'm Peter,  I am a first year philosophy+physics student at Yale who has been thinking about DAOs for a while now.
+
+----
+
+Links:
+
+- 
+  text: Twitter
+  url: https://mobile.twitter.com/P_H_B_D  - 
+  text: LinkedIn
+  url: https://www.linkedin.com/in/peter-bowman-davis/
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Theorizing, Conversing, Exploring
+
+----
+
+Interests: crypto / DAOs / web3
+
+----
+
+Research-experience: quantitative methods,qualitative methods,software development,crypto / DAOs / web3
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Govbase,DAOstar One
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: 36MiTA9KAMwmztA8

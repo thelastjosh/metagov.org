@@ -1,0 +1,49 @@
+Title: Go Vocal
+
+----
+
+Subheading: Deliberating
+
+----
+
+Cover: - file://tOgYkMMaGFmGKr1E
+
+----
+
+Website: https://www.govocal.com/
+
+----
+
+Inputs: 
+
+----
+
+Outputs: 
+
+----
+
+Description: An AI dialogue facilitator transforms individual inputs into structured group recommendations in real-time. Participants engage in interactive discussions, with the AI summarizing contributions, surfacing areas of consensus and disagreement, and generating actionable policy recommendations to enhance collective decision-making. Related to Polis.
+
+----
+
+Stage: Deliberation
+
+----
+
+Function: 
+
+----
+
+License: 
+
+----
+
+Infrastructure: 
+
+----
+
+Links: 
+
+----
+
+Uuid: 8JoD5fHcS9azxXYT

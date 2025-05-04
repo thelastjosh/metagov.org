@@ -1,0 +1,101 @@
+Title: Alexia Maddox
+
+----
+
+Bio: I am a Research Fellow at the Blockchain Innovation Hub, RMIT. I am a sociologist of technology.
+
+----
+
+Links:
+
+- 
+  text: 🎓 Academic Profile
+  url: https://rmitblockchain.io/alexia-maddox
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: Blockchain Innovation Hub, RMIT
+
+----
+
+Contributing: 
+
+----
+
+Interests: civic engagement,cooperatives,crypto / DAOs / web3,economics,policy / law,social theory,software development
+
+----
+
+Research-experience: online community / web2,crypto / DAOs / web3,civic engagement,social theory,qualitative methods,quantitative methods
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Govbase* - A lab building research data sets in online governance.,*Modpol *- A self-governance toolkit for communities in online worlds.,*Telescope*- A Discord bot for ethical and responsive digital ethnography.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: kyKEqRBAzLjLeCuy

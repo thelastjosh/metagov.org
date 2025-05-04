@@ -1,0 +1,101 @@
+Title: Arvin Chen
+
+----
+
+Bio: Arvin, Year 2 bachelor student at Shanghai University of International Business and Economics, interested and participated in DAO governance since Aug 2021, was the head of BanklessDAO CN.
+
+----
+
+Links:
+
+- 
+  text: Website
+  url: https://publish.obsidian.md/arvitopia/arvitopia
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Explaining, Applying, Describing
+
+----
+
+Interests: cooperatives,economics,quantitative methods
+
+----
+
+Research-experience: crypto / DAOs / web3,policy / law,cooperatives
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,*DAOstar One* - A roundtable working towards an ERC standard to DAOs.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: hpN8HTlcUE436rkq

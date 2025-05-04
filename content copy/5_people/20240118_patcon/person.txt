@@ -1,0 +1,97 @@
+Title: patcon
+
+----
+
+Bio: I'm into community organizing (civic hacknights), g0v, collective intelligence and consensus tools (polis), complexity science (biochemistry dropout), storytelling, commoning, and generally hyper-participatory processes. I'm a resident at Newpeak House in London.
+
+----
+
+Links: 
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: 
+
+----
+
+Interests: economics,crypto / DAOs / web3,quantitative methods
+
+----
+
+Research-experience: crypto / DAOs / web3,online community / web2,offline governance,civic engagement,cooperatives,software development,social theory
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 2/14/2023 9:43pm
+
+----
+
+Uuid: QpPVXoZflKC4Fzi4

@@ -1,0 +1,101 @@
+Title: Byeongjun Moon
+
+----
+
+Bio: I'm Byeongjun, a crypto native building Mainstream, an one-stop shop for decentralized governance. Previously, I've started PadawanDAO, a DAO sending students to Ethereum conferences, and contributed to Balance, open-source iOS Ethereum wallet.
+
+----
+
+Links:
+
+- 
+  text: Website
+  url: http://bjmoon.io
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: Mainstream Labs
+
+----
+
+Contributing: Applying, Building, Facilitating
+
+----
+
+Interests: crypto / DAOs / web3,civic engagement,offline governance,policy / law,social theory
+
+----
+
+Research-experience: crypto / DAOs / web3,online community / web2
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *DAOstar One* - A roundtable working towards an ERC standard to DAOs.,*Modpol *- A self-governance toolkit for communities in online worlds.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: 1YuD0hj0IZPHSPUE

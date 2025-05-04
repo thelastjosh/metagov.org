@@ -1,0 +1,117 @@
+Title: Amy Zhang
+
+----
+
+Affiliation: University of Washington
+
+----
+
+Image: 
+
+----
+
+Bio: 
+
+----
+
+Links: 
+
+----
+
+Email: 
+
+----
+
+Interests: 
+
+----
+
+Contributions: 
+
+----
+
+Role: Research Director, Participant, Contributor
+
+----
+
+Projects: projects/policykit
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: true
+
+----
+
+Contributing: 
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: PolicyKit, NSF Governance Transitions
+
+----
+
+Is-contributor-to: PolicyKit, Metagov Gateway Core Development, NSF Governance Transitions
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Last-modified: 11/29/2023 9:51pm
+
+----
+
+Uuid: Ye0MulFIlYUXjm50

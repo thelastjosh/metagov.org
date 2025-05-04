@@ -1,0 +1,61 @@
+Title: Scott Moore
+
+----
+
+Affiliation: Public Works
+
+----
+
+Image: 
+
+----
+
+Bio: 
+
+----
+
+Links:
+
+- 
+  text: Twitter
+  url: https://twitter.com/notscottmoore
+
+----
+
+Email: 
+
+----
+
+Interests: 
+
+----
+
+Contributions: 
+
+----
+
+Role: Advisor
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: false
+
+----
+
+Uuid: DzIftHy5GzCtGxas

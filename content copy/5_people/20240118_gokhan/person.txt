@@ -1,0 +1,105 @@
+Title: Gökhan
+
+----
+
+Bio:
+
+I am an indie curator, & conceptual creative with a background in comparative literature with a focus of long term digital and cultural object preservation.
+
+competitive governance, and the right to exit in terms of DAO based governance mechanisms are my special interests.
+
+----
+
+Links:
+
+- 
+  text: Linktree
+  url: http://linktr.ee/0xgokhan
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Applying, Theorizing, Exploring
+
+----
+
+Interests: civic engagement,cooperatives,online communities / web2,policy / law,qualitative methods,quantitative methods,somatic practices
+
+----
+
+Research-experience: crypto / DAOs / web3,online community / web2,qualitative methods
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,*DAOstar One* - A roundtable working towards an ERC standard to DAOs.,*Metagov Gateway* - A unified API gateway for digital governance services.,*Govbase* - An open database of projects and tools in online governance.,*Metaeth* - A Discord bot for ethical and responsive digital ethnography.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: ZahW9xiKhQUdieRS

@@ -1,0 +1,95 @@
+Title: Govbase Labs
+
+----
+
+Subheading: a weekly lab meeting
+
+----
+
+Cover: - file://TLqvHDQLR623P9Ph
+
+----
+
+Website: https://govbase.metagov.org/
+
+----
+
+Description: The Govbase call is where ethnographers and anthropologists meet with data scientists and computer scientists at Metagov.
+
+----
+
+Participate: Join a Weekly Meeting: Join our community and attend a Govbase Lab meeting on Thursdays and introduce yourself!
+
+----
+
+Meetings: Slack: #govbase
+
+----
+
+Category: Community
+
+----
+
+Date: 2024-01-10
+
+----
+
+Project-status: Active
+
+----
+
+Seeking-participants: true
+
+----
+
+Links:
+
+- 
+  text: 🌐 govbase.metagov.org
+  url: https://govbase.metagov.org/
+- 
+  text: 💻 Github Repo
+  url: >
+    https://github.com/metagov/govbase-website
+
+----
+
+Type: Tool, Publication, Data Set
+
+----
+
+Research-directors: 
+
+----
+
+Members:
+
+- page://JhteperhZJLSvhzz
+- page://mWwQboaRefqbagcR
+- page://JPjopqQjX2g2TQFv
+- page://d3vnj5NR5qUbnTiI
+- page://zOouzvaBotMl6l8r
+
+----
+
+Contact: 
+
+----
+
+Discussion-forum: 
+
+----
+
+Projectstatus: Active
+
+----
+
+Seekingparticipants: true
+
+----
+
+Researchdirectors: 
+
+----
+
+Uuid: mMQKLA0g1lIeaoSp

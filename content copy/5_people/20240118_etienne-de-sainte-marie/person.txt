@@ -1,0 +1,101 @@
+Title: Etienne de Sainte Marie
+
+----
+
+Bio: Concerned about the major issues the World is facing (ecology, demography, governance, hyper financiarization) I focus on how building models that would empower individuals achievements framed in mankind goals. Collaboration rather than pure competition.
+
+----
+
+Links:
+
+- 
+  text: Linkedin
+  url: https://www.linkedin.com/in/edesaintemarie/
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: www.republike.io
+
+----
+
+Contributing: Applying, Exploring, Explaining
+
+----
+
+Interests: social theory,cooperatives,qualitative methods,crypto / DAOs / web3
+
+----
+
+Research-experience: social theory,Research on governance
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Govbase* - An open database of projects and tools in online governance.,*DAOstar One* - A roundtable working towards an ERC standard to DAOs.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: lH3KPeQsRoyvEFwP

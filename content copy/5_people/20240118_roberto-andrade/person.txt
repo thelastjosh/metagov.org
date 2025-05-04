@@ -1,0 +1,106 @@
+Title: Roberto Andrade
+
+----
+
+Bio: I'm currently researching tools to digitalise elections & automatise discourse (pol.is)
+
+----
+
+Links:
+
+- 
+  text: Substack
+  url: https://zoonpolitikon.substack.com/
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: 
+
+----
+
+Interests: economics,policy / law,social theory,cooperatives
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: Building a digital product, UX
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests:
+
+Digital Elections
+Online Governance
+Discourse Aggregation / NLP (pol.is)
+Engaging with Governments
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,*Cartographies of Internet Metagovernance* - Metagov research and governance mapping project
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: lCQQOTGMBX7wOTOs

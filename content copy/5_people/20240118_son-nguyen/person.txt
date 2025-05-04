@@ -1,0 +1,101 @@
+Title: Son Nguyen
+
+----
+
+Bio: I recently completed a Data Science program and "buidled" with DAOChem at ETHDenver 2022.
+
+----
+
+Links:
+
+- 
+  text: 💻 GitHub
+  url: https://github.com/sqnguyen00
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Building
+
+----
+
+Interests: offline governance,crypto / DAOs / web3
+
+----
+
+Research-experience: economics,crypto / DAOs / web3,quantitative methods
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: zj4ZYzmTENiRIf1z

@@ -1,0 +1,101 @@
+Title: Gianluca Cattin
+
+----
+
+Bio: I'm a Law student at Universidad del Pacífico (Lima, Perú), currently working in a legal tech law firm,  and a Legal Engineer at LexDAO, where I've been leading our on-chain arbitration project. To find more info about me you can check my mirror or find me on the LexDAO server (cattin#7777).
+
+----
+
+Links:
+
+- 
+  text: Mirror
+  url: http://mirror.xyz/cattin.eth
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Building, Applying, Exploring
+
+----
+
+Interests: cooperatives,online communities / web2,quantitative methods,somatic practices
+
+----
+
+Research-experience: crypto / DAOs / web3,policy / law
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,*Govbase* - An open database of projects and tools in online governance.,*DAOstar One* - A roundtable working towards an ERC standard to DAOs.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: 0yng9uGaFw2RNPXj

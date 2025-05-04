@@ -1,0 +1,101 @@
+Title: Ben Little
+
+----
+
+Bio: I'm a graduate student in computer science at CU Boulder whose research "focuses" on collective intelligence, open systems theory, and formal diagrammatic languages.
+
+----
+
+Links:
+
+- 
+  text: 🌐 Website
+  url: https://benlittle.dev
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Theorizing, Exploring, Peer Reviewing, Conversing, Explaining
+
+----
+
+Interests: civic engagement,social theory,cooperatives
+
+----
+
+Research-experience: quantitative methods,software development,economics
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Metagov Gateway,Modpol
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: i3V7mG2rADQJYAm6

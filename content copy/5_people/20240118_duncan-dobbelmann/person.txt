@@ -1,0 +1,101 @@
+Title: Duncan Dobbelmann
+
+----
+
+Bio: I'm a writer, English Ph.D., and former academic dean and chief communications officer now working as a governance facilitator at Boardroom Labs. I'm deeply interested in the promise of digital governance, but still relatively new to the space.
+
+----
+
+Links:
+
+- 
+  text: Linkedin
+  url: https://www.linkedin.com/in/duncan-dobbelmann/
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: Boardroom Labs
+
+----
+
+Contributing: Conversing, Qualitatively, Facilitating
+
+----
+
+Interests: cooperatives
+
+----
+
+Research-experience: offline governance
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *DAOstar One* - A roundtable working towards an ERC standard to DAOs.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: XvZSo6Tpm9F53lCD

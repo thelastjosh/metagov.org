@@ -1,0 +1,82 @@
+Title: Theory + Practice
+
+----
+
+Subheading: Connecting (new) political theory with new democratic practice.
+
+----
+
+Cover: - file://YAgrAEdzJAvxwUbL
+
+----
+
+Website: 
+
+----
+
+Description: 
+
+----
+
+Participate:
+
+- Fill out (link: https://forms.gle/Qku6gU5F8HgXhRme7 text: bridging survey)
+- Join #theory-practice on slack
+- Attend seminars (below)
+
+----
+
+Meetings:
+
+Slack: #theory-practice  +  #deliberative-tools-and-interop
+
+~late-April: 1st Theory+Practice seminar (topic TBD)
+~early-May: 2nd Theory+Practice seminar (topic TBD)
+
+----
+
+Category: 
+
+----
+
+Date: 2025-04-01
+
+----
+
+Project-status: Active
+
+----
+
+Seeking-participants: true
+
+----
+
+Links:
+
+- 
+  text: Bridging survey
+  url: https://forms.gle/Qku6gU5F8HgXhRme7
+- 
+  text: Intro seminar (recording)
+  url: >
+    https://archive.org/details/metagovs-new-theory-practice-project-gubbels
+
+----
+
+Type: 
+
+----
+
+Research-directors: 
+
+----
+
+Members: - page://ualxlQXGzUvm8Kxk
+
+----
+
+Contact: joseph@metagov.org
+
+----
+
+Uuid: dazj1n1Ib8FBImud

@@ -1,0 +1,97 @@
+Title: Abbas Tolgay Yilmaz
+
+----
+
+Bio: I'm A. Tolgay, am a software engineer and an artist, interested in communities that are motivated for scaling good stuff with tech and humanities. I got a few ideas and works in progress in the economics, governance and well, world peace through a (lame) doctrine I'm developing: A Mutually Assured Regeneration.
+
+----
+
+Links: 
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: stateful.art / start
+
+----
+
+Contributing: Conversing, Applying, Synthesizing
+
+----
+
+Interests: crypto / DAOs / web3,cooperatives,economics,policy / law,social theory,qualitative methods,quantitative methods,civic engagement,offline governance,human computer interaction (HCI)
+
+----
+
+Research-experience: crypto / DAOs / web3,civic engagement,software development,human computer interaction (HCI),policy / law,online community / web2,social theory
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: DAOstar One,Metagov Gateway,Metaeth,Modpol,Govbase
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:03
+
+----
+
+Uuid: 70ycisneJtuAf69K

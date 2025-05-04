@@ -1,0 +1,103 @@
+Title: Elise P Taylor
+
+----
+
+Bio: I recently finished my PhD in Communication at Purdue and am now looking for the next big thing in the Web3 space. I do user experience research, analysis, and have 10 years of industry management experience.
+
+----
+
+Links:
+
+- 
+  text: Linkedin
+  url: http://linkedin.com/in/eptaylor/  - 
+  text: Twitter
+  url: http://twitter.com/EPTaylor2
+
+----
+
+Role: Participant,Contributor
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Theorizing, Qualitatively, Conversing
+
+----
+
+Interests: cooperatives,civic engagement,quantitative methods
+
+----
+
+Research-experience: online community / web2,qualitative methods,Linguistic analysis
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Metaeth* - A Discord bot for ethical and responsive digital ethnography.,*Modpol *- A self-governance toolkit for communities in online worlds.,*Govbase* - An open database of projects and tools in online governance.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: ArVAUtTGvUagpxwo

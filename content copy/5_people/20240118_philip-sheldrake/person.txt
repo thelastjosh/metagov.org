@@ -1,0 +1,103 @@
+Title: Philip Sheldrake
+
+----
+
+Bio: I'm a researcher at the AKASHA Foundation. We develop systems for freedom of mind and human connection. . Questions of digital identity are at the heart of our work.
+
+----
+
+Links:
+
+- 
+  text: Research
+  url: http://generative-identity.org.  - 
+  text: AKASHA
+  url: http://akasha.org
+
+----
+
+Role: Contributor,Participant
+
+----
+
+Affiliation: The AKASHA Foundation
+
+----
+
+Contributing: Exploring, Theorizing, Synthesizing
+
+----
+
+Interests: offline governance,policy / law,social theory,qualitative methods
+
+----
+
+Research-experience: online community / web2,crypto / DAOs / web3,cooperatives,human computer interaction (HCI),social theory
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Metagov Gateway,Modpol,DAOstar One
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: Ethereum World, Generative Identity
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: AmPyOgyYVr4Y2XWC

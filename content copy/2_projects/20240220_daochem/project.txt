@@ -1,0 +1,78 @@
+Title: DAOchem
+
+----
+
+Subheading: a holistic view of DAO governance
+
+----
+
+Cover: - file://ZjkWu2sfE1VVKmoc
+
+----
+
+Website: 
+
+----
+
+Description: DAOchem is a mixture of on- and off-chain governance data sources which react to produce a holistic view of DAO governance.
+
+----
+
+Participate: 
+
+----
+
+Meetings: 
+
+----
+
+Category: Mapping Governance
+
+----
+
+Date: 2024-02-20
+
+----
+
+Project-status: Active, Pending Funding
+
+----
+
+Seeking-participants: false
+
+----
+
+Links:
+
+- 
+  text: Website
+  url: >
+    https://metagov.github.io/daochem-website/
+- 
+  text: Metagov Seminar
+  url: >
+    https://archive.org/details/korpas-metagov
+
+----
+
+Type: Tool, Data Set
+
+----
+
+Research-directors: 
+
+----
+
+Members: - page://d3vnj5NR5qUbnTiI
+
+----
+
+Contact: 
+
+----
+
+Projectstatus: Complete
+
+----
+
+Uuid: gJU4hbPu12f9udoT

@@ -1,0 +1,61 @@
+Title: Rashmi Abbigeri
+
+----
+
+Affiliation: Frontend Developer
+
+----
+
+Image: 
+
+----
+
+Bio: 
+
+----
+
+Links:
+
+- 
+  text: Twitter
+  url: https://twitter.com/rashmivabbigeri
+
+----
+
+Email: 
+
+----
+
+Interests: 
+
+----
+
+Contributions: 
+
+----
+
+Role: Participant, Contributor, Team
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: false
+
+----
+
+Uuid: nUhu9qMpTJWVKHto

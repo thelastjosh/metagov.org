@@ -1,0 +1,21 @@
+Title: Jobs
+
+----
+
+Subheading: 
+
+----
+
+Cover: 
+
+----
+
+Text: [{"content":{"level":"h3","text":"Open Roles at Metagov"},"id":"f6db4fab-45f3-412e-a883-016a6c1f9409","isHidden":false,"type":"heading"},{"content":{"text":"<p><a href=\"https://metagov.org/join/jobs/director-fin-ops\" title=\"Director of Financial Operations\"><strong>Director of Financial Operations</strong></a><br>We are seeking a candidate with strong knowledge of charitable organizations’ financial systems, and several years’ experience working with digital assets in an institutional setting. This is a part-time employee position, with the potential to grow to full time.</p><p><a href=\"/@/page/TqJDJYvWBqvDW9We\"><strong>Research Fellow / Research Contributor</strong></a><strong> (DAOstar)</strong><br>DAOstar is seeking curious and motivated individuals passionate about advancing research in the DAO ecosystem. Whether you're an experienced researcher, a community participant with lived DAO experience, or someone with a fresh and unique perspective, there’s an opportunity for you to contribute to shaping the future of decentralized governance.</p>"},"id":"6a3788f9-d25d-47e9-8c10-cf5d845fb1de","isHidden":false,"type":"text"}]
+
+----
+
+Width: false
+
+----
+
+Uuid: qJ4agwH8WAUIpXR9

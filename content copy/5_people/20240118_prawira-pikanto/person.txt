@@ -1,0 +1,97 @@
+Title: Prawira Pikanto
+
+----
+
+Bio: I'm Wira, junior majoring in Information Science and Philosophy at Cornell. I'm involved in the Cornell Blockchain Club developing digital gov structure for DIMO and was working on DAO governance, compensation, and onboarding for Terraform Labs (before crash).
+
+----
+
+Links: 
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: Cornell Blockchain Club, DIMO, Terra
+
+----
+
+Contributing: Applying, Theorizing, Qualitatively
+
+----
+
+Interests: crypto / DAOs / web3,social theory
+
+----
+
+Research-experience: crypto / DAOs / web3,online community / web2,human computer interaction (HCI),social theory
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Govbase,Modpol,DAOstar One
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:03
+
+----
+
+Uuid: EQgIcbV1eXYYrWBR

@@ -1,0 +1,101 @@
+Title: Fotis Tsiroukis
+
+----
+
+Bio: I'm Fotis, a transdisciplinary researcher, cross-pollinator and creator. I will be starting a PhD at Exeter in a research program on the philosophy of open science with an ethnographic component.
+
+----
+
+Links:
+
+- 
+  text: Publications
+  url: https://www.researchgate.net/profile/Fotis_Tsiroukis
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: Smart Contract Research Forum (SCRF)
+
+----
+
+Contributing: Exploring, Synthesizing, Theorizing
+
+----
+
+Interests: cooperatives,human computer interaction (HCI),quantitative methods,qualitative methods,crypto / DAOs / web3,social theory
+
+----
+
+Research-experience: crypto / DAOs / web3,social theory,social cognition/coordination
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Metaeth* - A Discord bot for ethical and responsive digital ethnography.,*Govbase* - An open database of projects and tools in online governance.,*Modpol *- A self-governance toolkit for communities in online worlds.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: mrBInmcKvZiRVBKs

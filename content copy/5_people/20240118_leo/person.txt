@@ -1,0 +1,101 @@
+Title: Leo
+
+----
+
+Bio: I'm Leo, employee #1 ('VP Ops') at the media startup Culture3 (culture3.xyz) building an authoritative voice on why the future is built on blockchain. I'm 22, did my undergrad at Oxford (2018-21, PPE), and blog about change, culture, and web3.
+
+----
+
+Links:
+
+- 
+  text: Substack
+  url: https://empoweredbelonging.substack.com/
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Conversing, Synthesizing, Theorizing
+
+----
+
+Interests: civic engagement,cooperatives,crypto / DAOs / web3,economics,human computer interaction (HCI),online communities / web2,qualitative methods,quantitative methods,social theory,somatic practices,software development,policy / law
+
+----
+
+Research-experience: quantitative methods,qualitative methods,economics,crypto / DAOs / web3,offline governance,cooperatives
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,*DAOstar One* - A roundtable working towards an ERC standard to DAOs.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: 3jC3iioNs1qIQy3V

@@ -1,0 +1,23 @@
+Title: Public AI Fellow (Japan)
+
+----
+
+Subheading: 
+
+----
+
+Cover: - file://eQNgkhquLJmJPSq5
+
+----
+
+Text:
+
+[{"content":{"text":"**Location:** Tokyo, Japan\n**Commitment:** Deliverable-based, and then part-time\n**Compensation:** 5,000 USD stipend\n**Start Date:** Rolling\n\nWe are seeking a **dynamic and mission-driven Public AI Fellow** based in Japan to support research and relationship-building efforts around Japan's national AI strategy and ecosystem. This fellow will play a key role in laying the groundwork for **Airbus for AI**—an ambitious initiative to build a frontier AI lab across middle-power countries.\n\n---\n\n## **You will:**\n\n- **Produce an actionable report** into Japan’s AI ecosystem, national priorities, and industrial policy landscape.  \n- **Build trust and support relationship development** across Japan’s public sector, national R&D labs, and AI industry.  \n- **Help align Japanese interests** with a broader international coalition focused on public AI.  \n- **Provide cultural and political advice** to support consortium-building efforts.  \n\n---\n\n## **You might be a fit if you have:**\n\n- **Bicultural fluency** in Japanese and English—both linguistically and culturally.  \n- **A degree from a top Japanese university** (e.g. University of Tokyo, Kyoto, Keio, Waseda) or equivalent standing in policy or technical fields. *Bonus if you also have a degree from abroad.*  \n- **Familiarity with Japan’s tech, policy, and/or research communities**—or the **social intelligence to engage with and grow such a network.**  \n- **A keen interest in AI, geopolitics, public infrastructure, or the future of technology governance.**  \n  *Bonus if you have experience in diplomacy, international tech collaborations, foundation models, or national AI strategies of Japan or other G7 countries.*\n\n---\n\nThis is an opportunity to **shape Japan’s role in a high-level international initiative**, and gain a **front-row seat to global AI diplomacy and infrastructure strategy**. You’ll work with a **powerful network** of international technologists, policymakers, and public interest organizations.\n\n---\n\n**To apply**, send a short email and CV to [josh@publicai.network](mailto:josh@publicai.network)."},"id":"3256e5f5-77ba-40dc-b4e7-059bc754421a","isHidden":false,"type":"markdown"},{"content":{"text":"# **職種:** パブリックAIフェロー（日本）\n\n**勤務地:** 日本・東京  \n**勤務形態:** 成果物ベースの後、パートタイム  \n**開始時期:** 随時  \n\n私たちは、日本の国家AI戦略およびエコシステムに関するリサーチと関係構築を支援する、**意欲的かつミッション志向の「パブリックAIフェロー」**を募集しています。本フェローは、ミドルパワー諸国による最先端AIラボの国際共同構築を目指すプロジェクト「**Airbus for AI**」の基盤づくりに重要な役割を果たします。\n\n---\n\n## **業務内容:**\n\n- 日本のAIエコシステム、国家的優先事項、産業政策の状況について、**実用的なレポートを作成**する  \n- 日本の**政府機関、国立研究所、AI関連産業との関係構築を支援**する  \n- 日本の国益と、**パブリックAIに焦点を当てた国際連携**との整合性を図る  \n- **コンソーシアム構築を支援するため、文化的・政治的アドバイスを提供**する  \n\n---\n\n## **応募条件（以下のいずれかに該当する方歓迎）:**\n\n- **日本語および英語におけるバイカルチュラルな流暢さ（言語と文化の両面）**  \n- **東京大学、京都大学、慶應義塾大学、早稲田大学などの国内有名大学卒業者**、あるいは同等の政策・技術分野での専門性  \n  *（海外の大学の学位を保有していれば尚可）*  \n- **日本の技術・政策・研究コミュニティに関する理解**、あるいは**そのようなネットワークに参入・成長できるソーシャル・インテリジェンス**  \n- **AI、地政学、公共インフラ、テクノロジー・ガバナンスの将来に対する関心**  \n  *（外交、国際技術連携、基盤モデル、G7各国のAI戦略に関する経験があれば尚可）*\n\n---\n\nこのフェローシップは、**日本の役割を国際的なAIインフラ構築において形作る**またとない機会であり、**グローバルなAI外交とインフラ戦略の最前線に立つポジション**です。  \n国際的な技術者、政策立案者、公益団体のネットワークと連携して活動することになります。\n\n---\n\n**応募方法:**  \n簡単な自己紹介と履歴書を [josh@publicai.network](mailto:josh@publicai.network) 宛にお送りください。"},"id":"872cacbd-3eac-46b0-8271-b9a5716b45af","isHidden":false,"type":"markdown"}]
+
+----
+
+Width: false
+
+----
+
+Uuid: xVHblUBaeUckBUfR

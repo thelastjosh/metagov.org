@@ -1,0 +1,45 @@
+Title: Ethelo
+
+----
+
+Subheading: Deliberating
+
+----
+
+Cover: - file://soxcXbwE9u8G4ZFz
+
+----
+
+Website: 
+
+----
+
+Inputs: 
+
+----
+
+Outputs: 
+
+----
+
+Description: Participants submit policy proposals and evaluate them through a structured, multi-criteria decision-making process. The platform aggregates community input, providing real-time data insights and consensus rankings to support informed governance decisions.
+
+----
+
+Stage: Deliberation
+
+----
+
+Function: 
+
+----
+
+License: 
+
+----
+
+Infrastructure: 
+
+----
+
+Uuid: NnK26tFfXgw1QGsJ

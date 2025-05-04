@@ -1,0 +1,97 @@
+Title: Alexander Kurz
+
+----
+
+Bio: I am a logician and category theorist and a professor of computer science who recently started to work on peer-to-peer social networks.
+
+----
+
+Links: 
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Theorizing, Exploring, Building
+
+----
+
+Interests: social theory,policy / law,economics,software development,cooperatives,crypto / DAOs / web3,offline governance
+
+----
+
+Research-experience: software development,Logic,categorty theory
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 7/1/2023 04:10
+
+----
+
+Uuid: seF97XfEJm6cnOu1

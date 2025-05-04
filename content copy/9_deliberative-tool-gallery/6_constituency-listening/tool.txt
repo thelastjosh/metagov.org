@@ -1,0 +1,45 @@
+Title: Constituency Listening
+
+----
+
+Subheading: Elicitating
+
+----
+
+Cover: - file://KyaIGtc3HbQ8vdHb
+
+----
+
+Website: https://www.media.mit.edu/projects/voice-to-insights/overview/
+
+----
+
+Inputs: 
+
+----
+
+Outputs: 
+
+----
+
+Description: Participant speech as audio or text in any format or unstructured is organized into discussion topics, specific claims, and quotes from unstructured text and media.
+
+----
+
+Stage: Elicitation
+
+----
+
+Function: 
+
+----
+
+License: GPL
+
+----
+
+Infrastructure: 
+
+----
+
+Uuid: UVb1G7Wp2ZsXaPMx

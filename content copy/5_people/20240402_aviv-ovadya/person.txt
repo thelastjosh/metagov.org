@@ -1,0 +1,121 @@
+Title: Aviv Ovadya
+
+----
+
+Affiliation: AI & Democracy Foundation
+
+----
+
+Image: 
+
+----
+
+Bio: I'm Aviv, a Technology and Public Purpose Fellow at Harvard, and my current focus is 'platform governance'—e.g. how powerful global tech companies might apply new governance methods; particularly to inform recommendation system design.
+
+----
+
+Links:
+
+- 
+  text: 🌐 Website
+  url: http://aviv.me
+
+----
+
+Email: 
+
+----
+
+Interests: social theory, crypto / DAOs / web3, offline governance, policy / law, qualitative methods, economics, civic engagement, online communities / web2, quantitative methods
+
+----
+
+Contributions: 
+
+----
+
+Role: Contributor, Participant, Research Director
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: true
+
+----
+
+Contributing: Amplifying, Theorizing, Explaining, Applying, Funding, Describing, Building, Peer Reviewing, Conversing, Synthesizing, Exploring
+
+----
+
+Research-experience: software development,human computer interaction (HCI),cooperatives,qualitative methods,civic engagement,quantitative methods,offline governance,online community / web2
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Metagov Gateway
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: TuaG6vA2mWL8wlmp

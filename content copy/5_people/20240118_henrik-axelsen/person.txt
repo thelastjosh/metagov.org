@@ -1,0 +1,101 @@
+Title: Henrik Axelsen
+
+----
+
+Bio: I am Henrik, a Ph.D. fellow at University of Copenhagen studying web3 and bridging to traditional finance. Long career in Big4 working mainly with banks and risk management.
+
+----
+
+Links:
+
+- 
+  text: 💼 LinkedIn
+  url: https://www.linkedin.com/in/henrik-axelsen-14b5557/
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: 
+
+----
+
+Interests: cooperatives,crypto / DAOs / web3,policy / law,quantitative methods,software development,somatic practices,economics,human computer interaction (HCI),qualitative methods,social theory
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: Experimenting, implementing, synthesizing
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,*DAOstar *- DAO standards working groups.,*Telescope *- A Discord bot for ethical and responsive digital ethnography.,*Cartographies of Internet Metagovernance* - Metagov research and governance mapping project,Network state
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: 339FVNILGEyIFzBX

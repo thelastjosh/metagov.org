@@ -1,0 +1,53 @@
+Title: PolicyCraft
+
+----
+
+Subheading: Deliberating, Elicitating, Reflecting
+
+----
+
+Cover: - file://drJ6gPJZEYAqtqH8
+
+----
+
+Website: https://arxiv.org/pdf/2409.15644
+
+----
+
+Inputs: 
+
+----
+
+Outputs: 
+
+----
+
+Description: Participants are prompted with a specific policy, and asked to provide situations, or “cases” that are in the realm of the policy. Two rounds of voting follow:  1) Is this case covered by the existing policy?  Y/N 2) Should this case be covered by this policy?  Y/N  Policies can be manually revised, then voting repeats as needed
+
+----
+
+Stage: Deliberation, Elicitation, Reflection
+
+----
+
+Function: 
+
+----
+
+License: MIT
+
+----
+
+Infrastructure: 
+
+----
+
+People: 
+
+----
+
+Uuid: 2dOIfx9ySqMq2kJ13dt1hw
+
+----
+
+Links: 

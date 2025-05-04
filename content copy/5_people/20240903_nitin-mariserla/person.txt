@@ -1,0 +1,68 @@
+Title: Nitin Mariserla
+
+----
+
+Affiliation: Metagov, project manager
+
+----
+
+Image: 
+
+----
+
+Bio:
+
+I'm Nitin—I currently work at Metagov as a Project Manager and also as a Research Analyst at a non-profit consulting firm. I'm interested in improving internal processes within organizations and helping to fund initiatives grounded in social impact, climate action, and collaborations with governments.
+
+I enjoy cooking and hosting, and I'm in the process of creating a mini cookbook featuring recipes I've made for friends and ones they've shared with me during my year in New York. Additionally, I plan to work with my mother to document our family recipes so they don't get lost over time.
+
+I'm always excited to chat about anything people are passionate about working on, even if I don't fully understand it at first glance. If you have something you're excited about working on, feel free to hit me up—I'd love to hear about it!
+
+----
+
+Links:
+
+- 
+  text: Instagram
+  url: >
+    https://www.instagram.com/nitin_mariserla/?hl=en
+
+----
+
+Email: 
+
+----
+
+Interests: policy / law, economics, cooperatives, civic engagement
+
+----
+
+Contributions: 
+
+----
+
+Role: Participant, Team
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: false
+
+----
+
+Uuid: 8LoFmk8by0arfDAk

@@ -1,0 +1,80 @@
+Title: Cryptopolitics
+
+----
+
+Subheading: a study of politics and ideology in crypto
+
+----
+
+Cover: - file://ReVsi3r18ilVZm9i
+
+----
+
+Website: 
+
+----
+
+Description: A political personality quiz for crypto, based on the Pew Political Typology Quiz
+
+----
+
+Participate: 
+
+----
+
+Meetings: Project archived
+
+----
+
+Category: 
+
+----
+
+Date: 2024-02-20
+
+----
+
+Project-status: Inactive
+
+----
+
+Seeking-participants: false
+
+----
+
+Links:
+
+- 
+  text: Blog Post
+  url: >
+    https://medium.com/metagov/the-political-landscape-of-crypto-f440d521f411
+- 
+  text: Article
+  url: https://arxiv.org/abs/2301.02734
+
+----
+
+Type: Data Set, Publication
+
+----
+
+Research-directors: 
+
+----
+
+Members:
+
+- page://JhteperhZJLSvhzz
+- page://d3vnj5NR5qUbnTiI
+
+----
+
+Contact: 
+
+----
+
+Projectstatus: Inactive
+
+----
+
+Uuid: 5uj1GCQsD4nsAxCD

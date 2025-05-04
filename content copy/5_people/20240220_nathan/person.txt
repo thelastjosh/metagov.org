@@ -1,0 +1,121 @@
+Title: Nathan Phillips
+
+----
+
+Affiliation: Celium
+
+----
+
+Image: 
+
+----
+
+Bio: I have been full time in web3 since early last year and looking into building a "metaDAO" focused on establishing best practices for DAOs.
+
+----
+
+Links:
+
+- 
+  text: 🌐 Website
+  url: https://nathanphillips.notion.site/
+
+----
+
+Email: 
+
+----
+
+Interests: crypto / DAOs / web3, quantitative methods, social theory, cooperatives
+
+----
+
+Contributions: 
+
+----
+
+Role: Participant
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Date-joined: 
+
+----
+
+Public: true
+
+----
+
+Contributing: 
+
+----
+
+Research-experience: crypto / DAOs / web3,Communications
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *DAOstar *- DAO standards working groups.,*Modpol *- A self-governance toolkit for communities in online worlds.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: j9XcU5oIoJFXFKV0

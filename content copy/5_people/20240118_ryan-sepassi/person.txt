@@ -1,0 +1,97 @@
+Title: Ryan Sepassi
+
+----
+
+Bio: I'm Ryan, an independent software engineer working on local-first software and machine learning (formerly tech lead of Pathways at Google Brain).
+
+----
+
+Links: 
+
+----
+
+Role: 
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Organizing talks, writing software.
+
+----
+
+Interests: civic engagement,cooperatives,crypto / DAOs / web3,economics,human computer interaction (HCI),online communities / web2,policy / law,qualitative methods,quantitative methods,social theory
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: I'd love to be able to talk to community experts on subjects related to ethics.
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: I can talk about Product Design, UX/UI Research & Design, and Accessibility practices and theory.
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:21
+
+----
+
+Uuid: AaPhLoLICOyczFyN

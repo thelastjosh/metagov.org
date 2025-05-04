@@ -1,0 +1,105 @@
+Title: Mert ozdal
+
+----
+
+Bio: I am Mert, I am part of the Inverter Network team. I have been worked with TEC and PrimeDAO.  My background is in political science.
+
+----
+
+Links:
+
+- 
+  text: 1
+  url: https://primedao.mirror.xyz/qsrw-RPGiZ58p8LBGkd1b54eLxXkt0NcfIpMPiVBs0g  - 
+  text: 2
+  url: https://mirror.xyz/inverterblog.eth/94wdEuifUD3v68vAb1vrTZM7dNrBITovOwoE8zxNrY4  - 
+  text: 3
+  url: https://mirror.xyz/0x0966262125B5E01B5D77B862830a341419BC2872/y-aaFWpbogZt5jWGqu6sVlOG-fKh0p-5V6l2o01yyy0
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: Inverter Network
+
+----
+
+Contributing: 
+
+----
+
+Interests: cooperatives,qualitative methods,social theory,software development
+
+----
+
+Research-experience: crypto / DAOs / web3,economics
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: 6WMynF6IJrcJW3lA

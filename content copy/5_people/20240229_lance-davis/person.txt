@@ -1,0 +1,121 @@
+Title: Lance Davis
+
+----
+
+Affiliation: Metagov Alumni
+
+----
+
+Image: 
+
+----
+
+Bio: I'm Lance,  I just graduated from North Carolina A&T with a degree in computer engineering and currently interning at a16z crypto.
+
+----
+
+Links:
+
+- 
+  text: GitHub
+  url: https://github.com/lndavis6
+
+----
+
+Email: 
+
+----
+
+Interests: cooperatives, qualitative methods, online communities / web2, economics, somatic practices, quantitative methods
+
+----
+
+Contributions: 
+
+----
+
+Role: Participant, Contributor, Alumni
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Date-joined: 
+
+----
+
+Public: true
+
+----
+
+Contributing: Theorizing, Exploring, Building
+
+----
+
+Research-experience: crypto / DAOs / web3,software development
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *DAOstar One* - A roundtable working towards an ERC standard to DAOs.,*Metagov Gateway* - A unified API gateway for digital governance services.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: LnbCRfXely9WZPi5

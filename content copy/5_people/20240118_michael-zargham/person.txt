@@ -1,0 +1,101 @@
+Title: Michael Zargham
+
+----
+
+Bio: I am the Founder and Chief Engineer at BlockScience. I study on Algorithmic Policymaking.
+
+----
+
+Links:
+
+- 
+  text: Medium
+  url: https://blockscience.medium.com/
+
+----
+
+Role: Board,Research Director,Member,Contributor,Participant
+
+----
+
+Affiliation: BlockScience
+
+----
+
+Contributing: Exploring, Synthesizing, Quantitatively
+
+----
+
+Interests: quantitative methods,software development,human computer interaction (HCI),economics
+
+----
+
+Research-experience: online community / web2,crypto / DAOs / web3,software development,economics,quantitative methods
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Govbase* - An open database of projects and tools in online governance.,*DAOstar One* - A roundtable working towards an ERC standard to DAOs.,*Metaeth* - A Discord bot for ethical and responsive digital ethnography.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: true
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: JPjopqQjX2g2TQFv

@@ -1,0 +1,97 @@
+Title: Michael D. Bodman
+
+----
+
+Bio: I'm in blockchain software to support economic freedom, equality, and privacy. Through Open Source Ventures, I invest in blockchain solutions that disrupt traditional industries via open, decentralized, and permissionless software. Asset categories include web3, decentralized finance (DeFi), and non-fungible tokens (NFTs).
+
+----
+
+Links: 
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: Open Source Ventures LLC
+
+----
+
+Contributing: 
+
+----
+
+Interests: online communities / web2,cooperatives,somatic practices
+
+----
+
+Research-experience: crypto / DAOs / web3,software development,policy / law
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Govbase* - A lab building research data sets in online governance.,*DAOstar *- DAO standards working groups.,*Modpol *- A self-governance toolkit for communities in online worlds.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 2/14/2023 9:43pm
+
+----
+
+Uuid: jk9DVizgFz9t0S0M

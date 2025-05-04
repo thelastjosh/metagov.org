@@ -1,0 +1,101 @@
+Title: Nathan Schneider
+
+----
+
+Bio: I am an assistant professor of Media Studies at the University of Colorado Boulder, where I run the Media Enterprise Design Lab.
+
+----
+
+Links:
+
+- 
+  text: 🌐 Website
+  url: http://nathanschneider.info
+
+----
+
+Role: Board,Research Director,Member,Contributor,Participant
+
+----
+
+Affiliation: University of Colorado Boulder
+
+----
+
+Contributing: Theorizing, Amplifying, Building, Listening
+
+----
+
+Interests: human computer interaction (HCI),software development
+
+----
+
+Research-experience: crypto / DAOs / web3,civic engagement,online community / web2,offline governance,cooperatives,economics,social theory
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Metagov Gateway,Modpol,Govbase,DAOstar One,Metaeth
+
+----
+
+Is-pi-of: Governance Archaeology, CommunityRule, Modpol for Minetest, NSF Governance Transitions
+
+----
+
+Is-contributor-to: MetagovDAO, CommunityRule, Modpol for Minetest, Governance Archaeology, NSF Governance Transitions
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: true
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: neuVC2NprsEZ2c8u

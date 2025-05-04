@@ -1,0 +1,64 @@
+Title: Harmonica
+
+----
+
+Subheading: Framing, Elicitating, Deliberating
+
+----
+
+Cover:
+
+- >
+  file://7E7554EC-45B6-49CA-B8AA-593ACB524E3E
+
+----
+
+Website: https://harmonica.chat
+
+----
+
+Inputs: prompt
+
+----
+
+Outputs: summary of users responses
+
+----
+
+Description: AI agents hold parallel 1:1 dialogues with participants, uncovering the core value or position, checking this with others, and synthesizing the deliberation results.
+
+----
+
+Stage: Framing, Elicitation, Deliberation
+
+----
+
+Function: Summary, Debate
+
+----
+
+License: MIT
+
+----
+
+Infrastructure: ChatGPT
+
+----
+
+Category: Sense-making, LLM
+
+----
+
+Links: 
+
+----
+
+Uuid: G382f60lMpMFQKp2
+
+----
+
+Minparticipants: 5
+
+----
+
+Maxparticipants: 50

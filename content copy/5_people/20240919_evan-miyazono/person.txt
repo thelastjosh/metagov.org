@@ -1,0 +1,121 @@
+Title: Evan Miyazono
+
+----
+
+Affiliation: Atlas Computing
+
+----
+
+Image: 
+
+----
+
+Bio: Evan leads Atlas Computing, a nonprofit mapping and prototyping ways to scale human review and provable safety of advanced AI. He previously venture studio designing and deploying new coordination systems for humanity, as well as the building the research grants and metascience team at Protocol Labs (the company that initially created IPFS and Filecoin). He completed a PhD in Applied Physics at Caltech, developing hardware for a secure quantum internet, and a BS in Materials Engineering from Stanford.
+
+----
+
+Links:
+
+- 
+  text: https://miyazono.github.io/aboutme/
+  url: https://miyazono.github.io/aboutme/
+
+----
+
+Email: 
+
+----
+
+Interests: 
+
+----
+
+Contributions: 
+
+----
+
+Role: Research Director
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 2024-09-18
+
+----
+
+Public: true
+
+----
+
+Contributing: 
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Last-modified: 11/29/2023 9:51pm
+
+----
+
+Uuid: EaOjjD5zpILhXpjc

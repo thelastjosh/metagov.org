@@ -1,0 +1,49 @@
+Title: Pairwise
+
+----
+
+Subheading: Deciding
+
+----
+
+Cover: - file://9CZkVkT5d4cCNbM2
+
+----
+
+Website: https://www.pairwise.vote/
+
+----
+
+Inputs: 
+
+----
+
+Outputs: 
+
+----
+
+Description: Participants are presented with two choices at a time. Through these pairwise comparisons, users gradually rank multiple options.
+
+----
+
+Stage: Decision
+
+----
+
+Function: 
+
+----
+
+License: 
+
+----
+
+Infrastructure: 
+
+----
+
+Links: 
+
+----
+
+Uuid: 5RWokNgEbekqPJP0

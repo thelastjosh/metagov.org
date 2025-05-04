@@ -1,0 +1,96 @@
+Title: PolicyKit
+
+----
+
+Subheading: an engine for building governance in online communities
+
+----
+
+Cover: - file://sXzd9cT70GG7uDnJ
+
+----
+
+Website: https://policykit.org/
+
+----
+
+Description: PolicyKit empowers online community members to concisely author a wide range of governance procedures and automatically carry out those procedures on their home platforms.
+
+----
+
+Participate: Developers and Testers: Developers visit the GitHub repo and view the open issues. Interested playtesters should be in contact with Amy Zhang, project lead, who will notify you when the PolicyKit test server has been deployed.
+
+----
+
+Meetings: Slack: #metagov-gateway
+
+----
+
+Category: Governance UX
+
+----
+
+Date: 2024-01-10
+
+----
+
+Projectstatus: Active
+
+----
+
+Seeking-participants: true
+
+----
+
+Links:
+
+- 
+  text: 📃 Docs
+  url: >
+    https://policykit.readthedocs.io/en/latest/
+- 
+  text: 🌐 policykit.org
+  url: https://policykit.org/
+- 
+  text: 💻 GitHub Repo
+  url: https://github.com/policykit/policykit
+
+----
+
+Type: Tool, Publication
+
+----
+
+Research-directors: 
+
+----
+
+Members:
+
+- page://Ye0MulFIlYUXjm50
+- page://b39EAnSKOKgTFvAv
+- page://zw7Ivaeekos7Gbct
+
+----
+
+Contact: 
+
+----
+
+Project-status: Active
+
+----
+
+Discussion-forum: 
+
+----
+
+Seekingparticipants: true
+
+----
+
+Researchdirectors: 
+
+----
+
+Uuid: auhCUZh3xlfCDHv7

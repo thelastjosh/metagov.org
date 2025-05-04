@@ -1,0 +1,61 @@
+Title: Ammar Manla Hasan
+
+----
+
+Affiliation: Taxir
+
+----
+
+Image: 
+
+----
+
+Bio: Ammar Manla Hasan is a journalist, media entrepreneur and researcher, who worked in the Middle East and North Africa’s diverse media, art and culture scenes for over a decade. Ammar is the co-founder of Taxir, an initiative working towards facilitating blockchain adoption in MENA, with particular focus on: financial inclusion, integration in the global digital economy, and advocating for more decentralized and horizontal governance in the fields of labor and social change activism.
+
+----
+
+Links:
+
+- 
+  text: LinkedIn
+  url: https://lb.linkedin.com/in/ammaro
+
+----
+
+Email: 
+
+----
+
+Interests: 
+
+----
+
+Contributions: 
+
+----
+
+Role: 
+
+----
+
+Projects: projects/groundwork-fellowship
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: false
+
+----
+
+Uuid: HTdKQfBVuOFdxbOQ

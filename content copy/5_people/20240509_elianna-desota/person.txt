@@ -1,0 +1,57 @@
+Title: Elianna DeSota
+
+----
+
+Affiliation: 
+
+----
+
+Image: 
+
+----
+
+Bio: 
+
+----
+
+Links: 
+
+----
+
+Email: 
+
+----
+
+Interests: 
+
+----
+
+Contributions: 
+
+----
+
+Role: Participant, Contributor
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: true
+
+----
+
+Uuid: RKDeHB8izswwRJSi

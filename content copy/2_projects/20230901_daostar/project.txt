@@ -1,0 +1,113 @@
+Title: DAOstar
+
+----
+
+Subheading: the standards body of the DAO ecosystem
+
+----
+
+Cover: - file://2p1LZ27OAfycOyHL
+
+----
+
+Website: https://daostar.org
+
+----
+
+Description: DAOstar is the standards body of the DAO ecosystem.
+
+----
+
+Participate:
+
+Join the DAOstar community by filling out (link: https://metagov.typeform.com/to/rnv3Uk3X text: the onboarding survey). We'll sort you into workstreams from there.
+
+You can also contribute directly at github.com/metagov/daostar
+
+----
+
+Meetings: 
+
+----
+
+Category: Interoperability, Mapping Governance, Network Building
+
+----
+
+Date: 2023-09-01
+
+----
+
+Project-status: Active
+
+----
+
+Seeking-participants: true
+
+----
+
+Links:
+
+- 
+  text: 🌐 daostar.org
+  url: https://daostar.org
+- 
+  text: 📝 EIP-4824
+  url: https://eips.ethereum.org/EIPS/eip-4824
+- 
+  text: ✋ Community call
+  url: >
+    https://metagov.typeform.com/to/rnv3Uk3X?typeform-source=metagov.org
+- 
+  text: 🔭 Discord (currently on hiatus)
+  url: https://discord.com/invite/PdrPkEZVFk
+
+----
+
+Type: Roundtable, Technical Standard
+
+----
+
+Research-directors: 
+
+----
+
+Members:
+
+- page://xCa2ufCYD2fl5nu8
+- page://bqD5uZ4GLIAEpQXJ
+- page://nUhu9qMpTJWVKHto
+- page://x0SM45iWf2wb03Yw
+- page://JhteperhZJLSvhzz
+
+----
+
+Contact: hello@daostar.org
+
+----
+
+Discussion-forum: 
+
+----
+
+Projectstatus: Active
+
+----
+
+Seekingparticipants: true
+
+----
+
+Researchdirectors: 
+
+----
+
+Status: Active
+
+----
+
+Uuid: EcvOsbjjkptEcAz3
+
+----
+
+Tags: 

@@ -1,0 +1,45 @@
+Title: Decidim
+
+----
+
+Subheading: Framing, Deliberating, Elicitating, Deciding
+
+----
+
+Cover: - file://FuxzamEqC0P5wgu7
+
+----
+
+Website: https://decidim.org/
+
+----
+
+Inputs: 
+
+----
+
+Outputs: 
+
+----
+
+Description: A participatory platform enabling organizations to coordinate democratic processes such as assemblies, debates, initiatives, and participatory budgets. Participants propose ideas, deliberate, and track decision-making progress through transparent, auditable digital spaces.
+
+----
+
+Stage: Framing, Decision, Deliberation, Elicitation
+
+----
+
+Function: 
+
+----
+
+License: 
+
+----
+
+Infrastructure: 
+
+----
+
+Uuid: xwDPv7rovM7o6GjZ

@@ -1,0 +1,77 @@
+Title: Governance Surfaces
+
+----
+
+Subheading: a tool for analyzing DAO contracts
+
+----
+
+Cover: - file://eFeEv7M7NCfqc77H
+
+----
+
+Website: https://github.com/notchia/dao-governance-surfaces
+
+----
+
+Description: DAO governance smart contracts have configurable parameters that define what/how governance actions can be taken. We are creating and exploring a new dataset of these available governance surfaces and their implemented configurations.
+
+----
+
+Participate: 
+
+----
+
+Meetings: Slack: #govbase
+
+----
+
+Category: Governance UX
+
+----
+
+Date: 2024-02-20
+
+----
+
+Project-status: Complete
+
+----
+
+Seeking-participants: false
+
+----
+
+Links:
+
+- 
+  text: Website
+  url: >
+    https://github.com/notchia/dao-governance-surfaces
+
+----
+
+Type: Data Set
+
+----
+
+Research-directors: 
+
+----
+
+Members:
+
+- page://JhteperhZJLSvhzz
+- page://d3vnj5NR5qUbnTiI
+
+----
+
+Contact: 
+
+----
+
+Projectstatus: Complete
+
+----
+
+Uuid: 69p27nIoLrpSQhdl

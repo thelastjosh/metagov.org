@@ -1,0 +1,89 @@
+Title: AI Palace
+
+----
+
+Subheading: a residency for open-source, decentralized, public AI
+
+----
+
+Cover: - file://39LZU9DNjlAkfNsP
+
+----
+
+Website: https://www.aipalace.org/
+
+----
+
+Description: 
+
+----
+
+Participate: Apply to the residency, submit proposal
+
+----
+
+Meetings: 
+
+----
+
+Category: Convening & Experiences
+
+----
+
+Date: 2024-01-10
+
+----
+
+Project-status: Active
+
+----
+
+Seeking-participants: true
+
+----
+
+Links:
+
+- 
+  text: 🌐 aipalace.org
+  url: https://www.aipalace.org/
+- 
+  text: Application
+  url: >
+    https://docs.google.com/forms/d/e/1FAIpQLSdlGIo-gragn2yvHLkcdbpG4q4L2SFkiSrlegNoU37SBw6vqA/viewform
+
+----
+
+Type: Roundtable, R&D
+
+----
+
+Research-directors: 
+
+----
+
+Members: - page://JhteperhZJLSvhzz
+
+----
+
+Contact: 
+
+----
+
+Discussion-forum: 
+
+----
+
+Projectstatus: Active
+
+----
+
+Seekingparticipants: true
+
+----
+
+Researchdirectors: 
+
+----
+
+Uuid: wy3eDY6FUPgN4mVO

@@ -1,0 +1,97 @@
+Title: Seth Frey
+
+----
+
+Bio: I'm Seth, professor of Communication at UC Davis. Specializing in data science of online community from Ostrom perspective.
+
+----
+
+Links: 
+
+----
+
+Role: Research Director,Participant,Contributor
+
+----
+
+Affiliation: UC Davis
+
+----
+
+Contributing: Experimenting, Facilitating, Quantitatively, Peer Reviewing, Exploring, Explaining, Theorizing, Describing, Synthesizing
+
+----
+
+Interests: social theory,crypto / DAOs / web3,online communities / web2,quantitative methods,software development,civic engagement,offline governance,human computer interaction (HCI)
+
+----
+
+Research-experience: cooperatives,quantitative methods,human computer interaction (HCI),social theory,offline governance,online community / web2
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: true
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: NSF Governance Transitions
+
+----
+
+Is-contributor-to: NSF Governance Transitions
+
+----
+
+Is-mentor-of: Lucia Korpas
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 11/29/2023 9:51pm
+
+----
+
+Uuid: OjesIDtx7i88GyeQ

@@ -1,0 +1,101 @@
+Title: Myles Dear
+
+----
+
+Bio: I'm Myles, a software engineer and community advocate, and software lead at https://canadao.org, an organization dedicated to creating a censorship resistant, self-custodial, web3-based, scalable deliberation and voting app using principles of transitive delegation (Liquid Democracy).
+
+----
+
+Links:
+
+- 
+  text: Website
+  url: https://canadao.org
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: 
+
+----
+
+Interests: cooperatives,economics,online communities / web2,quantitative methods,social theory
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: 3uKmwX7mbnLkGwMZ

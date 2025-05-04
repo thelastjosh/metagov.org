@@ -1,0 +1,115 @@
+Title: Anne Lee Steele
+
+----
+
+Bio: I'm Anne, a digital anthropologist and community manager. I research the politics of (open) knowledge production, and the infrastructure that enables it.
+
+----
+
+Links:
+
+- 
+  text: www.aleesteele.com
+  url: http://www.aleesteele.com
+
+----
+
+Role: 
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Having followed Metagov for a few years, I'm keen to contribute my experience as an open source ethnographer, facilitator, and community organiser. I like to organise inclusive events and think through difficult issues that lie somewhere between theory and practice. Happy to help!
+
+----
+
+Interests: economics,human computer interaction (HCI),crypto / DAOs / web3,civic engagement,software development,social theory,policy / law
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers:
+
+- Community building
+- Ethnography 
+- Event organising/Inclusive unconferencing
+- Facilitation
+- Public speaking
+- Open Knowledge (open ecosystem thinking!)
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests:
+
+- Strategy building
+- Management
+- Movement building
+- Founding
+- Leadership
+- Conflict management
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: wohGJNoM2Y9s7j9L

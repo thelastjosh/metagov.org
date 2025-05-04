@@ -1,0 +1,76 @@
+Title: Constitutions of Web3
+
+----
+
+Subheading: analysis and guides for DAO constitutions
+
+----
+
+Cover: - file://3XBUxrZ67unnqgvA
+
+----
+
+Website: https://constitutions.metagov.org/
+
+----
+
+Description: Analysis and guides for DAO constitutions.
+
+----
+
+Participate: 
+
+----
+
+Meetings: 
+
+----
+
+Category: Interoperability, Mapping Governance
+
+----
+
+Date: 2024-02-20
+
+----
+
+Project-status: Active, Pending Funding
+
+----
+
+Seeking-participants: false
+
+----
+
+Links:
+
+- 
+  text: Website
+  url: https://constitutions.metagov.org/
+
+----
+
+Type: 
+
+----
+
+Research-directors: 
+
+----
+
+Members:
+
+- page://OjesIDtx7i88GyeQ
+- page://JhteperhZJLSvhzz
+
+----
+
+Contact: 
+
+----
+
+Projectstatus: Active, Pending Funding
+
+----
+
+Uuid: vg98Cloh3wYbpd5c

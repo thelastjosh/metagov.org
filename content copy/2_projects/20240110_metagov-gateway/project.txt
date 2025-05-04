@@ -1,0 +1,91 @@
+Title: Metagov Gateway
+
+----
+
+Subheading: an API gateway for digital governance services
+
+----
+
+Cover: - file://f8yoHiT4Sq0aig3W
+
+----
+
+Website: 
+
+----
+
+Description: Metagov Gateway is an API gateway and architecture for digital governance services. We think of it as v0.1 of a "governance layer" for the internet.
+
+----
+
+Participate: 
+
+----
+
+Meetings: Slack: #metagov-gateway
+
+----
+
+Category: 
+
+----
+
+Date: 2024-01-10
+
+----
+
+Project-status: Paused
+
+----
+
+Seeking-participants: false
+
+----
+
+Links:
+
+- 
+  text: 💻 GitHub Repo
+  url: https://github.com/metagov/gateway
+- 
+  text: 📃 Docs
+  url: https://docs.metagov.org/en/latest/
+
+----
+
+Type: Tool, Publication
+
+----
+
+Research-directors: 
+
+----
+
+Members:
+
+- page://JhteperhZJLSvhzz
+- page://Ye0MulFIlYUXjm50
+
+----
+
+Contact: 
+
+----
+
+Discussion-forum: 
+
+----
+
+Projectstatus: Paused
+
+----
+
+Seekingparticipants: false
+
+----
+
+Researchdirectors: 
+
+----
+
+Uuid: ng5Vo5EzAug6GRG7

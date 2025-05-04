@@ -1,0 +1,21 @@
+Title: Join
+
+----
+
+Subheading: get involved with metagov
+
+----
+
+Cover: 
+
+----
+
+Text: [{"content":{"text":"<p>Metagov is host to a community of research and practice.</p><p>Our community gathers online and in person to discuss ideas and recent research in online governance, plan and participate in seminars, convene governance experiments, collaborate with other organizations, and advance research outputs, all guided by our <a href=\"https://metagov.pubpub.org/pub/cc-code-of-conduct\">code of conduct</a>.</p>"},"id":"e3b9ac31-b10c-44dd-bb40-9bc1e5d85143","isHidden":false,"type":"text"},{"content":{"text":"- Join our community Slack by (link: https://metagov.typeform.com/metagov-survey text: filling out this survey)\n- Consider making an individual donation and (link: page://yqEpf1PEaDmUpoKW text: support Metagov)\n- Browse the current (link: page://w2xjsDJvySaiAKiH text: Community Directory)"},"id":"02b51b90-ce3d-4986-83e0-7658ee34fa1f","isHidden":false,"type":"markdown"}]
+
+----
+
+Width: false
+
+----
+
+Uuid: SiubgGbO8Le8SMuu

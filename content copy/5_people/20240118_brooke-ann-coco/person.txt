@@ -1,0 +1,97 @@
+Title: Brooke Ann Coco
+
+----
+
+Bio: My name is Brooke, and I am a cultural anthropologist and data scientist whose interests lie at the intersection between identity construction, technology, and hierarchies of power. I am currently a PhD student RMIT, where my research aims to empirically examine how decentralized communities socially produce theories of governance and operationalize them into digital infrastructures and algorithmic protocols.
+
+----
+
+Links: 
+
+----
+
+Role: 
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: I believe that my PhD research closely aligns with the goals of the Cartographies of Internet Metagovernance project. I would love to contribute any insights from my own research project to your larger mapping work. I am also keen to engage with the Teles, I would like to trial the Telescope bot as a means of data collection in my research. I would be willing to provide feedback on the tool or test new iterations of it.
+
+----
+
+Interests: cooperatives,crypto / DAOs / web3,economics,policy / law,social theory,software development,human computer interaction (HCI),civic engagement,somatic practices
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: For now, it'd be useful to learn about resources that are useful for getting started in blockchain. There are tons of resources out there, however most that I've come across are either not maintained, out of date, or too advanced. Ultimately, I am interested in learning about and engaging with DAOs situated within Web 3 or the creative industries, as opposed to finance.
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Telescope *- A Discord bot for ethical and responsive digital ethnography.,*Modpol *- A self-governance toolkit for communities in online worlds.,*DAOstar *- DAO standards working groups.,*Cartographies of Internet Metagovernance* - Metagov research and governance mapping project
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:20
+
+----
+
+Uuid: jNRsNCbjJPrJJAzl

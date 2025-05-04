@@ -1,0 +1,57 @@
+Title: Ben Biedermann
+
+----
+
+Affiliation: DAOstar, Research Fellow
+
+----
+
+Image: 
+
+----
+
+Bio: 
+
+----
+
+Links: 
+
+----
+
+Email: 
+
+----
+
+Interests: 
+
+----
+
+Contributions: 
+
+----
+
+Role: Team
+
+----
+
+Projects: projects/daostar
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: false
+
+----
+
+Uuid: T1GtFCly1h3jdPPU

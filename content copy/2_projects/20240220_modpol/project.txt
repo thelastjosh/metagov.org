@@ -1,0 +1,84 @@
+Title: Modpol
+
+----
+
+Subheading: a governance mod for Minetest
+
+----
+
+Cover: - file://rIdLNfOqrL0XFrru
+
+----
+
+Website: 
+
+----
+
+Description: Modpol is software written in the popular extension language Lua that seeks to implement the Modular Politics paper. It is being developed initially for command-line interface and Minetest, the open-source Minecraft clone.
+
+----
+
+Participate: Not currently seeking contributions
+
+----
+
+Meetings: Slack: #modpol
+
+----
+
+Category: Governance UX
+
+----
+
+Date: 2024-02-20
+
+----
+
+Project-status: Complete
+
+----
+
+Seeking-participants: false
+
+----
+
+Links:
+
+- 
+  text: 🌐 Modpol.net
+  url: https://modpol.net/
+- 
+  text: 💻 Gitlab
+  url: >
+    https://gitlab.com/medlabboulder/modpol/-/wikis/home
+- 
+  text: 📝 Blog Post
+  url: >
+    https://hackernoon.com/modpol-is-a-self-governance-toolkit-for-communities-in-online-worlds
+
+----
+
+Type: Tool
+
+----
+
+Research-directors: 
+
+----
+
+Members:
+
+- page://xAIKANHjHhEkXdGO
+- page://neuVC2NprsEZ2c8u
+
+----
+
+Contact: 
+
+----
+
+Projectstatus: Complete
+
+----
+
+Uuid: UTiDXGBfcXOjiqY5

@@ -1,0 +1,97 @@
+Title: Manuel
+
+----
+
+Bio: I'm Manuel, MA in Political Science at Universidad Torcuato Di Tella (Argentina). Currently interested in crypto and DAOs governance and working at Buenos Aires City Government.
+
+----
+
+Links: 
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Exploring, Listening, Describing, Explaining
+
+----
+
+Interests: crypto / DAOs / web3,software development,quantitative methods
+
+----
+
+Research-experience: quantitative methods,offline governance,qualitative methods,policy / law
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Metagov Gateway,Modpol,Govbase,DAOstar One,Metaeth
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:03
+
+----
+
+Uuid: crFKdRycNKtw18mj

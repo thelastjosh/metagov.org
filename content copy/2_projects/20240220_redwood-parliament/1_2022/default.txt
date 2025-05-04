@@ -1,0 +1,21 @@
+Title: Redwood Parliament
+
+----
+
+Subheading: 
+
+----
+
+Cover: 
+
+----
+
+Text: [{"content":{"text":"<p>Redwood Parliament is a governance convocation event. Our inaugural gathering was held in August 2022 during <u><a href=\"https://dwebcamp.org/\">DWeb Camp</a></u>. The parliament brought together a collection of interdisciplinary thinkers, artists, dreamers, and builders to discuss, role play, speculate, and workshop our way towards a governance layer for the internet.</p>"},"id":"032a69d3-dcb7-4fc6-89f5-aaaf58e94078","isHidden":false,"type":"text"},{"content":{"text":"<iframe width=\"100%\" height=\"370\" src=\"https://www.youtube.com/embed/79EeSt8L7cw?si=VZ9YiuQbRST7O4qf\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"},"id":"d2686c04-99fa-4dbe-af90-f82fdf1c2df5","isHidden":false,"type":"markdown"},{"content":{"text":"<br>"},"id":"17427596-05c4-4c95-a1ed-a64ae6ad812a","isHidden":false,"type":"markdown"},{"content":{"text":"<p>For a complete overview of the event, listen to co-curator Tony Lai <u><a href=\"https://opentony.com/the-redwood-parliament/\">reading a reflection</a></u> of his time at Redwood Parliament. Some of the ongoing work to come out of Redwood Parliament has also be <u><a href=\"https://metagov.substack.com/p/metagov-news-7-november-2022#%C2%A7the-dweb-long-echo-periodic-reflections-and-sharings-from-redwood-parliament\">documented in our newsletter</a></u>.</p>"},"id":"da2cdb60-872c-4129-bfe0-ead8fdd5a4e3","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"<strong>Inaugural Members of Redwood Parliament</strong>"},"id":"fe6fb47b-fdfd-493f-b86f-a6b7fd35dada","isHidden":false,"type":"heading"},{"content":{"text":"- Zarinah Agnew\n- Calum Bowden\n- Christina Bowen\n- Case\n- Angela Corpus\n- Primavera De Filippi\n- Taylor Ferrari\n- Seth Frey\n- Dazza Greenwood\n- Jack Henderson\n- Kola Heyward-Rotimi\n- Cent Hosten\n- brandon king\n- Tony Lai\n- Larry Lessig\n- Laura Lotti\n- Tara Merk\n- Luke Miller\n- Aviv Ovadya\n- Isaac Patka\n- Matt Prewitt\n- Alex Randaccio\n- Dylan Reibling\n- Ellie Rennie\n- Jessy Kate Schingler\n- Nathan Schneider\n- Divya Siddarth\n- Joshua Tan\n- riley wong\n- Michael Zargham\n- Amy Zhang\n- The attendees of DWeb Camp 2022"},"id":"bd1c4a03-4db1-4575-a04f-75f4a6837ac1","isHidden":false,"type":"markdown"},{"content":{"level":"h2","text":"<strong>Special Thanks</strong>"},"id":"721b3ff0-42e7-4d8c-a67e-a0dbd34efe42","isHidden":false,"type":"heading"},{"content":{"text":"- Cent Hosten & Tony Lai, co-curators\n- RadicalxChange & Internet Archive, partners\n- Dylan Reibling, film"},"id":"b17a8b17-8a73-487f-8a23-884f5d26dd20","isHidden":false,"type":"markdown"},{"content":{"level":"h2","text":"<strong>Supporters</strong>"},"id":"6917e5e6-d948-437b-b966-61bd25646f3c","isHidden":false,"type":"heading"},{"content":{"text":"- Unfinished / Project Liberty & National Science Foundation"},"id":"8429a651-554c-48e3-a9c5-a3d747fbc3c5","isHidden":false,"type":"markdown"}]
+
+----
+
+Width: false
+
+----
+
+Uuid: x6Oi0XNXnL7wxQyw

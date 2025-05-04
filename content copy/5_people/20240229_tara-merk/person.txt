@@ -1,0 +1,122 @@
+Title: Tara Merk
+
+----
+
+Affiliation: Research Fellow
+
+----
+
+Image: 
+
+----
+
+Bio: 
+
+----
+
+Links:
+
+- 
+  text: LinkedIn
+  url: >
+    https://www.linkedin.com/in/tara-merk-1765b8117/?locale=en_US
+
+----
+
+Email: 
+
+----
+
+Interests: 
+
+----
+
+Contributions: 
+
+----
+
+Role: Participant, Contributor, Team
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: true
+
+----
+
+Contributing: 
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: true
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: Val Elefante
+
+----
+
+Membership-program-member: 
+
+----
+
+Last-modified: 11/29/2023 9:51pm
+
+----
+
+Uuid: 4gZi5E3CbYkAj38k

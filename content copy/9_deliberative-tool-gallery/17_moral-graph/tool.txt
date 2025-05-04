@@ -1,0 +1,53 @@
+Title: Moral Graph Elicitation
+
+----
+
+Subheading: Elicitating
+
+----
+
+Cover: - file://WFWTBqng9XmjnLZX
+
+----
+
+Website: https://dft.meaningalignment.org/data/edges
+
+----
+
+Inputs: 
+
+----
+
+Outputs: 
+
+----
+
+Description: AI agents present specific scenarios to participants, and request them to describe the values that would guide their choice of action in that scenario or “context”. These responses are then grouped by values and shown to others who are asked to rank the choices of action as “wiser” or “less wise” — a moral graph
+
+----
+
+Stage: Elicitation
+
+----
+
+Function: 
+
+----
+
+License: 
+
+----
+
+Infrastructure: 
+
+----
+
+People: 
+
+----
+
+Uuid: C5I57cBOs2NAmSib
+
+----
+
+Links: 

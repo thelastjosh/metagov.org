@@ -1,0 +1,101 @@
+Title: Joanne Cheung
+
+----
+
+Bio: I'm an artist and designer researching the relationships between physical / digital spatial governance, in particular,  land trusts / data trusts.
+
+----
+
+Links:
+
+- 
+  text: 🌐 Website
+  url: http://joannekcheung.com
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: 
+
+----
+
+Interests: human computer interaction (HCI),somatic practices,qualitative methods
+
+----
+
+Research-experience: social theory,qualitative methods,civic engagement
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: mZUI0U8ZKG8r7zy3

@@ -1,0 +1,101 @@
+Title: Alex W. Rodríguez
+
+----
+
+Bio: I'm Alex, jazz anthropologist and trombonist working at the confluences of music, spirituality and social transformation. Big fan of Ornette Coleman, Cedric Robinson, and Sociocracy. PhD in Ethnomusicology on jazz clubs in California, Chile, and Siberia.
+
+----
+
+Links:
+
+- 
+  text: Website
+  url: https://alexwrodriguez.com
+
+----
+
+Role: Member,Contributor,Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Applying, Exploring, Synthesizing
+
+----
+
+Interests: crypto / DAOs / web3,human computer interaction (HCI),software development
+
+----
+
+Research-experience: online community / web2,cooperatives,social theory,qualitative methods
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: true
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: sGFSm0zpJ1enFoWq

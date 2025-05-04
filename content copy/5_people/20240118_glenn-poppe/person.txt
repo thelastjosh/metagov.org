@@ -1,0 +1,97 @@
+Title: glenn poppe
+
+----
+
+Bio: i'm glenn.  our team is building a decentralized media protocol (meem.wtf) that allows anyone to deploy and manage their own community agreement that interoperates with web3 tools.  i also spend my time working on kernel.community and buidl.fm.
+
+----
+
+Links: 
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: meem protocol (meem.wtf)
+
+----
+
+Contributing: Applying, Experimenting, Building
+
+----
+
+Interests: cooperatives,human computer interaction (HCI),policy / law,social theory,economics,crypto / DAOs / web3
+
+----
+
+Research-experience: crypto / DAOs / web3,online community / web2
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *DAOstar One* - A roundtable working towards an ERC standard to DAOs.,*Govbase* - An open database of projects and tools in online governance.,*Modpol *- A self-governance toolkit for communities in online worlds.,*Metagov Gateway* - A unified API gateway for digital governance services.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:03
+
+----
+
+Uuid: XwbExuNrtYDOz5hY

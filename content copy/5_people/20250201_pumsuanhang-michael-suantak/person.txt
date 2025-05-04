@@ -1,0 +1,65 @@
+Title: Pumsuanhang (Michael) Suantak
+
+----
+
+Affiliation: Alternative Solutions for Rural Communities
+
+----
+
+Image: 
+
+----
+
+Bio:
+
+Michael Suantak (aka Pumsuanhang Suantak) is a civic-minded social innovator who has made a significant impact in India and Myanmar. While born and educated in India, he has worked in Myanmar for decades and is known as one of the "Myanmar digital Tarzans from the Jungle of Chin State," where he built a community wireless network that connects 20 jungle villages with the MESH network in Chin State. This network serves educational content, including Khan Academy video content, local news, and infotainment, on local open-source servers, which are maintained by local communities.
+
+Prior to this initiative, he was a founding member of the BIT team in 2002 and an organizational manager in New Delhi, India. He has since become a digital security trainer, raising awareness of digital security and digital rights with local and international experts. Michael is also one of the 150-plus DeBoer fellows and is currently working with ASORCOM (Alternative Solutions for Rural Communities) as a Director. His current work includes leading research in digital and cybersecurity auditing for change agent organizations, cyber policy development in Asia, and integrating modern technology into the education system. His primary interests are digital and cybersecurity policy, law development, and enforcement in Asia.
+
+----
+
+Links:
+
+- 
+  text: LinkedIn
+  url: https://www.linkedin.com/in/msuantak/
+
+----
+
+Email: 
+
+----
+
+Interests: 
+
+----
+
+Contributions: 
+
+----
+
+Role: 
+
+----
+
+Projects: projects/groundwork-fellowship
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: false
+
+----
+
+Uuid: i64TCrCmPWCAlm6f

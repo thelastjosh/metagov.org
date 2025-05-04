@@ -1,0 +1,101 @@
+Title: Guangmian Kung
+
+----
+
+Bio: I'm the Integrations and Partnerships Lead at Kleros.
+
+----
+
+Links:
+
+- 
+  text: 💼 LinkedIn
+  url: https://www.linkedin.com/in/guangmian-kung-10398626/
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: Kleros
+
+----
+
+Contributing: Explaining, Conversing, Applying
+
+----
+
+Interests: crypto / DAOs / web3,social theory,policy / law
+
+----
+
+Research-experience: crypto / DAOs / web3,policy / law,social theory
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Modpol,DAOstar One,Metaeth
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: 7pK2Oywfi8eDbY3Z

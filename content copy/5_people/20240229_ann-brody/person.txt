@@ -1,0 +1,121 @@
+Title: Ann Brody
+
+----
+
+Affiliation: Metagov Alumni
+
+----
+
+Image: 
+
+----
+
+Bio: I'm Ann, I am a PhD student at McGill University studying blockchain communities and DAOs.
+
+----
+
+Links:
+
+- 
+  text: 🌐 Website
+  url: http://annbrody.com
+
+----
+
+Email: 
+
+----
+
+Interests: social theory, crypto / DAOs / web3, qualitative methods, civic engagement
+
+----
+
+Contributions: 
+
+----
+
+Role: Alumni, Participant
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: true
+
+----
+
+Contributing: Theorizing, Qualitatively, Describing
+
+----
+
+Research-experience: crypto / DAOs / web3,social theory,qualitative methods
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Govbase,Metaeth
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: Govbase Dataset
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: zOouzvaBotMl6l8r

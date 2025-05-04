@@ -1,0 +1,101 @@
+Title: Manon Revel
+
+----
+
+Bio: I am a PhD student at MIT and a democracy fellow at Harvard working on selection rules for decentralised governance.
+
+----
+
+Links:
+
+- 
+  text: Github
+  url: https://manrev.github.io/manon/
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: 
+
+----
+
+Interests: civic engagement,cooperatives,economics,human computer interaction (HCI),quantitative methods,social theory
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: interdisciplinary research, navigating grade school
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: explore research from practice
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,*DAOstar *- DAO standards working groups.,*Cartographies of Internet Metagovernance* - Metagov research and governance mapping project
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: KNXrhACXqpmPQp8x

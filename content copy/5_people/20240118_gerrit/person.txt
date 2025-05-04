@@ -1,0 +1,101 @@
+Title: Gerrit
+
+----
+
+Bio: I'm Gerrit, working on enabling web3 governance that goes beyond 'code-is-law' at Q (q.org)
+
+----
+
+Links:
+
+- 
+  text: Link Tree
+  url: https://linktr.ee/qblockchain
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: 
+
+----
+
+Interests: cooperatives
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,*Cartographies of Internet Metagovernance* - Metagov research and governance mapping project,*DAOstar *- DAO standards working groups.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: i4q0vkgw7PwtMfAg

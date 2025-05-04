@@ -1,0 +1,103 @@
+Title: curiousjoe
+
+----
+
+Bio: I am a DAO enthusiast, Ph.D in politics. I was involved with many DAOs: core contributor of the_OpenDAO; Delegate of DEFI protocol DAO--eulerfinance DAO; Member of FWB, MatrixDAO(a Chinese private venture DAO), and SeeDAO(in my opinion the best Chinese DAO). Was multi-sig candidate of Project Galaxy DAO.
+
+----
+
+Links:
+
+- 
+  text: Mirror
+  url: https://mirror.xyz/curiousjoe.eth  - 
+  text: Twitter
+  url: https://mobile.twitter.com/curiousjoe5
+
+----
+
+Role: Participant,Contributor
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Applying, Conversing, Describing
+
+----
+
+Interests: cooperatives,civic engagement
+
+----
+
+Research-experience: crypto / DAOs / web3
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *DAOstar One* - A roundtable working towards an ERC standard to DAOs.,*Modpol *- A self-governance toolkit for communities in online worlds.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: rd440R0ONdeRIYtp

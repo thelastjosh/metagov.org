@@ -1,0 +1,97 @@
+Title: Sean Roberts
+
+----
+
+Bio: I am Sean, an open source contributor and organizer. I like creating commercial value from OSS and helping developers advance their careers.
+
+----
+
+Links: 
+
+----
+
+Role: 
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: I like to participate in discussions on the latest in the regulatory and legal situation. In-person events provide the greatest value and connection, so I am always interested in helping to facilitate them. I am effectively working two jobs right now, so I can not commit to contributing more this right now. When I have more spare time, I will be able to find more ways to participate.
+
+----
+
+Interests: quantitative methods,economics,crypto / DAOs / web3,civic engagement,cooperatives,qualitative methods
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: Non-profit bylaws, commerical open source, agile software development, and network infrastructure
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Cartographies of Internet Metagovernance* - Metagov research and governance mapping project,US regulatory and legal impacts on currencies and open data
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:19
+
+----
+
+Uuid: 1k4Qytrt0Gu6Bun8

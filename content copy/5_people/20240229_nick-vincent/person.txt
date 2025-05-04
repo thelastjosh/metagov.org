@@ -1,0 +1,61 @@
+Title: Nick Vincent
+
+----
+
+Affiliation: Simon Fraser University
+
+----
+
+Image: 
+
+----
+
+Bio: 
+
+----
+
+Links:
+
+- 
+  text: Personal Website
+  url: https://www.nickmvincent.com/
+
+----
+
+Email: 
+
+----
+
+Interests: 
+
+----
+
+Contributions: 
+
+----
+
+Role: Research Director, Member, Contributor
+
+----
+
+Projects: projects/policykit, projects/ai-palace, projects/public-ai
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: false
+
+----
+
+Uuid: 18wkOzCb2LXegaSt

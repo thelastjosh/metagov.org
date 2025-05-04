@@ -1,0 +1,101 @@
+Title: Metagov Seminar
+
+----
+
+Subheading: a weekly seminar
+
+----
+
+Cover: - file://rIPXVej9F5sBcu3Y
+
+----
+
+Website: https://metagov.org/seminar/
+
+----
+
+Description: A weekly seminar featuring individuals working in online governance. Seminar topics include: computational tools for governance, governance incidents and case studies from online communities, topics in cryptoeconomics, and the design of digital constitutions.
+
+----
+
+Participate: Join the community and sign up to present at a Short Talks seminar. Community can also propose seminars in the Slack in #metagov-seminar.
+
+----
+
+Meetings: Slack: #metagov-seminar
+
+----
+
+Category: Community
+
+----
+
+Date: 2024-01-10
+
+----
+
+Projectstatus: Active
+
+----
+
+Seeking-participants: false
+
+----
+
+Links:
+
+- 
+  text: Schedule
+  url: https://metagov.org/seminar/
+- 
+  text: Seminar proposal guide
+  url: >
+    https://metagov.pubpub.org/pub/proposing-a-metagov-seminar/release/1
+- 
+  text: Hosting a short talk guide
+  url: >
+    https://metagov.pubpub.org/pub/short-talk-host-guide/release/2
+
+----
+
+Type: Community of Practice
+
+----
+
+Research-directors: 
+
+----
+
+Members:
+
+- page://neuVC2NprsEZ2c8u
+- page://fZBv4pNTeSI6OOhE
+- page://JhteperhZJLSvhzz
+- page://YhowSaGTLc5BupqG
+- page://xCa2ufCYD2fl5nu8
+- page://Ye0MulFIlYUXjm50
+- page://JPjopqQjX2g2TQFv
+
+----
+
+Contact: 
+
+----
+
+Project-status: Active
+
+----
+
+Discussion-forum: 
+
+----
+
+Seekingparticipants: false
+
+----
+
+Researchdirectors: 
+
+----
+
+Uuid: nB1mI69VGlu5kuI1

@@ -1,0 +1,65 @@
+Title: Connor Spelliscy
+
+----
+
+Affiliation: Decentralization Research Center
+
+----
+
+Image: 
+
+----
+
+Bio: I’m a decentralized and plural technologies researcher and advocate, primarily focused on decentralized autonomous organizations (DAOs).
+
+----
+
+Links:
+
+- 
+  text: LinkedIn
+  url: >
+    https://www.linkedin.com/in/connorspelliscy?originalSubdomain=ca
+- 
+  text: Personal Website
+  url: https://www.connorspelliscy.com/about
+
+----
+
+Email: 
+
+----
+
+Interests: 
+
+----
+
+Contributions: 
+
+----
+
+Role: Advisor
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: false
+
+----
+
+Uuid: mAwWFPEKeNkTsqOn

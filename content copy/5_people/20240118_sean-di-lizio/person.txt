@@ -1,0 +1,97 @@
+Title: Sean Di Lizio
+
+----
+
+Bio: I'm Sean, a PhD candidate at QUT in Queensland, Australia looking at how smart contracts could be used to change how both trade and academic publishing work.
+
+----
+
+Links: 
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: PhD Candidate at QUT although 'represent' is a strong word.
+
+----
+
+Contributing: Listening, Synthesizing, Describing
+
+----
+
+Interests: cooperatives,human computer interaction (HCI),qualitative methods
+
+----
+
+Research-experience: Publishing.
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *DAOstar One* - A roundtable working towards an ERC standard to DAOs.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:03
+
+----
+
+Uuid: YkpDGpJVlUXU47CZ

@@ -1,0 +1,97 @@
+Title: Luyao Zhang
+
+----
+
+Bio: Luyao (Sunshine) Zhang is Assistant Professor of Economics and Senior Research Scientist at the Data Science Research Center at Duke Kunshan University (DKU). Her current research interests are at the interplay of computational science and economics around the applications of Blockchain technology. https://scholars.duke.edu/person/luyao.zhang
+
+----
+
+Links: 
+
+----
+
+Role: 
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: I like to do interdisciplinary research on DAO of both profound insights and practical impacts. I also love to research and develop on-chain governance system.
+
+----
+
+Interests: cooperatives,qualitative methods,policy / law,human computer interaction (HCI),online communities / web2,civic engagement,crypto / DAOs / web3,quantitative methods,social theory
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: on-chain governance
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: on-chain governance
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: iGUv5bo45BOMzgBh

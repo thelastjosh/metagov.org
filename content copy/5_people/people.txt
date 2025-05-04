@@ -1,0 +1,36 @@
+Title: People
+
+----
+
+Subheading: 
+
+----
+
+Cover: - file://yUCJp7dI48nVM8jU
+
+----
+
+Content: [{"content":{"text":"<p>Metagov is a community of research and practice gathered around our mission to cultivate tools, practices, and communities that enable self-governance in the digital age.</p><p>Our community gathers online and in person to discuss ideas and recent research in online governance, plan and participate in seminars, convene governance experiments, collaborate with other organizations, and advance research outputs, all guided by our <a href=\"https://metagov.pubpub.org/pub/cc-code-of-conduct\">code of conduct</a>.</p><p>We also maintain a public community directory for connecting participants of our community. </p><p><a href=\"/@/page/3IxUqbjNc4XwS902\">Learn more</a> about joining our community, how we conduct orientations, and how to be added to this directory.</p>"},"id":"565c3215-d9c1-44ce-80a3-218ba50bd404","isHidden":true,"type":"text"},{"content":[],"id":"d4f5c606-faea-4a72-ba37-96cef968c67e","isHidden":true,"type":"line"},{"content":{"level":"h2","text":"Our team"},"id":"6c8be2a8-99b5-42d1-94b2-60948c723551","isHidden":true,"type":"heading"}]
+
+----
+
+Team: Research Director, Board, Team, Alumni, Advisor
+
+----
+
+Avatars:
+
+- file://RqTIT5d710rYq7Xj
+- file://26TTuBwBHjz0uO2U
+- file://up0UWGPRCjxmDuCT
+- file://yz7B3y7rf60ijD5u
+- file://ggm6dbp0ZhVXRGdX
+- file://mB8jlY7ha4mycBdx
+- file://si3y3Zpi3IStFeYl
+- file://cVQZf4wWFx0BLlSF
+- file://DIEZdqLHx5sNObp6
+- file://sV0zIaPfQptm2jYP
+
+----
+
+Uuid: w2xjsDJvySaiAKiH

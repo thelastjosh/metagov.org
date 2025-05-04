@@ -1,0 +1,97 @@
+Title: Shawn Grubb
+
+----
+
+Bio: I am a governance and metagovernance practitioner - looking to expand the reach in Web3
+
+----
+
+Links: 
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: Index Coop
+
+----
+
+Contributing: Applying, Facilitating, Theorizing
+
+----
+
+Interests: crypto / DAOs / web3,offline governance
+
+----
+
+Research-experience: crypto / DAOs / web3,software development
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Metagov Gateway,Modpol,Govbase
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:03
+
+----
+
+Uuid: FFk9xR3cDEq7kd5U

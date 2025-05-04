@@ -1,0 +1,121 @@
+Title: Hazel Devjani
+
+----
+
+Affiliation: Research Assistant
+
+----
+
+Image: 
+
+----
+
+Bio: Hi! I'm Hazel (she/they). I'm an alum of Deep Springs College, California. I am a student of political theory by training, and I find myself thinking a lot about DAOs, locality, scale, communities, and health of political bodies.
+
+----
+
+Links:
+
+- 
+  text: Twitter
+  url: https://twitter.com/hazeldevjani
+
+----
+
+Email: 
+
+----
+
+Interests: online communities / web2, crypto / DAOs / web3, offline governance, social theory, quantitative methods, qualitative methods
+
+----
+
+Contributions: 
+
+----
+
+Role: Member, Contributor, Participant, Team
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Date-joined: 
+
+----
+
+Public: true
+
+----
+
+Contributing: Theorizing, Conversing, Qualitatively
+
+----
+
+Research-experience: offline governance,crypto / DAOs / web3,online community / web2,social theory
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: true
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Metaeth,DAOstar One,Modpol
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: x0SM45iWf2wb03Yw

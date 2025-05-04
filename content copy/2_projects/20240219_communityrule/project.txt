@@ -1,0 +1,85 @@
+Title: CommunityRule
+
+----
+
+Subheading: a user-friendly governance toolkit for great communities
+
+----
+
+Cover: - file://t8HGkiz836tgRJ98
+
+----
+
+Website: 
+
+----
+
+Description: CommunityRule is a web application that allows users to author and share simple constitutions for their groups.
+
+----
+
+Participate: Make a Template: Explore CommunityRule by browsing the library of templates or making your own community governance template.
+
+----
+
+Meetings: 
+
+----
+
+Category: Governance UX
+
+----
+
+Date: 2024-02-19
+
+----
+
+Project-status: Complete
+
+----
+
+Seeking-participants: true
+
+----
+
+Links:
+
+- 
+  text: 🌐 Website
+  url: https://communityrule.info/
+- 
+  text: 💻 GitLab
+  url: >
+    https://gitlab.com/medlabboulder/communityrule
+- 
+  text: 📝 Blog Post
+  url: >
+    https://www.colorado.edu/lab/medlab/2021/07/15/community-rules-simple-templates-great-communities
+
+----
+
+Type: Tool, Publication
+
+----
+
+Research-directors: 
+
+----
+
+Members: - page://neuVC2NprsEZ2c8u
+
+----
+
+Contact: 
+
+----
+
+Projectstatus: 
+
+----
+
+Discussion-forum: Slack: #general
+
+----
+
+Uuid: a4mxNrSAGSynHWq6

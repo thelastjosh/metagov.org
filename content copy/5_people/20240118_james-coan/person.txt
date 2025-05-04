@@ -1,0 +1,101 @@
+Title: James Coan
+
+----
+
+Bio: I'm James, and I'm a practitioner focused on reducing political polarization. My interest here concerns the potential for public policy and other methods to reduce the polarizing effects of social media algorithms and other technologies.
+
+----
+
+Links:
+
+- 
+  text: www.morelikeus.org
+  url: http://www.morelikeus.org
+
+----
+
+Role: 
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: I'm starting a non-profit called More Like US to reduce political polarization, and I want to offer projects for researchers to be able to test the effectiveness of our interventions.
+
+----
+
+Interests: policy / law,civic engagement,quantitative methods
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: Public policy, algorithms, impacts to political polarization, starting non-profits focused on public knowledge and/or public policy, social media impacts, potential political impacts of AI
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: e4gCn7jdXP1VtMTB

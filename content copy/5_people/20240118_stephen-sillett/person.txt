@@ -1,0 +1,101 @@
+Title: Stephen Sillett
+
+----
+
+Bio: I am a Sociodrama and participatory theatre facilitator and artist that uses gather town to research meaningful pathways to action
+
+----
+
+Links:
+
+- 
+  text: Website
+  url: http://Www.infusion.space
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: 
+
+----
+
+Interests: civic engagement,economics,crypto / DAOs / web3,human computer interaction (HCI)
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: Facilitation of immersive workshops in person and on gather town
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: Narrative inquiry methods
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,*DAOstar *- DAO standards working groups.,*Telescope *- A Discord bot for ethical and responsive digital ethnography.,*Cartographies of Internet Metagovernance* - Metagov research and governance mapping project
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: 48NFlnq9U0Dn4DVQ

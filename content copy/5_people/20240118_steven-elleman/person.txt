@@ -1,0 +1,101 @@
+Title: Steven Elleman
+
+----
+
+Bio: Professional software engineer working at intersection of cybersecurity and infrastructure for the last 5 years. Previously studied computer science, economics, and anthropology at UC Berkeley. Parents are both history professors and my upbringing spanned the US, Australia, and Japan.
+
+----
+
+Links:
+
+- 
+  text: Website
+  url: http://www.stevenelleman.com
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Applying, Experimenting, Building
+
+----
+
+Interests: human computer interaction (HCI),cooperatives,crypto / DAOs / web3
+
+----
+
+Research-experience: cooperatives,economics,social theory,software development
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: At DWeb Camp I heard there was a seminar. Would love to start there.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: Wl6gmtjE06KE0IeS

@@ -1,0 +1,101 @@
+Title: Christian Conaway
+
+----
+
+Bio: I'm Christian, I'm a musician who also studies auditory perception and is interested in exploring how music can convey objective information intuitively.
+
+----
+
+Links:
+
+- 
+  text: 🌐 Website
+  url: https://www.christianconaway.xyz/
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: 
+
+----
+
+Interests: policy / law,somatic practices,social theory
+
+----
+
+Research-experience: quantitative methods,human computer interaction (HCI),software development
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,Pedagogy and how communities learn and communicate information!
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: xGxhVarDMGyNExPW

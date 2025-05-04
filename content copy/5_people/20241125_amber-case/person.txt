@@ -1,0 +1,61 @@
+Title: Amber Case
+
+----
+
+Affiliation: Calm Tech Foundation
+
+----
+
+Image: 
+
+----
+
+Bio: Hello! I'm Case. I work on DAO tooling at DAO DAO! I'm interested in how to make better governance templates around DAOs, help make research articles more accessible to people outside of the research fractal (one level up in abstraction possibly, but in a non-lossy or minimally lossy way). I was also at Berkman Center for a few years with Primavera! I met some of you at DWebCamp and would really like to do more!
+
+----
+
+Links:
+
+- 
+  text: Personal Website
+  url: https://www.caseorganic.com/
+
+----
+
+Email: 
+
+----
+
+Interests: 
+
+----
+
+Contributions: 
+
+----
+
+Role: Research Director, Participant, Contributor
+
+----
+
+Projects: projects/calm-technology
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: false
+
+----
+
+Uuid: dtgCMCHFBfy5wGZm

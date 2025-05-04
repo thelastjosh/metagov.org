@@ -1,0 +1,101 @@
+Title: Maryam Mazraei
+
+----
+
+Bio: Worked/working across sustainable supply chain infra, software, research and blockchain.
+
+----
+
+Links:
+
+- 
+  text: 🐤 Twitter
+  url: https://twitter.com/mmazco
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: Crowdmuse
+
+----
+
+Contributing: 
+
+----
+
+Interests: quantitative methods,qualitative methods,cooperatives,social theory,software development
+
+----
+
+Research-experience: crypto / DAOs / web3,software development,qualitative methods
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *DAOstar *- DAO standards working groups.,*Modpol *- A self-governance toolkit for communities in online worlds.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: ReYnEVEBdGlBAfUj

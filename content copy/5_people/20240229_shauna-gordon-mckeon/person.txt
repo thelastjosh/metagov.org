@@ -1,0 +1,121 @@
+Title: Shauna Gordon-McKeon
+
+----
+
+Affiliation: Metagov Alumni
+
+----
+
+Image: 
+
+----
+
+Bio: 
+
+----
+
+Links:
+
+- 
+  text: Website
+  url: http://shaunagm.net
+
+----
+
+Email: 
+
+----
+
+Interests: human computer interaction (HCI), cooperatives, offline governance, economics, policy / law, social theory, qualitative methods, quantitative methods
+
+----
+
+Contributions: 
+
+----
+
+Role: Participant, Contributor, Alumni
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: true
+
+----
+
+Contributing: Building, Theorizing, Exploring
+
+----
+
+Research-experience: online community / web2,offline governance,civic engagement,software development,economics,policy / law,social theory,qualitative methods,quantitative methods
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: Metagov Gateway Core Development
+
+----
+
+Is-contributor-to: Metagov Gateway Core Development, PolicyKit, NSF Governance Transitions
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: b39EAnSKOKgTFvAv

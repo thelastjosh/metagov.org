@@ -1,0 +1,182 @@
+Title: Home
+
+----
+
+Windows:
+
+- 
+  page: [ ]
+  window_content: ""
+  title: About
+  subheading: ""
+  description: |
+    #Metagov
+    ####a laboratory for digital governance
+    
+    <br>
+    
+    ### Our mission
+    We cultivate tools, practices, and communities that enable self-governance in the digital age.
+    
+    ### Our vision
+    We are working toward a governance layer for the internet that is empowering, creative, interconnected, and accountable.
+    
+    ### Our structure
+    Metagov’s activities occur through three mutually supporting pillars:
+    - **Community:** The dynamic interplay among all participants, who develop vibrant and evolving collaborations through our shared spaces. At the base of this pillar is the Metagov Membership.
+    - **Research**: The cutting-edge research that advances knowledge in support of our shared goals. At the base of this pillar are the Research Directors and their grant-funded projects.
+    - **Operations**: A participatory approach to organizational infrastructure. At the base of this pillar is a commitment to transparency, accessibility, and to honoring the care work that goes into making the organization function.
+    
+    ### Our values
+    Metagov’s core values include:
+    - **Openness**: Our work is a commons. We seek to produce public goods that are widely available and accessible, and to operate in a way that is transparent to our stakeholders.
+    - **Inclusivity**: Community is at the heart of Metagov’s work. We seek to cultivate a diverse and mutually supportive community of practice, which people can be part of at various levels of engagement and commitment.
+    - **Rigor**: Metagov supports research that excels at the highest standards of scholarly and creative work. We prioritize accountability and ethics in relationship to the people and communities we study.
+    - **Experimentation**: Online self-governance requires experimentation, and we seek to embody this spirit in everything we do, drawing on scientific, technical, artistic, and social forms of discovery.
+    
+    ### Our history
+    Metagov was founded in 2019, out of a seminar at Harvard Law School called “Governing Virtual Worlds”. Joshua Tan (who TAed the class) and Louis Kang (one of the guest lecturers) got together and presented the (link: https://docs.google.com/document/d/e/2PACX-1vQgnaD_T0eFU0yEv2SGNB85g9ABBW73V4b2l5Yxfd_vptK6KS5il9DTvSOYMFQCPNeLUXO04JsXPC21/pub text: original idea) for Metagov to Lawrence Lessig (who taught the class), Primavera De Filippi (one of the other guest lecturers), and Joi Ito (Louis' mentor). Originally intended as a collaboration between Harvard’s Berkman Klein Center and the MIT Media Lab, we officially spun out as an independent nonprofit in January 2020, with Josh, Louis, Prima, and Larry serving as the initial board and Josh as the founding executive director.
+    
+    In 2023, Eugene Leventhal stepped up from operations director to serve as interim (and eventually permanent) executive director. In 2024, Liz Barry joined us from the Computational Democracy Project as our third executive director.
+    
+    Here's our original "about":
+    
+    *Online governance is evolving. Competition, ideology, and technological advances have created the conditions for a new generation of games (e.g. Minecraft, Seed), social networks (e.g. Mastodon), and collaborative platforms (e.g. Ethereum, Aragon). This new generation of online communities is changing the rules of online governance. In these worlds, users have the right to self-governance—the right to come together and organize their own social and political institutions. Our goal is to describe, support, and expand that right.*
+    
+    *But on the internet, the right to self-governance is not a natural right; it is enabled and circumscribed by the architecture of the platform on which people interact. That same architecture also governs the interaction between separate user-generated institutions. Metagovernance describes these two related roles: (1) enabling and constraining users’ ability to create their own institutions, and (2) governing the interaction between separate institutions, whether they be small informal chat groups on Telegram, open-source communities on GitHub, billion-dollar protocols on a blockchain, or traditional institutions like courts and contracts that have been transposed to a new digital realm.*
+    
+    ### Get in touch
+    Connect with us by (email: hello@metagov.org text: sending an email), signing up for our (link:https://substack.metagov.org text: newsletter), or (link: page://3IxUqbjNc4XwS902 text: joining our community).
+    
+    Learn more about our current and archival (link: page://URRpcGnrugBUYryi text: projects), (link: page://mG9bibEohGlZYIvR text: events), and (link: page://KF70fhwNULTDRYkW text: seminars).
+    
+    Metagov is a 501(c)3 nonprofit in the US. Consider (link: page://yqEpf1PEaDmUpoKW text: supporting us).
+    
+    ### Thank you
+    Our work is generously supported by (link: https://oneproject.org/ text: One Project), the (link: https://www.optimism.io/ text: Optimism Collective), the (link: https://www.hluce.org/ text: Henry Luce Foundation), the (link: https://www.minafoundation.com/ text: Mina Foundation), the (link: https://cciarts.org text: Center for Cultural Innovation), the (link: https://www.grantfortheweb.org/ text: Grant for the Web), the (link: https://archive.org/ text: Internet Archive), the (link: https://digitalinfrastructure.fund/ text: Digital Infrastructure Fund), (link: https://www.projectliberty.io/ text: Project Liberty), (link: https://www.nsf.gov/ text: NSF), Gitcoin through (link: https://web.archive.org/web/20220125122425/https://gitcoin.co/grants/2900/metagovdao-dao-governance-research-group-academic text: past) (link: https://web.archive.org/web/20221205015821/https://gitcoin.co/grants/1573/metagov-research-on-digital-self-governance text: grants), (link: https://explorer.gitcoin.co/#/round/1/0xaa40e2e5c8df03d792a52b5458959c320f86ca18/0xaa40e2e5c8df03d792a52b5458959c320f86ca18-0 text: several) (link: https://explorer.gitcoin.co/#/round/1/0x12bb5bbbfe596dbc489d209299b8302c3300fa40/0x12bb5bbbfe596dbc489d209299b8302c3300fa40-0 text: Gitcoin) (link: https://explorer.gitcoin.co/#/round/10/0x2871742b184633f8dc8546c6301cbc209945033e/0x2871742b184633f8dc8546c6301cbc209945033e-104 text: Grant) (link: https://explorer.gitcoin.co/#/round/424/0x98720dd1925d34a2453ebc1f91c9d48e7e89ec29/0x98720dd1925d34a2453ebc1f91c9d48e7e89ec29-243 text: Stack) (link: https://explorer.gitcoin.co/#/round/424/0x98720dd1925d34a2453ebc1f91c9d48e7e89ec29/0x98720dd1925d34a2453ebc1f91c9d48e7e89ec29-225 text: rounds), and direct support, the (link: https://fil.org/ text: Filecoin Foundation), the (link: https://ethereum.org/en/foundation/ text: Ethereum Foundation), the (link: https://www.ukri.org/councils/epsrc/ text: EPSRC) / University of Oxford, the (link: https://futureoflife.org text: Future of Life Institute), (link: https://www.gnosis.io/about text: GnosisDAO), (link: https://aragon.org/ text: Aragon), (link: https://arbitrum.io/ text: Arbitrum), (link: https://radicle.xyz/ text: Radicle), (link: https://ens.domains/ text: ENS), (link: https://www.metacartel.org/ text: Metacartel Ventures), (link: https://near.org/ text: NEAR), (link: https://commonwealth.im/ text: Commonwealth), the (link: https://pacscenter.stanford.edu/research/digital-civil-society-lab/ text: Stanford Digital Civil Society Lab), (link: https://www.rmit.edu.au/ text: RMIT University), and many Metagovernors through our (link: https://opencollective.com/metagov/contribute/membership-student-24473/checkout?interval=year&amount=20 text: membership) (link: https://opencollective.com/metagov/contribute/membership-professional-24472/checkout?interval=year&amount=50 text: program). Our finances are hosted publicly on (link: https://opencollective.com/metagov text: Open Collective).
+  in_order: 'true'
+  width_order: 'true'
+- 
+  page:
+    - page://URRpcGnrugBUYryi
+  window_content: image
+  title: ""
+  subheading: ""
+  description: ""
+  in_order: 'true'
+  width_order: 'true'
+- 
+  page:
+    - page://w2xjsDJvySaiAKiH
+  window_content: image
+  title: Directory
+  subheading: ""
+  description: ""
+  in_order: 'true'
+  width_order: 'true'
+- 
+  page:
+    - page://xmEtLzD53TnDGVbT
+  window_content: image
+  title: ""
+  subheading: ""
+  description: ""
+  in_order: 'true'
+  width_order: 'true'
+- 
+  page:
+    - page://KF70fhwNULTDRYkW
+  window_content: content
+  title: ""
+  subheading: ""
+  description: ""
+  in_order: 'true'
+  width_order: 'false'
+- 
+  page:
+    - page://3IxUqbjNc4XwS902
+  window_content: content
+  title: ""
+  subheading: ""
+  description: ""
+  in_order: 'true'
+  width_order: 'false'
+- 
+  page:
+    - page://yqEpf1PEaDmUpoKW
+  window_content: content
+  title: ""
+  subheading: ""
+  description: ""
+  in_order: 'true'
+  width_order: 'false'
+  0: >
+    Metagov is a 501(c)3 nonprofit in the
+    US.
+  1: >
+    Make an individual donation via credit
+    card, crypto, stocks, or a Donor Advised
+    Fund (DAF) using The Giving Block, or
+    give through Open Collective.
+  2: >
+    Become a metagov member by making an
+    annual contribution as either a student
+    or professional.
+  3: >
+    All support goes towards overall
+    operations of the organization,
+    including community and research
+    efforts. We appreciate any and all
+    support!
+  we have many ways to support our work. including through contribution to our (link: >
+    /join text:annual membership program)
+    and individual donations.
+- 
+  page:
+    - page://mG9bibEohGlZYIvR
+  window_content: content
+  title: Events
+  subheading: '‎ '
+  description: ""
+  in_order: 'true'
+  width_order: 'false'
+- 
+  page:
+    - page://Og2a8IVVKVlOidGG
+  window_content: image
+  title: ""
+  subheading: ""
+  description: ""
+  in_order: 'false'
+  width_order: 'false'
+- 
+  page:
+    - page://qJ4agwH8WAUIpXR9
+  window_content: content
+  title: ""
+  subheading: ""
+  description: ""
+  in_order: 'true'
+  width_order: 'false'
+- 
+  page:
+    - page://EcvOsbjjkptEcAz3
+  window_content: image
+  title: ""
+  subheading: ""
+  description: ""
+  in_order: 'false'
+  width_order: 'false'
+- 
+  page:
+    - page://JVRWdYsqUjVj22OT
+  window_content: image
+  title: ""
+  subheading: ""
+  description: ""
+  in_order: 'false'
+  width_order: 'false'
+
+----
+
+Uuid: x1TQv9lMR09NOGEB

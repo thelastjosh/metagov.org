@@ -1,0 +1,49 @@
+Title: Iswe Foundation
+
+----
+
+Subheading: Framing, Elicitating
+
+----
+
+Cover: - file://x23uIsrqDWZxthvl
+
+----
+
+Website: https://iswe.org/
+
+----
+
+Inputs: 
+
+----
+
+Outputs: 
+
+----
+
+Description: Participants take part in local and global deliberations, sharing their experiences, challenges, and solutions. Their input is analyzed and aggregated to uncover common themes and insights, which are then shared back with communities and policymakers to drive informed action and foster solidarity across regions.
+
+----
+
+Stage: Framing, Elicitation
+
+----
+
+Function: 
+
+----
+
+License: 
+
+----
+
+Infrastructure: 
+
+----
+
+Links: 
+
+----
+
+Uuid: XQCDCIApxNx0g83I

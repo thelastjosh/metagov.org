@@ -1,0 +1,103 @@
+Title: elsehow
+
+----
+
+Bio: I'm an academic and hacker. I run a lab at Berkeley and build DAO DAO.
+
+----
+
+Links:
+
+- 
+  text: Substack
+  url: https://nickmerrill.substack.com/about  - 
+  text: GitHub
+  url: http://github.com/elsehow
+
+----
+
+Role: Participant,Contributor
+
+----
+
+Affiliation: UC Berkeley / DAO DAO
+
+----
+
+Contributing: Exploring, Synthesizing, Applying
+
+----
+
+Interests: cooperatives,human computer interaction (HCI),social theory
+
+----
+
+Research-experience: crypto / DAOs / web3,cooperatives,social theory
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Validator Commons
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: KREPra6bXccq5fQp

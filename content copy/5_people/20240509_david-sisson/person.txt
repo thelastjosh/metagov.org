@@ -1,0 +1,57 @@
+Title: David Sisson
+
+----
+
+Affiliation: BlockScience
+
+----
+
+Image: 
+
+----
+
+Bio: 
+
+----
+
+Links: 
+
+----
+
+Email: 
+
+----
+
+Interests: 
+
+----
+
+Contributions: 
+
+----
+
+Role: Contributor, Participant
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: true
+
+----
+
+Uuid: R5Hj8mVeDI5by8vA

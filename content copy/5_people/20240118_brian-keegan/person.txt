@@ -1,0 +1,97 @@
+Title: Brian Keegan
+
+----
+
+Bio: Computational social scientist interested in high-tempo collaborations.
+
+----
+
+Links: 
+
+----
+
+Role: Participant,Contributor
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Explaining, Describing, Peer Reviewing, Amplifying, Facilitating, Synthesizing, Exploring, Qualitatively
+
+----
+
+Interests: online communities / web2,offline governance,social theory,policy / law,quantitative methods,cooperatives
+
+----
+
+Research-experience: online community / web2,quantitative methods,human computer interaction (HCI)
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Metagov Gateway,Govbase
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:03
+
+----
+
+Uuid: 1xpG1dwPDZrCOH6a

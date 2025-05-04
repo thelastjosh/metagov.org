@@ -1,0 +1,21 @@
+Title: Seminar
+
+----
+
+Subheading: 
+
+----
+
+Cover: 
+
+----
+
+Text: [{"content":{"text":"<p>The <a href=\"https://researchseminars.org/seminar/Metagov\"><strong>Metagov Seminar</strong></a> invites individuals working in online governance to present their work to a community of other researchers and practitioners. Seminar topics include, but are not limited to, computational tools for governance, governance incidents and case studies from online communities, topics in cryptoeconomics, and the design of digital constitutions.</p><p>The seminar is intended for researchers and practitioners in online governance, broadly defined. We welcome guests and curious members of the public. Note that the discussion is moderated.</p><p>The seminar is planned through the #metagov-seminar channel on the Metagov Slack. Participate by <a href=\"/@/page/SiubgGbO8Le8SMuu\">joining our community</a>.</p>"},"id":"91effabd-362a-410e-819f-51d824470cba","isHidden":false,"type":"text"},{"content":{"text":"<ul>\n  <li>Time: every Wednesday at 12:00pm ET (GMT-4)</li>\n  <li>Location: Online. See our <a href=\"https://researchseminars.org/seminar/Metagov\">Research Seminars Series</a> for meeting inforomation</li>\n  <li>Export to <a href=\"https://calendar.google.com/calendar/render?cid=http%3A%2F%2Fresearchseminars.org%2Fseminar%2FMetagov%2Fics\">Google Calendar</a>, iCal/Outlook, and <a href=\"https://researchseminars.org/seminar/Metagov/ics\">ICS</a></li>\n  <li>Full archive of past talks: hosted at <a href=\"https://archive.org/search?query=creator%3A%22Metagovernance+Seminar%22&page=2\">Internet Archive</a></li>\n  <li>See also our archive organized into <a href=\"https://archive.org/details/@metagov_team/lists\">20+ topical playlists</a></li>\n<ul>\n<br>"},"id":"f0094cf2-ad5b-4804-b530-065b560f6818","isHidden":false,"type":"markdown"},{"content":{"text":"### Upcoming talks"},"id":"318005eb-9b29-4fb5-92b5-1d17fc2f4e7a","isHidden":false,"type":"markdown"},{"content":{"text":"<style>\n  .embedded_schedule {\n    width: 100%\n    max-width: 100%;\n    overflow: auto;\n  }\n  .ntdata caption {\n    display: none; \n  }\n</style>\n<div class=\"embeddable_schedule\" shortname=\"Metagov\" daterange=\"future\"></div>\n<script src=\"https://researchseminars.org/embed_seminars.js\" onload=\"seminarEmbedder.initialize({'addCSS': false});\"></script>"},"id":"a9e0fdb3-c4b0-467d-a518-a25dbdbf00ee","isHidden":false,"type":"markdown"},{"content":{"text":"### Past talks"},"id":"d2263137-de8e-4ab2-bd6c-a79e276593f9","isHidden":false,"type":"markdown"},{"content":{"text":"<div class=\"embeddable_schedule\" shortname=\"Metagov\" daterange=\"past\"></div>\n<script src=\"https://researchseminars.org/embed_seminars.js\" onload=\"seminarEmbedder.initialize({'addCSS': false});\"></script>"},"id":"6f4b2b37-1635-4302-baf1-e2628a8c7981","isHidden":false,"type":"markdown"}]
+
+----
+
+Width: false
+
+----
+
+Uuid: KF70fhwNULTDRYkW

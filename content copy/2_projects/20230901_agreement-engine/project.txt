@@ -1,0 +1,109 @@
+Title: Agreement Engine
+
+----
+
+Subheading: a tool for building net-native agreement systems
+
+----
+
+Cover: - file://Z8agrarYoylpZaf1
+
+----
+
+Website: https://law.mit.edu/pub/buildingnetnativeagreementsystems/release/1
+
+----
+
+Description: Agreement Engine is a software tool for building contract systems on the internet.
+
+----
+
+Participate: 
+
+----
+
+Meetings: Slack: #metagov-agreements
+
+----
+
+Category: Governance UX
+
+----
+
+Date: 2023-09-01
+
+----
+
+Project-status: Paused
+
+----
+
+Seeking-participants: false
+
+----
+
+Links:
+
+- 
+  text: 🎓 Publication
+  url: >
+    https://law.mit.edu/pub/buildingnetnativeagreementsystems/release/1
+- 
+  text: 💻 GitHub Repo
+  url: >
+    https://github.com/metagov/agreementengine/
+- 
+  text: 📝 Blog Post
+  url: >
+    https://medium.com/metagov/introducing-the-agreement-engine-bf03b6d5c16c
+
+----
+
+Type: Tool, Publication
+
+----
+
+Research-directors: 
+
+----
+
+Members:
+
+- page://JhteperhZJLSvhzz
+- page://xAIKANHjHhEkXdGO
+
+----
+
+Contact: 
+
+----
+
+Discussion-forum: 
+
+----
+
+Projectstatus: Paused
+
+----
+
+Seekingparticipants: false
+
+----
+
+Researchdirectors: 
+
+----
+
+Status: 
+
+----
+
+Image: - file://Z8agrarYoylpZaf1
+
+----
+
+Tags: 
+
+----
+
+Uuid: mFcaS2Qv0dgbEat3

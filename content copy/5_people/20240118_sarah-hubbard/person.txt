@@ -1,0 +1,97 @@
+Title: Sarah Hubbard
+
+----
+
+Bio: I'm Sarah, I'm currently a Harvard Technology and Public Purpose Fellow and will be spending the next year diving into research on DAO governance. I was most recently a Sr Product Manager at Apple working on AI & ML.
+
+----
+
+Links: 
+
+----
+
+Role: Participant,Contributor
+
+----
+
+Affiliation: Harvard, Belfer Center
+
+----
+
+Contributing: Synthesizing, Facilitating, Conversing
+
+----
+
+Interests: cooperatives,human computer interaction (HCI),quantitative methods,policy / law
+
+----
+
+Research-experience: crypto / DAOs / web3,human computer interaction (HCI),software development
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Govbase* - An open database of projects and tools in online governance.,*Modpol *- A self-governance toolkit for communities in online worlds.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:03
+
+----
+
+Uuid: rZLLlUaNUpc4ssTY

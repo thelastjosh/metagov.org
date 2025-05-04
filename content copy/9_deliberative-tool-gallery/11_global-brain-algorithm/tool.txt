@@ -1,0 +1,45 @@
+Title: Global Brain Algorithm
+
+----
+
+Subheading: Deliberating
+
+----
+
+Cover: - file://qVIHoLDZw1oQjZzC
+
+----
+
+Website: 
+
+----
+
+Inputs: 
+
+----
+
+Outputs: 
+
+----
+
+Description: Participants engage in structured debates, with their contributions evaluated based on informedness and unbiasedness. The algorithm ranks comment trees, encouraging discourse that withstands scrutiny and promotes collective understanding. It supports integration with platforms such as Decidim, Reddit, and Lemmy, enhancing informed decision-making and combating misinformation.
+
+----
+
+Stage: Deliberation
+
+----
+
+Function: 
+
+----
+
+License: 
+
+----
+
+Infrastructure: 
+
+----
+
+Uuid: Y14KtfbmhVoxrVRp

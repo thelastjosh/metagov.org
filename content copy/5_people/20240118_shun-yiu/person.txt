@@ -1,0 +1,97 @@
+Title: Shun Yiu
+
+----
+
+Bio: I am Shun, I am a management PhD student at Wharton studying DAOs.
+
+----
+
+Links: 
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Quantitatively, Exploring, Theorizing
+
+----
+
+Interests: cooperatives,somatic practices,social theory
+
+----
+
+Research-experience: crypto / DAOs / web3,quantitative methods,social theory,online community / web2,cooperatives
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Govbase* - An open database of projects and tools in online governance.,*DAOstar One* - A roundtable working towards an ERC standard to DAOs.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:03
+
+----
+
+Uuid: fsXpzo35HcNHpc3Q

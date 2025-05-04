@@ -1,0 +1,100 @@
+Title: Adrian John McCullagh
+
+----
+
+Bio: I am a lawyer with 30 years IT legal security experience.  I have a Ph.D. in cryptography.
+
+----
+
+Links: 
+
+----
+
+Role: 
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: researching cross jurisdictional DAO legal policy frameworks especially for harmonisation
+
+----
+
+Interests: cooperatives,human computer interaction (HCI),quantitative methods
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers:
+
+correcting mentorship page link for a start
+listening to the mentee and try to resolve any research impediment issues they may have.
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *DAOstar *- DAO standards working groups.,*Modpol *- A self-governance toolkit for communities in online worlds.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:18
+
+----
+
+Uuid: KQIypFFDrUgfwHwf

@@ -1,0 +1,97 @@
+Title: César Héctor
+
+----
+
+Bio: I'm Cesar Hector Paredes Barrantes, a product designer working in the tech industry for several companies of all sizes and I'm starting a research project on Ethics, right now I'm trying to establish a framework for my methodological approach.
+
+----
+
+Links: 
+
+----
+
+Role: 
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: My intention is to build frameworks for establishing ethical processes and goals for digital products design and development and target the need for planing for intended and unintended consequences.
+
+----
+
+Interests: offline governance,online community / web2,civic engagement,software development,human computer interaction (HCI),economics,policy / law,social theory,quantitative methods,qualitative methods,crypto / DAOs / web3,cooperatives,ethical frameworks for design and development
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Cartographies of Internet Metagovernance* - Metagov research and governance mapping project,*Modpol *- A self-governance toolkit for communities in online worlds.,*Telescope *- A Discord bot for ethical and responsive digital ethnography.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:20
+
+----
+
+Uuid: AfhJ4dnnZwXJlptj

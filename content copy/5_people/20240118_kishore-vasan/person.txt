@@ -1,0 +1,101 @@
+Title: Kishore Vasan
+
+----
+
+Bio: I'm a PhD student in Network Science at Northeastern University. My research revolves on studying human behavior on blockchain/ web3 ecosystem.
+
+----
+
+Links:
+
+- 
+  text: Github
+  url: http://kishorevasan.github.io.
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Exploring, Describing, Quantitatively
+
+----
+
+Interests: cooperatives,qualitative methods,social theory,somatic practices
+
+----
+
+Research-experience: crypto / DAOs / web3,quantitative methods,social theory,software development
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: oBaDGVBNxZ41rOW8

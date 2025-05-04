@@ -1,0 +1,9 @@
+Caption: Harmonica logo
+
+----
+
+Uuid: 7E7554EC-45B6-49CA-B8AA-593ACB524E3E
+
+----
+
+Template: image

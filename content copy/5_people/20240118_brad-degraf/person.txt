@@ -1,0 +1,101 @@
+Title: Brad DeGraf
+
+----
+
+Bio: I'm Brad, focused on trust networks and the use thereof for collective decision-making.
+
+----
+
+Links:
+
+- 
+  text: 💼 LinkedIn
+  url: https://www.linkedin.com/in/brad-degraf-4521/
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: NooNet
+
+----
+
+Contributing: 
+
+----
+
+Interests: cooperatives,human computer interaction (HCI),online communities / web2,policy / law
+
+----
+
+Research-experience: software development,human computer interaction (HCI),social theory,crypto / DAOs / web3
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,*DAOstar *- DAO standards working groups.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: s6wNaRFANdcEzJeu

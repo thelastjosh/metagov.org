@@ -1,0 +1,111 @@
+Title: Ian G. Williams
+
+----
+
+Bio: I'm Ian; I'm a PhD student at the CUNY Graduate Center studying human services organizations and social welfare policy, particularly interested in socio-technical systems, organizational democracy, and blockchain governance.
+
+----
+
+Links:
+
+- 
+  text: 🐤 Twitter
+  url: https://twitter.com/igraywill  - 
+  text: 📂 Portfolio
+  url: https://sites.google.com/view/igw-digital-projects/home
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: 
+
+----
+
+Interests: cooperatives,civic engagement,crypto / DAOs / web3,economics,quantitative methods,social theory,software development,human computer interaction (HCI)
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests:
+
+- Writing: for publication, conferences, and public-facing materials (blogs, social media, etc)
+
+- Organizing information/research: digital gardens, wikis, and other forms of knowledge creation and extension
+
+- Methodologies: qualitative research design, digital ethnography, computational social science (particularly qualitative), working with digital research instruments,
+
+- Subject matter: blockchain governance,  Web3, automated systems, AI applications, service and system design, digital science and technology studies, history and philosophy of science
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *DAOstar *- DAO standards working groups.,*Cartographies of Internet Metagovernance* - Metagov research and governance mapping project,*Modpol *- A self-governance toolkit for communities in online worlds.,*Telescope *- A Discord bot for ethical and responsive digital ethnography.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: fCiWsh6fiztNTI6E

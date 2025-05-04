@@ -1,0 +1,77 @@
+Title: DAO Science
+
+----
+
+Subheading: a survey paper and community site
+
+----
+
+Cover: - file://S6w1jC689LRTxwYF
+
+----
+
+Website: 
+
+----
+
+Description: A survey paper and community site on topics of open problems in DAO science.
+
+----
+
+Participate: 
+
+----
+
+Meetings: Slack: #dao-science
+
+----
+
+Category: Mapping Governance
+
+----
+
+Date: 2024-02-20
+
+----
+
+Project-status: Active, Pending Funding
+
+----
+
+Seeking-participants: false
+
+----
+
+Links:
+
+- 
+  text: Website
+  url: https://daoscience.org/
+
+----
+
+Type: Publication
+
+----
+
+Research-directors: 
+
+----
+
+Members:
+
+- page://4gZi5E3CbYkAj38k
+- page://JhteperhZJLSvhzz
+- page://V5AO6TixmR4rX3wi
+
+----
+
+Contact: 
+
+----
+
+Projectstatus: Active, Pending Funding
+
+----
+
+Uuid: yIzB65rLdj9xSZpP

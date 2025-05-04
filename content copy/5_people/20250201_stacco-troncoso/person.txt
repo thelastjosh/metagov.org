@@ -1,0 +1,61 @@
+Title: Stacco Troncoso
+
+----
+
+Affiliation: DisCO.coop
+
+----
+
+Image: 
+
+----
+
+Bio: Stacco Troncoso is an avid synthesizer of information and a radical polymath working towards elemental, people-led change on a burning planet. Stacco lives, breathes, teaches and writes on the Commons, P2P politics and economics, open culture, post-growth futures, Platform and Open Cooperativism, decentralized governance, blockchain and more as part of DisCO.coop, Commons Transition and Guerrilla Translation.
+
+----
+
+Links:
+
+- 
+  text: Personal Website
+  url: https://stacco.works/
+
+----
+
+Email: 
+
+----
+
+Interests: 
+
+----
+
+Contributions: 
+
+----
+
+Role: 
+
+----
+
+Projects: projects/groundwork-fellowship
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: false
+
+----
+
+Uuid: 1lez5kaSf6qZWh4p

@@ -1,0 +1,101 @@
+Title: Michael Walton
+
+----
+
+Bio: I'm Mike, currently on sabbatical from my PhD working on a friend's farm 😛 I'm interested in decentralized / federated social networks. My academic background is in reinforcement learning & game theory.
+
+----
+
+Links:
+
+- 
+  text: 🌐 Website
+  url: https://mwalton.github.io/
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: 
+
+----
+
+Interests: cooperatives,social theory,human computer interaction (HCI),qualitative methods
+
+----
+
+Research-experience: software development,human computer interaction (HCI),qualitative methods,quantitative methods
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,*DAOstar *- DAO standards working groups.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: bMHLnzctJPQMQYQj

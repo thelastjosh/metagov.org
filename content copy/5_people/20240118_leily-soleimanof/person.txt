@@ -1,0 +1,101 @@
+Title: leily soleimanof
+
+----
+
+Bio: I'm a PhD student at Ivey Business School. My field is information systems and I am doing research on DAOs governance and decentralization.
+
+----
+
+Links:
+
+- 
+  text: LinkedIn
+  url: https://www.linkedin.com/in/leily-soleimanof-a50aa417a/
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: 
+
+----
+
+Interests: cooperatives,economics,quantitative methods,social theory,software development
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: Since I'm a PhD student, I would mostly benefit from mentorship on academic research topics. For example, qualitative research methods.
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *DAOstar *- DAO standards working groups.,*Telescope *- A Discord bot for ethical and responsive digital ethnography.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: YJfSqVJQ7zlmQBZV

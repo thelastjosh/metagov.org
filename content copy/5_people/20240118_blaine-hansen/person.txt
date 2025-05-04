@@ -1,0 +1,103 @@
+Title: Blaine Hansen
+
+----
+
+Bio: I'm a software engineer who wants to build open source cooperatives and governance tools. I've been working on Persistent Voting, a new form of continuous voting, and want to know how it could be useful in the context of metagov.
+
+----
+
+Links:
+
+- 
+  text: 🌐 Website
+  url: https://blainehansen.me/  - 
+  text: 🌐 Persistent Democracy Project
+  url: https://persistentdemocracy.org/
+
+----
+
+Role: Member,Contributor
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: 
+
+----
+
+Interests: crypto / DAOs / web3,human computer interaction (HCI),qualitative methods,quantitative methods,social theory,civic engagement
+
+----
+
+Research-experience: online community / web2,software development
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,PolicyKit,CommunityRule
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: true
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: MceEIeWaZ5dH7Oa0

@@ -1,0 +1,101 @@
+Title: Alex Culliere
+
+----
+
+Bio: I'm Alex, a software developer based in Helsinki, Finland. I've spent several years building learning management systems for John Wiley & Sons, to building professional knowledge management in legal tech. Learning and knowledge management are my great passion, it driven me to research autodidactism,  biological mechanisms of skill acquisition and  systemic education in traditions and communities. I would like to learn about forms of governance in learning communities.
+
+----
+
+Links:
+
+- 
+  text: 💼 LinkedIn
+  url: https://www.linkedin.com/in/alex-culliere-168754a5 https://eurodigwiki.org/wiki/Recent_studies_on_accessing_educational_content_%E2%80%93_WS_11_2021
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: Organization for Ethical Source
+
+----
+
+Contributing: 
+
+----
+
+Interests: civic engagement,crypto / DAOs / web3,cooperatives,human computer interaction (HCI),online communities / web2,policy / law,quantitative methods,social theory,software development
+
+----
+
+Research-experience: software development,Learning and knowledge management systems
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,*DAOstar *- DAO standards working groups.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: YLWOdSImc85MvtIY

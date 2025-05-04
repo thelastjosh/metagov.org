@@ -1,0 +1,101 @@
+Title: Julia Barzyk
+
+----
+
+Bio: I manage a basic research program in geo/enviro sci and am exploring questions related to (1) research funding/resource allocation & incentives and (2) how can DeSci best work for geo/enviro sci.
+
+----
+
+Links:
+
+- 
+  text: LinkedIn
+  url: https://www.linkedin.com/in/julia-barzyk/
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Facilitating, Theorizing, Exploring
+
+----
+
+Interests: cooperatives,qualitative methods,social theory,quantitative methods,economics,human computer interaction (HCI)
+
+----
+
+Research-experience: qualitative methods,quantitative methods,policy / law,research administration
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *DAOstar One* - A roundtable working towards an ERC standard to DAOs.,*Govbase* - An open database of projects and tools in online governance.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: 71Kv4FUFOePIMzau

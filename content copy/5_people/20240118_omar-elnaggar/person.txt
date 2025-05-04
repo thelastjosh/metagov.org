@@ -1,0 +1,101 @@
+Title: Omar ElNaggar
+
+----
+
+Bio: I'm Omar, Co-founder and CEO of Weavechain, where we bring private data to Web3.
+
+----
+
+Links:
+
+- 
+  text: Linkedin
+  url: https://www.linkedin.com/in/oelnaggar/
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: Weavechain
+
+----
+
+Contributing: Building, Theorizing, Conversing
+
+----
+
+Interests: cooperatives,online communities / web2
+
+----
+
+Research-experience: crypto / DAOs / web3,software development,economics
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Metagov Gateway* - A unified API gateway for digital governance services.,*Govbase* - An open database of projects and tools in online governance.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: cXBivNZ0A0lPxnex

@@ -1,0 +1,97 @@
+Title: Jina Yoon
+
+----
+
+Bio: Hi! I'm Jina, an incoming PhD student at UW studying HCI. I work with Amy X. Zhang to research and build better social computing systems.
+
+----
+
+Links: 
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Peer Reviewing, Synthesizing, Theorizing
+
+----
+
+Interests: civic engagement,policy / law,online communities / web2,cooperatives
+
+----
+
+Research-experience: human computer interaction (HCI),qualitative methods,software development,online community / web2
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Metagov Gateway* - A unified API gateway for digital governance services.,*Modpol *- A self-governance toolkit for communities in online worlds.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:03
+
+----
+
+Uuid: 1EJluNUEoaMIei98

@@ -1,0 +1,107 @@
+Title: Astrum
+
+----
+
+Bio: I'm Cole, a researcher trying to better understand the role blockchain will play in society in the medium and long term. Previously I founded Lunar Assistant (nft/dao tooling), was founding engineer at Glow Savings (defi protocol), and wrote software at Jump Crypto.
+
+----
+
+Links:
+
+- 
+  text: Website
+  url: https://colekillian.com  - 
+  text: Substack
+  url: https://astrum5000.substack.com
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: 
+
+----
+
+Interests: cooperatives,crypto / DAOs / web3,qualitative methods,quantitative methods,social theory
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers:
+
+I can spar with mentees about hamming questions. This means discussing and identifying the biggest bottlenecks holding somebody back from their goals, and finding ways to resolve them.
+
+See here: https://www.lesswrong.com/posts/P5k3PGzebd5yYrYqd/the-hamming-question
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: Advice for grant funding and "working smarter" in my approach to research.
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Cartographies of Internet Metagovernance* - Metagov research and governance mapping project
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: UbLrCqKH0rYeoWt7

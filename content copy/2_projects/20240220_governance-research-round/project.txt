@@ -1,0 +1,73 @@
+Title: Governance Research Round
+
+----
+
+Subheading: a quadratic funding round
+
+----
+
+Cover: - file://8f0j0ywMMjVBkeQi
+
+----
+
+Website: 
+
+----
+
+Description: A quadratic funding round for governance research run by Metagov through Gitcoin.
+
+----
+
+Participate: Not currently seeking contributions
+
+----
+
+Meetings: Slack: #governance-round
+
+----
+
+Category: Governance Funding
+
+----
+
+Date: 2024-02-20
+
+----
+
+Project-status: Complete
+
+----
+
+Seeking-participants: false
+
+----
+
+Links:
+
+- 
+  text: Gitcoin Round
+  url: 'https://explorer.gitcoin.co/#/round/42161/0xa7608d95a93cc684f2719323d40cbd0f59afe7d4'
+
+----
+
+Type: R&D, Fundraising
+
+----
+
+Research-directors: 
+
+----
+
+Members: - page://YhowSaGTLc5BupqG
+
+----
+
+Contact: 
+
+----
+
+Projectstatus: Complete
+
+----
+
+Uuid: xlL0RIGJAkocQ260

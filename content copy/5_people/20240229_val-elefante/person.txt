@@ -1,0 +1,124 @@
+Title: Val Elefante
+
+----
+
+Affiliation: Metagov, Research Assistant
+
+----
+
+Image: 
+
+----
+
+Bio: I'm Val, I'm a feminist researcher and writer building communities and technologies that empower women, non-binary, & LGBTQIA+ folks around the world.
+
+----
+
+Links:
+
+- 
+  text: Lips
+  url: http://lips.social/
+- 
+  text: Reliabl
+  url: https://reliabl.ai/
+
+----
+
+Email: 
+
+----
+
+Interests: civic engagement, cooperatives, software development, social theory
+
+----
+
+Contributions: 
+
+----
+
+Role: Contributor, Member, Participant, Team
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: true
+
+----
+
+Contributing: 
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Mentorship-requests: Project management, user interviews and ethnographic research, social theory writing/blogging.
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: true
+
+----
+
+Mentorship-topics: Writing and digital ethnography advice
+
+----
+
+Metagov-project-interests: Telescope,Modpol,Cartographies of Internet Metagovernance
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: PolicyKit, Metagov Gateway Core Development
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: iBfkolMQSL37Rx8F

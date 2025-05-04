@@ -1,0 +1,79 @@
+Title: Metagov
+
+----
+
+Seotitle: Metagov
+
+----
+
+Seodescription: Metagov is a laboratory for digital governance. Our mission is to cultivate tools, practices, and communities that enable self-governance in the digital age.
+
+----
+
+Seoimage: - file://VACxzpscaru9svg4
+
+----
+
+Mainmenu:
+
+- 
+  page:
+    - page://x1TQv9lMR09NOGEB
+  seperator: 'true'
+- 
+  page:
+    - page://URRpcGnrugBUYryi
+  seperator: 'false'
+- 
+  page:
+    - page://KF70fhwNULTDRYkW
+  seperator: 'false'
+- 
+  page:
+    - page://mG9bibEohGlZYIvR
+  seperator: 'false'
+- 
+  page:
+    - page://yqEpf1PEaDmUpoKW
+  seperator: 'true'
+- 
+  page:
+    - page://3IxUqbjNc4XwS902
+  seperator: 'false'
+- 
+  page:
+    - page://w2xjsDJvySaiAKiH
+  seperator: 'false'
+- 
+  page:
+    - page://qJ4agwH8WAUIpXR9
+  seperator: 'false'
+
+----
+
+Avatar: - file://TWVCfaAgdZtGlhey
+
+----
+
+Redirects:
+
+- 
+  fromuri: old-page
+  touri: new-page
+  code: _307
+- 
+  fromuri: 'https://metagov.org/join/#executive-director'
+  touri: >
+    https://metagov.org/join/jobs/executive-director
+  code: _302
+
+----
+
+Text:
+
+- 
+  content:
+    text: '<p>The&nbsp;<a href="https://researchseminars.org/seminar/Metagov"><strong>Metagov Seminar</strong></a>&nbsp;invites individuals working in online governance to present their work to a community of researchers and practitioners. Seminar topics include, but are not limited to, computational tools for governance, governance incidents and case studies from online communities, topics in cryptoeconomics, and the design of digital constitutions.</p><p>The seminar is intended for researchers and practitioners in online governance, broadly defined. We welcome guests and curious members of the public. Please note that the discussion is moderated.</p><p>The seminar is planned through the #metagov-seminar channel on the Metagov Slack. Participate by <a href="/@/page/SiubgGbO8Le8SMuu">joining our community</a>.</p>'
+  id: f550da3c-b32c-438c-849e-969e3b5f03bc
+  isHidden: false
+  type: text

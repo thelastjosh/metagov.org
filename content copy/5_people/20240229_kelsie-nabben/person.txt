@@ -1,0 +1,121 @@
+Title: Kelsie Nabben
+
+----
+
+Affiliation: Research Contributor
+
+----
+
+Image: 
+
+----
+
+Bio: I'm Kelsie. I'm a PhD student in ethnographic methods studying online communities and decentralised technologies.
+
+----
+
+Links:
+
+- 
+  text: 📝 Substack
+  url: https://kelsienabben.substack.com/
+
+----
+
+Email: 
+
+----
+
+Interests: quantitative methods, crypto / DAOs / web3, cooperatives, qualitative methods, policy / law
+
+----
+
+Contributions: 
+
+----
+
+Role: Contributor, Participant, Team
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: true
+
+----
+
+Contributing: Applying, Qualitatively, Listening, Exploring, Synthesizing, Theorizing, Conversing
+
+----
+
+Research-experience: qualitative methods,offline governance,crypto / DAOs / web3
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Govbase,DAOstar One,Metaeth
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: MetagovDAO
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: kmdL4mQPQ0rQDyIG

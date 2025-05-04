@@ -1,0 +1,45 @@
+Title: Interoperable Co-operative Governance
+
+----
+
+Subheading: Framing, Deliberating, Deciding
+
+----
+
+Cover: - file://tvPSlFznDPZFEcxT
+
+----
+
+Website: 
+
+----
+
+Inputs: 
+
+----
+
+Outputs: 
+
+----
+
+Description: Participants use the dashboard to consolidate governance processes from tools like Google Drive and GitHub into one interface. The system integrates data from different decision-making stages—brainstorming, deliberation, and voting—providing a unified view of governance activities.
+
+----
+
+Stage: Framing, Deliberation, Decision
+
+----
+
+Function: 
+
+----
+
+License: 
+
+----
+
+Infrastructure: 
+
+----
+
+Uuid: 2GXLXdyR6SdfPG5m

@@ -1,0 +1,97 @@
+Title: Marc Jacquinet
+
+----
+
+Bio: M'm Marc, PhD in Economics, U. of Lisbon, studying institutions and organizations
+
+----
+
+Links: 
+
+----
+
+Role: 
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: To apply research methods to online and offline communities
+
+----
+
+Interests: crypto / DAOs / web3,human computer interaction (HCI),qualitative methods,social theory,software development
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: Coworking in research, online of offline
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: I do not know a lot about online communites, DAOs.
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: XomJIPKnDJHtGlet

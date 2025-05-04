@@ -1,0 +1,103 @@
+Title: Sam Flanagan
+
+----
+
+Bio: I'm a communications strategist, writer, and economic development/social impact researcher with over a decade of experience working in the global tech sector. On the side of my day job, I produce a weekly newsletter "Web3ForGood."
+
+----
+
+Links:
+
+- 
+  text: Twitter
+  url: https://twitter.com/samflan  - 
+  text: LinkedIn
+  url: http://linkedin.com/in/samanthaflanagan/
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Exploring, Synthesizing, Conversing
+
+----
+
+Interests: qualitative methods,cooperatives,quantitative methods,social theory,crypto / DAOs / web3
+
+----
+
+Research-experience: economics,qualitative methods,Innovation Systems
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Govbase* - An open database of projects and tools in online governance.,*DAOstar One* - A roundtable working towards an ERC standard to DAOs.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: QBx9OEvWNogtmwQI

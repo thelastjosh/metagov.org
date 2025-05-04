@@ -1,0 +1,97 @@
+Title: Scott Davies
+
+----
+
+Bio: I'm Scott, a Systems Analyst in the public sector who is interested in understanding how web3 and DAO governance models may be utilised in a public sector context.
+
+----
+
+Links: 
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Qualitatively, Synthesizing, Exploring
+
+----
+
+Interests: crypto / DAOs / web3,social theory,qualitative methods,civic engagement,offline governance,human computer interaction (HCI),economics
+
+----
+
+Research-experience: policy / law,crypto / DAOs / web3,offline governance,software development
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Govbase,Modpol
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:03
+
+----
+
+Uuid: 1nk3VvdE1rVCyjfj

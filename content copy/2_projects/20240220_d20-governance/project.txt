@@ -1,0 +1,86 @@
+Title: D20 Governance
+
+----
+
+Subheading: LLM-mediated modular governance games on Discord
+
+----
+
+Cover: - file://nLkhgIqrjFlR7gjC
+
+----
+
+Website: https://metagov.github.io/d20-governance/
+
+----
+
+Description: A game for online chat platforms that introduces Metagov tools PolicyKit, Gateway, and CommunityRule to communities wanting to explore community governance and E2C.
+
+----
+
+Participate: Seeking communities who want to test d20, and participate in user research afterwards.
+
+----
+
+Meetings: Discord: #d20-agora
+
+----
+
+Category: 
+
+----
+
+Date: 2024-02-20
+
+----
+
+Project-status: Active, Pending Funding
+
+----
+
+Seeking-participants: true
+
+----
+
+Links:
+
+- 
+  text: Website
+  url: >
+    https://metagov.github.io/d20-governance/
+- 
+  text: Discord
+  url: https://discord.gg/sSSRxWVuxE
+- 
+  text: Github Repo
+  url: >
+    https://github.com/metagov/d20-governance
+
+----
+
+Type: Tool, Community of Practice
+
+----
+
+Research-directors: 
+
+----
+
+Members:
+
+- page://fZBv4pNTeSI6OOhE
+- page://x0SM45iWf2wb03Yw
+- page://iBfkolMQSL37Rx8F
+- page://mWwQboaRefqbagcR
+
+----
+
+Contact: 
+
+----
+
+Projectstatus: Active, Pending Funding
+
+----
+
+Uuid: 8OmSphfSgeBn5TS7

@@ -1,0 +1,101 @@
+Title: Robin Berjon
+
+----
+
+Bio: I lead data governance at The New York Times and have long worked on Web standards.
+
+----
+
+Links:
+
+- 
+  text: Website
+  url: https://berjon.com/
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Theorizing, Applying, Exploring
+
+----
+
+Interests: online communities / web2,crypto / DAOs / web3,offline governance,cooperatives,human computer interaction (HCI),policy / law,social theory
+
+----
+
+Research-experience: online community / web2,software development,human computer interaction (HCI),policy / law
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: things outside academia, governance of tech standards bodies, the tech/institution relationship
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Govbase,Modpol
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: ngọc triệu
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: 88YBaORxCypp9VNW

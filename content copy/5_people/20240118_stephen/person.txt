@@ -1,0 +1,101 @@
+Title: Stephen
+
+----
+
+Bio: Hey MetaGov, I'm Stephen, and I'm a recent Haverford College Political Science graduate who now writes for CoinSnacks, Frogs Anonymous, and 3xcalibur.
+
+----
+
+Links:
+
+- 
+  text: Notion
+  url: https://powerful-market-fbe.notion.site/Heathen-s-Readings-e6226fa18ddf4ba7863c7e151fd59888
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Exploring, Theorizing, Synthesizing
+
+----
+
+Interests: civic engagement,cooperatives,crypto / DAOs / web3,economics,human computer interaction (HCI),qualitative methods,quantitative methods,social theory,software development,somatic practices
+
+----
+
+Research-experience: crypto / DAOs / web3,qualitative methods
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,*Govbase* - An open database of projects and tools in online governance.,*DAOstar One* - A roundtable working towards an ERC standard to DAOs.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: N81qYTCT1IApdHam

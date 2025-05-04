@@ -1,0 +1,121 @@
+Title: Jack Murray-Brown
+
+----
+
+Affiliation: Frontend Developer
+
+----
+
+Image: 
+
+----
+
+Bio: I'm a developer, artist and radio enthusiast, focussed on accessibility, sustainability and community engaged projects.
+
+----
+
+Links:
+
+- 
+  text: Personal Website
+  url: https://www.jackmurraybrown.com/
+
+----
+
+Email: 
+
+----
+
+Interests: civic engagement, cooperatives, human computer interaction (HCI), online communities / web2, quantitative methods, policy / law, crypto / DAOs / web3, economics
+
+----
+
+Contributions: 
+
+----
+
+Role: Participant, Contributor, Team
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: true
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: true
+
+----
+
+Contributing: Being a developer I feel I can help towards coding out prototypes and technical research. I am particularly interested in contributing to research on governance/self-governance within online communities.
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Mentorship-offers: Build a personal website, Learn HTML, Make a discord bot, Make a radio show, Make a podcast.
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: NgxLXd1h0lulJVR1

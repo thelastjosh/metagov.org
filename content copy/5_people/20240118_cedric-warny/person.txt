@@ -1,0 +1,103 @@
+Title: Cedric Warny
+
+----
+
+Bio: I'm Cedric, my background is in machine learning, I've been exploring decentralized identity tech as a way to counteract AI centralizing tendencies.
+
+----
+
+Links:
+
+- 
+  text: Medium
+  url: http://cwarny.medium.com  - 
+  text: Twitter
+  url: https://twitter.com/cwarny
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Synthesizing, Quantitatively, Building
+
+----
+
+Interests: crypto / DAOs / web3,civic engagement,software development,policy / law
+
+----
+
+Research-experience: crypto / DAOs / web3,software development,economics,quantitative methods
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Modpol,Metagov Gateway
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: JhtwGDen9u1AxF4v

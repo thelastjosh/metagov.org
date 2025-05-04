@@ -1,0 +1,105 @@
+Title: Alex Tveit
+
+----
+
+Bio: I'm Alex, and I am the CEO and Co-Founder of Sustainable Impact Foundation. We are involved in ecosystem development to decentralize our ability to innovate, and to catalyze + amplify system change.
+
+----
+
+Links:
+
+- 
+  text: www.sustainableimpact.is
+  url: http://www.sustainableimpact.is
+
+----
+
+Role: 
+
+----
+
+Affiliation: 
+
+----
+
+Contributing:
+
+We are happy to share our work and thoughts on ecosystem development, especially how it relates to decentralizing our ability to innovate, and catalyze systems change.
+
+We also work on systemic issues such as digital equity as well as Tech Stewardship.
+
+----
+
+Interests: economics,crypto / DAOs / web3,human computer interaction (HCI),online communities / web2,policy / law,qualitative methods,social theory
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: B8unnQtvR1C3FI1I

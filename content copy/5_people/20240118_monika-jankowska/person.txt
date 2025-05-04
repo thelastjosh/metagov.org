@@ -1,0 +1,101 @@
+Title: Monika Jankowska
+
+----
+
+Bio: My name is Monika and I'm a PhD student in socio-cultural anthropology at Rice University, focusing on anthropology of law, political and economic anthropology and STS. I want to research blockchain governance. I also have background in antitrust and IP law.
+
+----
+
+Links:
+
+- 
+  text: LinkedIn
+  url: https://www.linkedin.com/in/monika-jankowska-a74a71136/.
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Qualitatively, Exploring, Facilitating
+
+----
+
+Interests: crypto / DAOs / web3,offline governance,policy / law,qualitative methods,social theory,human computer interaction (HCI),cooperatives,civic engagement
+
+----
+
+Research-experience: policy / law,qualitative methods,social theory
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Metaeth,Metagov Gateway,Modpol,Govbase,DAOstar One
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: 4IhQKFz3JYPPyUQ0

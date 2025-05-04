@@ -1,0 +1,98 @@
+Title: OSS Transitions
+
+----
+
+Subheading: an NSF-funded collaboration
+
+----
+
+Cover: - file://clLBZnWaOLYXxBoy
+
+----
+
+Website: 
+
+----
+
+Description:
+
+An NSF-funded research project exploring accountability systems that OSS
+communities define for themselves, how they coevolve with their code and contributor
+network, and how to develop a general process and software tooling for transitioning
+OSS projects to community accountability.
+
+----
+
+Participate: 
+
+----
+
+Meetings: 
+
+----
+
+Category: 
+
+----
+
+Date: 2024-01-10
+
+----
+
+Project-status: Active
+
+----
+
+Seeking-participants: false
+
+----
+
+Links:
+
+- 
+  text: Project summary
+  url: >
+    https://ucdavis.app.box.com/s/r0fl2jc1yztgudr6i2wsimbh1sdgw5s8
+
+----
+
+Type: R&D
+
+----
+
+Research-directors: 
+
+----
+
+Members:
+
+- page://Ye0MulFIlYUXjm50
+- page://OjesIDtx7i88GyeQ
+- page://neuVC2NprsEZ2c8u
+- page://b39EAnSKOKgTFvAv
+- page://JhteperhZJLSvhzz
+- page://jSlIeznKO9FiqxrF
+
+----
+
+Contact: 
+
+----
+
+Discussion-forum: 
+
+----
+
+Projectstatus: Active
+
+----
+
+Seekingparticipants: false
+
+----
+
+Researchdirectors: 
+
+----
+
+Uuid: 98nCkHH1VDi8O2fY

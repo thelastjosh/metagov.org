@@ -1,0 +1,101 @@
+Title: Selin Arpaci
+
+----
+
+Bio: I am Selin, a researcher & Product Manager with a huge passion in decentralized governance models and cooperatives. Currently writing my thesis about digital coops from a perspective of technology orientation. My aspiration is to stay connected to the community and continue learning and contrubuting. I worked at & volunteered in many impact-oriented startups, associations & research centers.
+
+----
+
+Links:
+
+- 
+  text: 💼 LinkedIn
+  url: http://linkedin.com/in/selinarpaci
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Explaining, Synthesizing, Exploring
+
+----
+
+Interests: crypto / DAOs / web3,civic engagement,policy / law
+
+----
+
+Research-experience: cooperatives,human computer interaction (HCI),qualitative methods,quantitative methods,economics,software development,crypto / DAOs / web3
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: DAOstar One,Govbase
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: 0I4jsUjcXIhybZfj

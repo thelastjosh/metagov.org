@@ -1,0 +1,49 @@
+Title: MAPLE
+
+----
+
+Subheading: Deliberating
+
+----
+
+Cover: - file://vCynOQFEPPvC8BaS
+
+----
+
+Website: http://www.mapletestimony.org/
+
+----
+
+Inputs: 
+
+----
+
+Outputs: 
+
+----
+
+Description: Participants submit public testimony on proposed legislation, explore testimonies from others, and track bills through an intuitive interface. They engage with legislative content by following specific bills or organizations and receiving updates on key actions. Automated summaries and categorized tags help participants quickly grasp legislative intent and relevance. These contributions are aggregated into a searchable public archive.
+
+----
+
+Stage: Deliberation
+
+----
+
+Function: 
+
+----
+
+License: 
+
+----
+
+Infrastructure: 
+
+----
+
+Links: 
+
+----
+
+Uuid: CsRB0PTnGOSxohGF

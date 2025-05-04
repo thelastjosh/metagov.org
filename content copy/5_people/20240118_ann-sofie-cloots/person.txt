@@ -1,0 +1,101 @@
+Title: Ann Sofie Cloots
+
+----
+
+Bio: I'm Ann Sofie, an affiliate lecturer in law at Cambridge (UK), teaching the legal aspects of all things related to DLT (including DAOs).
+
+----
+
+Links:
+
+- 
+  text: Newsletter
+  url: https://cryptolaw.substack.com/
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Building, Exploring, Theorizing
+
+----
+
+Interests: crypto / DAOs / web3,policy / law,offline governance
+
+----
+
+Research-experience: crypto / DAOs / web3,offline governance,policy / law
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Govbase* - An open database of projects and tools in online governance.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: F8ELE9DSWt8untdf

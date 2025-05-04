@@ -1,0 +1,121 @@
+Title: Joshua Tan
+
+----
+
+Affiliation: Oxford
+
+----
+
+Image: 
+
+----
+
+Bio: Co-founder and research director at Metagov. Mathematician and computer scientist at Oxford.
+
+----
+
+Links:
+
+- 
+  text: 🌐 Website
+  url: http://joshuatan.com/research
+
+----
+
+Email: josh@metagov.org
+
+----
+
+Interests: policy / law, social theory
+
+----
+
+Contributions: 
+
+----
+
+Role: Board, Research Director, Member, Contributor, Participant
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: true
+
+----
+
+Contributing: Quantitatively, Exploring, Applying, Synthesizing, Conversing
+
+----
+
+Research-experience: online community / web2,crypto / DAOs / web3,quantitative methods
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Modpol,DAOstar One,Metaeth,Metagov Gateway,Govbase
+
+----
+
+Is-pi-of: Metagov Agreements, DAOstar One, Metagov Gateway Core Development, Govbase Dataset, DAO Governance Surfaces, Cryptopolitics Typology Quiz
+
+----
+
+Is-contributor-to: Metagov Agreements, DAOstar One, Govbase Dataset, Metagov Gateway Core Development, MetagovDAO, Metaethnography, DAO Governance Surfaces, Clause2Game, Cryptopolitics Typology Quiz, NSF Governance Transitions
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: JhteperhZJLSvhzz

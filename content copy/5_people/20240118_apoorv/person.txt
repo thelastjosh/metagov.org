@@ -1,0 +1,97 @@
+Title: Apoorv
+
+----
+
+Bio: I'm Apoorv, I work at Qubit Capital to help early stage companies to raise capital from institutional investors around the world.
+
+----
+
+Links: 
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Building, Applying, Explaining
+
+----
+
+Interests: offline governance,cooperatives,human computer interaction (HCI),policy / law,crypto / DAOs / web3,social theory
+
+----
+
+Research-experience: crypto / DAOs / web3,software development,online community / web2
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Metagov Gateway,Govbase
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:03
+
+----
+
+Uuid: nZ2EU88ijYZciisC

@@ -1,0 +1,97 @@
+Title: Seth Goldfarb
+
+----
+
+Bio: I'm Seth. I'm a writer and independent researcher studying organizational design.
+
+----
+
+Links: 
+
+----
+
+Role: 
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: I enjoy helping communities clarify their goals and producing educational/onboarding materials that help people understand exactly what they need to accomplish a given task. I'm also researching ways to measure the level of decentralization/autonomy in an
+
+----
+
+Interests: cooperatives,crypto / DAOs / web3,human computer interaction (HCI),economics,civic engagement,qualitative methods,quantitative methods,social theory,software development,somatic practices
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Cartographies of Internet Metagovernance* - Metagov research and governance mapping project,*DAOstar *- DAO standards working groups.,*Modpol *- A self-governance toolkit for communities in online worlds.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:20
+
+----
+
+Uuid: roCp8qjVL7elnbsx

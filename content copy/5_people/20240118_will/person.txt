@@ -1,0 +1,101 @@
+Title: Will
+
+----
+
+Bio: I'm Will, I'm a Master's candidate at Carnegie Mellon in Information Security Policy And Management.  I'm somewhat new to academic research, but I am interested in researching how international relations theory could be applied to DAOs.
+
+----
+
+Links: 
+
+----
+
+Role: 
+
+----
+
+Affiliation: 
+
+----
+
+Contributing:
+
+I enjoy building community consensus around different initiatives! I've built successful online communities within esports and I love to engage with anyone whose interested in a topic I speak about! 
+
+My Master's program sits on the line between policy and technology,  so I have no problem engaging in both worlds and aiding in meshing them together!
+
+----
+
+Interests: civic engagement,cooperatives,economics,quantitative methods,social theory
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: I'm still generally new to tech research as a whole, so I would greatly appreciate mentorship from anyone who has done research in the space!
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 7/1/2023 04:20
+
+----
+
+Uuid: mCHYpkGMihjgCzl7

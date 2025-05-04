@@ -1,0 +1,21 @@
+Title: Growth lead (DAOstar)
+
+----
+
+Subheading: 
+
+----
+
+Cover: 
+
+----
+
+Text: [{"content":{"text":"- *Compensation*: $30/hr or more, depending on experience. \n- *Location*: Remote, some overlap with Eastern Time required. \n- *Commitment*: Part-time, 20 hours per week\n\n### Role Overview\n\nAs a Growth Lead, you will support the adoption of DAOstar’s standards, manage fundraising efforts, and nurture relationships within the DAO ecosystem. This is a cross-functional role, ideal for someone early in their career who is eager to explore the world of DAOs and decentralized governance.\n\n### Key Responsibilities\n\n- Lead efforts to drive adoption of DAOstar standards (e.g., EIP-4824)\n- Manage fundraising via grants and memberships\n- Support working groups, ensuring effective meetings and active participation\n- Build and maintain relationships with key stakeholders in the DAO space\n- Oversee social media (Twitter) and manage newsletters\n- Represent DAOstar at industry events and conferences\n- Stay updated on governance issues in top-tier DAOs\n\n### Qualifications\n\n- Passion for DAOs and open-source ecosystems\n- 1-2 years of professional experience, ideally in web3 or with DAOs\n- Experience applying for and securing grants\n- Ability to work cross-functionally with both technical and non-technical teams\n- Familiarity with governance-related roles in DAOs is a plus\n\n### Bonus Points If\n\n- You have worked in DAO governance\n- You are a DAO delegate\n- You’ve taken a product to market\n\n### Why Join Us?\n\nThis role is perfect for someone early in their career, such as a recent graduate, who is excited to dive into the DAO ecosystem. You’ll have the opportunity to work closely with leading DAOs, learning about creating interoperable web3 technologies and public goods. DAOstar is a neutral organization, respected throughout the ecosystem, and offers an exciting environment to build the future of decentralized governance.\n\nIf you are interested, contact josh@daostar.org and aman@daostar.org with your CV and a brief message introducing yourself and explaining your interests."},"id":"22afcc55-baa5-4b79-b107-42e9570139a4","isHidden":false,"type":"markdown"}]
+
+----
+
+Width: false
+
+----
+
+Uuid: E1rFRZA0KnxZMJHc

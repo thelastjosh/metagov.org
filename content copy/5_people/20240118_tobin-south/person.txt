@@ -1,0 +1,97 @@
+Title: Tobin South
+
+----
+
+Bio: I'm Tobin, a PhD student at MIT studying privacy tech for decentralized social capital building and private LLM inference for communities.
+
+----
+
+Links: 
+
+----
+
+Role: 
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: I'm really good at hacking together small dev projects and have lots of thoughts about how to build tools to interact with one another.
+
+----
+
+Interests: cooperatives,somatic practices,human computer interaction (HCI)
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *DAOstar *- DAO standards working groups.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:20
+
+----
+
+Uuid: sSjdN9ybS6pVUc9a

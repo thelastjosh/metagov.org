@@ -1,0 +1,79 @@
+Title: Modular Politics
+
+----
+
+Subheading: a paper outlining a governance layer for the internet
+
+----
+
+Cover: - file://OjUuTym7tuoCr3cL
+
+----
+
+Website: 
+
+----
+
+Description: A paper outlining a governance layer for the internet.
+
+----
+
+Participate: 
+
+----
+
+Meetings: 
+
+----
+
+Category: Interoperability
+
+----
+
+Date: 2024-02-20
+
+----
+
+Project-status: Complete
+
+----
+
+Seeking-participants: false
+
+----
+
+Links:
+
+- 
+  text: Article
+  url: https://arxiv.org/abs/2005.13701
+
+----
+
+Type: Publication
+
+----
+
+Research-directors: 
+
+----
+
+Members:
+
+- page://neuVC2NprsEZ2c8u
+- page://l1tz4gKrbXpuWdIR
+- page://OjesIDtx7i88GyeQ
+- page://JhteperhZJLSvhzz
+- page://Ye0MulFIlYUXjm50
+
+----
+
+Contact: 
+
+----
+
+Projectstatus: Complete
+
+----
+
+Uuid: 9ugVUf2r55SjCEfk

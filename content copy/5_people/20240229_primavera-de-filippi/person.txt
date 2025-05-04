@@ -1,0 +1,62 @@
+Title: Primavera De Filippi
+
+----
+
+Affiliation: Harvard / CNRS
+
+----
+
+Image: 
+
+----
+
+Bio: 
+
+----
+
+Links:
+
+- 
+  text: Berkman Klein Center Profile
+  url: >
+    https://cyber.harvard.edu/people/pdefilippi
+
+----
+
+Email: 
+
+----
+
+Interests: 
+
+----
+
+Contributions: 
+
+----
+
+Role: Research Director, Contributor, Participant, Board
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: false
+
+----
+
+Uuid: w07RqEUR7pfCaxRL

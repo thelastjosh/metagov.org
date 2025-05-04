@@ -1,0 +1,117 @@
+Title: Lucia Korpas
+
+----
+
+Affiliation: Metagov Alumni
+
+----
+
+Image: 
+
+----
+
+Bio: I'm interested in the governance affordances of DAO smart contracts and decentralization in crypto. I'm was data scientist at Metagov supporting Govbase and related projects.
+
+----
+
+Links: 
+
+----
+
+Email: 
+
+----
+
+Interests: cooperatives, civic engagement, offline governance, qualitative methods, online communities / web2, crypto / DAOs / web3, quantitative methods
+
+----
+
+Contributions: 
+
+----
+
+Role: Contributor, Participant, Alumni
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: true
+
+----
+
+Contributing: Quantitatively, Describing, Explaining, Synthesizing, Exploring, Building, Theorizing, Listening, Conversing, Applying
+
+----
+
+Research-experience: quantitative methods,crypto / DAOs / web3,software development
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: true
+
+----
+
+Mentorship-topics: Research paper mentor
+
+----
+
+Metagov-project-interests: Govbase,DAOstar One
+
+----
+
+Is-pi-of: DAO Governance Surfaces
+
+----
+
+Is-contributor-to: Govbase Dataset, DAO Governance Surfaces
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Last-modified: 11/29/2023 9:51pm
+
+----
+
+Uuid: d3vnj5NR5qUbnTiI

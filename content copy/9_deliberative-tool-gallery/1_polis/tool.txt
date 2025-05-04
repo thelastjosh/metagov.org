@@ -1,0 +1,68 @@
+Title: Pol.is
+
+----
+
+Subheading: Elicitating, Deliberating, Reflecting
+
+----
+
+Cover: - file://3p1LZ27OAfycOyHL
+
+----
+
+Website: https://pol.is
+
+----
+
+Inputs: 
+
+----
+
+Outputs: 
+
+----
+
+Description: Participants are shown a card with a statement written by another, and asked to agree, disagree, pass, or write their own statement for others to react to. Comment routing algorithms weight content by how others respond, efficiently gathering data to map opinion groups and derive group-informed consensus statements.
+
+----
+
+Stage: Elicitation, Deliberation, Reflection
+
+----
+
+Function: 
+
+----
+
+License: GPL, AGPL
+
+----
+
+Infrastructure: 
+
+----
+
+People: - page://ai5e6iFsKxoO8NxT
+
+----
+
+Uuid: RRRpcGnrugBUYryi
+
+----
+
+Category: Sense-making
+
+----
+
+Links:
+
+- text: Github
+  url: https://github.com/compdemocracy/polis
+
+----
+
+Minparticipants: 5
+
+----
+
+Maxparticipants: 500000

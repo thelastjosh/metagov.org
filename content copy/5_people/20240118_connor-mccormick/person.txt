@@ -1,0 +1,101 @@
+Title: Connor McCormick
+
+----
+
+Bio:
+
+I'm Connor McCormick, a software developer living in Colombia obsessed with governance.
+
+For the last six years I've been tinkering with mechanisms for beneficial governance.
+
+----
+
+Links: 
+
+----
+
+Role: Participant,Contributor
+
+----
+
+Affiliation: Supersynchronous
+
+----
+
+Contributing: Exploring, Experimenting, Quantitatively
+
+----
+
+Interests: civic engagement,social theory,policy / law,qualitative methods,quantitative methods,offline governance
+
+----
+
+Research-experience: economics,software development
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Modpol,Govbase,Metagov Gateway
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:03
+
+----
+
+Uuid: GygauiOjOrxZudYm

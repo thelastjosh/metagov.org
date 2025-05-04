@@ -1,0 +1,45 @@
+Title: Swarmcheck
+
+----
+
+Subheading: Framing, Learning, Deliberating
+
+----
+
+Cover: - file://TFl20ZO8QKcq9Zdd
+
+----
+
+Website: https://swarmcheck.ai
+
+----
+
+Inputs: 
+
+----
+
+Outputs: 
+
+----
+
+Description: Participants contribute to structured discussions by mapping arguments that build on existing knowledge. Plain text inputs are transcribed into reusable, interconnected claims, creating an evolving knowledge base. Discussions are linked across topics, ensuring insights are refined and shared over time.
+
+----
+
+Stage: Framing, Learning, Deliberation
+
+----
+
+Function: 
+
+----
+
+License: 
+
+----
+
+Infrastructure: 
+
+----
+
+Uuid: kzpruX6rIjGZ4T53

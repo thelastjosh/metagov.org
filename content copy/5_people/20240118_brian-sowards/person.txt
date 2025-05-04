@@ -1,0 +1,101 @@
+Title: Brian Sowards
+
+----
+
+Bio: I’m Brian, founder of Supersynchronous, an engineering lab inventing a new role (Ops Devs) through a new entity (Guild).
+
+----
+
+Links:
+
+- 
+  text: Twitter
+  url: https://twitter.com/briansowards
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: Supersynchronous
+
+----
+
+Contributing: Synthesizing, Exploring, Conversing
+
+----
+
+Interests: online communities / web2,crypto / DAOs / web3,offline governance,cooperatives,software development,human computer interaction (HCI),economics,policy / law,social theory,qualitative methods,quantitative methods,somatic practices,conscious leadership
+
+----
+
+Research-experience: online community / web2,civic engagement,software development,human computer interaction (HCI),social theory,qualitative methods
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Modpol,Metagov Gateway
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: T3CmntyhEAFq8Dgm

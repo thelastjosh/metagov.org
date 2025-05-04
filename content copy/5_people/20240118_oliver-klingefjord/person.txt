@@ -1,0 +1,97 @@
+Title: Oliver Klingefjord
+
+----
+
+Bio: I'm Oliver, working on multi-dimensional reputation systems at Replabs.xyz.
+
+----
+
+Links: 
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: Replabs
+
+----
+
+Contributing: Experimenting, Applying, Theorizing
+
+----
+
+Interests: civic engagement,social theory
+
+----
+
+Research-experience: online community / web2,Reputation
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:03
+
+----
+
+Uuid: HUovDUXTnTK5pzcI

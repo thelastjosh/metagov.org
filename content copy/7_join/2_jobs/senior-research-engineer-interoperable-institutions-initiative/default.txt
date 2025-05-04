@@ -1,0 +1,21 @@
+Title: Senior research engineer (Interoperable Institutions Initiative)
+
+----
+
+Subheading: 
+
+----
+
+Cover: 
+
+----
+
+Text: [{"content":{"text":"- Status: Flexible (part-time or full-time)\n- Location: Remote\n- Pay: 80 USD/hour, or per experience.\n\n## Overview\n\nThe Senior Research Engineer will lead the development of digital infrastructure and standards designed to support the interoperability of deliberative and governance tools. They will be responsible for planning the technical strategy,, and working in collaboration with the engineering teams of tools such as Pol.is, PolicyKit, Remesh, Talk to the City, Society Library, as well as other researchers at Metagov. The successful candidate will contribute to the creation of a more connected and robust governance ecosystem, focusing on tools that enable comprehensive decision-making processes in various settings, including online community governance, AI governance, cooperative governance, and more.\n\n## Responsibilities\n\n* Increase the overall interoperability of new and existing deliberative and governance tools.\n* Lead the technical design, development, and implementation of Metagov’s overall interoperability strategy.\n* Design or incorporate standards for data publishing in formats such as JSON, JSON-LD, or CSV, in line with our draft specification.\n* Update said draft specification in response to feedback and experience.\n* Collaborate with stakeholders and grant awardees to build interoperable use-cases, identify problems, and identify new opportunities for interoperability.\n* Hiring and leading junior engineers as well as open source contributors.\n* Actively engage in the Metagov Slack community, particularly within the #interoperability channel.\n\n## Qualifications\n\n* This is an interoperability project, so you will be working with and connecting a number of disparate teams. Strong communication skills, both written and verbal, are an absolute must, ideally with experience presenting at public forums or community calls.\n* A minimum of 5 years of experience in software development, with a strong focus on open-source projects and community-driven initiatives. Nice to have: bachelor's degree or higher in computer science, software engineering, or equivalent experience.\n* Proficient in programming languages and technologies relevant to web and software development, with a preference for those experienced in developing interoperable systems.\n* Demonstrated experience with data interchange formats (JSON, JSON-LD, CSV) and understanding of interoperability standards.\n* Excellent problem-solving skills, with the ability to map complex problem spaces and devise innovative solutions.\n\n## Additional Information\n\nTo apply, please send a brief message and a CV to josh@metagov.org, eugene@metagov.org, and nitin@metagov.org.\n\nThis role offers the unique opportunity to contribute to the cutting edge of deliberative governance technology, with the potential to impact a wide range of governance and decision-making processes. The projects you'll be working on aim to fill critical gaps in the current governance ecosystem and improve the way decisions are made and implemented across various platforms and communities.\n\nIf you are passionate about open-source technology, governance innovation, and are looking for a challenging role that offers both technical and social impact, we encourage you to apply."},"id":"59356b7f-46b5-4330-837d-cb08024223a4","isHidden":false,"type":"markdown"}]
+
+----
+
+Width: false
+
+----
+
+Uuid: rV54HmAduZKtTrHo

@@ -1,0 +1,86 @@
+Title: Digital Ethnography Reading Group
+
+----
+
+Subheading: a set of digital ethnography reading group podcasts
+
+----
+
+Cover: - file://QwuQL2CVhrUnWHvx
+
+----
+
+Website: 
+
+----
+
+Description: A set of three digital ethnography in blockchain communities reading groups/podcasts
+
+----
+
+Participate: 
+
+----
+
+Meetings: 
+
+----
+
+Category: Convening & Experiences
+
+----
+
+Date: 2024-02-20
+
+----
+
+Project-status: Complete
+
+----
+
+Seeking-participants: false
+
+----
+
+Links:
+
+- 
+  text: 🔊 Podcast 1
+  url: >
+    https://anchor.fm/mintburn/episodes/Mint--Burn-Episode-42-Digital-Ethnography-in-Blockchain--Governance-Reading-Group-1-w--Tara-Merk--Cent-Hosten---Wassim-Alsindi-e1oe97j
+- 
+  text: 🔊 Podcast 2
+  url: >
+    https://anchor.fm/mintburn/episodes/Mint--Burn-Episode-45-Digital-Ethnography-in-Blockchain--Governance-Reading-Group-2-w--Kelsie-Nabben--Tara-Merk--Cent-Hosten--Quinn-DuPont-e1q24l0
+- 
+  text: 🔊 Podcast 3
+  url: >
+    https://anchor.fm/mintburn/episodes/Mint--Burn-Episode-47-Digital-Ethnography-in-Blockchain--Governance-Reading-Group-3--Speculative-Fiction-w--Ellie-Rennie--Kola-Heyward-Rotimi--hosted-by-Kelsie-Nabben--Tara-Merk---Cent-Hosten-e1rfkk1
+
+----
+
+Type: Publication, Cross-group Collaboration
+
+----
+
+Research-directors: 
+
+----
+
+Members:
+
+- page://4gZi5E3CbYkAj38k
+- page://kmdL4mQPQ0rQDyIG
+- page://fZBv4pNTeSI6OOhE
+
+----
+
+Contact: 
+
+----
+
+Projectstatus: Complete
+
+----
+
+Uuid: 1IyURWgatr4hOzyK

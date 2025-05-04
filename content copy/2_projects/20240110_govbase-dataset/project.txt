@@ -1,0 +1,95 @@
+Title: Govbase Dataset
+
+----
+
+Subheading: a set of research data sets in online governance
+
+----
+
+Cover: - file://m24VEyP2myJboMm7
+
+----
+
+Website: https://govbase.metagov.org/
+
+----
+
+Description: Govbase is the most comprehensive database of projects and organizations in online governance.
+
+----
+
+Participate: Contribute to the database. Also seeking dataset maintainer/champion.
+
+----
+
+Meetings: Slack: #govbase
+
+----
+
+Category: Mapping Governance
+
+----
+
+Date: 2024-01-10
+
+----
+
+Project-status: Active
+
+----
+
+Seeking-participants: true
+
+----
+
+Links:
+
+- 
+  text: 🌐 govbase.metagov.org
+  url: https://govbase.metagov.org/
+- 
+  text: 💻 Github Repo
+  url: >
+    https://github.com/metagov/govbase-website
+
+----
+
+Type: Tool, Publication, Data Set
+
+----
+
+Research-directors: 
+
+----
+
+Members:
+
+- page://JhteperhZJLSvhzz
+- page://mWwQboaRefqbagcR
+- page://JPjopqQjX2g2TQFv
+- page://d3vnj5NR5qUbnTiI
+- page://zOouzvaBotMl6l8r
+
+----
+
+Contact: 
+
+----
+
+Discussion-forum: 
+
+----
+
+Projectstatus: Active
+
+----
+
+Seekingparticipants: true
+
+----
+
+Researchdirectors: 
+
+----
+
+Uuid: jRQnW1obpZAFSsob

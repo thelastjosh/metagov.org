@@ -1,0 +1,101 @@
+Title: Charles Adjovu
+
+----
+
+Bio: I am a lawyer and researcher at Ledgerback studying the frontiers of tech and society. My interests at the frontiers include DAOs, governance, data stewardship, tools for thought, and metascience.
+
+----
+
+Links:
+
+- 
+  text: 🐤 Twitter
+  url: https://twitter.com/CAdjovu
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: Ledgerback Digital Commons Research Cooperative
+
+----
+
+Contributing: 
+
+----
+
+Interests: cooperatives,human computer interaction (HCI),civic engagement,policy / law,quantitative methods,software development,crypto / DAOs / web3,economics
+
+----
+
+Research-experience: crypto / DAOs / web3,cooperatives,policy / law,qualitative methods
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Govbase* - A lab building research data sets in online governance.,*Modpol *- A self-governance toolkit for communities in online worlds.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: 6iUy3Yui5qYLe2et

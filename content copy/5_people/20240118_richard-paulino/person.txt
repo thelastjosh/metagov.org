@@ -1,0 +1,97 @@
+Title: Richard Paulino
+
+----
+
+Bio: I’m Richard, a data scientist / technical consultant with a diverse background who is interested in building solutions for society’s biggest problems. I’m looking to see how/if I can be helpful in what I think could be the future of government.
+
+----
+
+Links: 
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Quantitatively, Building, Explaining
+
+----
+
+Interests: crypto / DAOs / web3,offline governance,civic engagement,software development,human computer interaction (HCI),economics,policy / law,social theory,quantitative methods
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Govbase,Modpol,Metagov Gateway
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:03
+
+----
+
+Uuid: GVpXZntgg1z7hkf0

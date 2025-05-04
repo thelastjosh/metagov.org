@@ -1,0 +1,101 @@
+Title: Jason Ortiz
+
+----
+
+Bio: I'm a Computer Science PhD Student at the University of Central Florida studying Extended Reality (XR) technologies. I'm especially interested in XR ethics, and using XR for social and collaborative work.
+
+----
+
+Links:
+
+- 
+  text: 💼 Linkedin
+  url: https://www.linkedin.com/in/jasonaortiz/
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: 
+
+----
+
+Interests: cooperatives,social theory,policy / law,economics,civic engagement,online communities / web2,quantitative methods,software development,somatic practices
+
+----
+
+Research-experience: software development,Extended Reality
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,PolicyKit
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: Bl8ub36L3u19eFnK

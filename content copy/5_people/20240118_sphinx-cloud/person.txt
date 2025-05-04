@@ -1,0 +1,113 @@
+Title: Sphinx Cloud
+
+----
+
+Bio: I'm Sphinx, an illustrator and jewelry designer by day and an online community/futurism/cyborg enthusiast by night and by daydream.
+
+----
+
+Links: 
+
+----
+
+Role: 
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: I like creating cross-org/cross-discipline communications and working methods in order to help build connectedness inside and outside organizations. I am a community organizer at heart and in practice. I enjoy designing community systems that help get thi, clear explanations of things (lol), goal-free brainstorming, archiving, and research.
+
+----
+
+Interests: civic engagement,cooperatives,crypto / DAOs / web3,human computer interaction (HCI),economics,policy / law,social theory,software development
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers:
+
+- networking
+- career expansion in non-traditional ways
+- cover letters, interviewing, & resumes
+- org operations
+- community onboarding
+- digital illustration!
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests:
+
+- cyborgs
+- online governance
+- Ai
+- quasi crystals
+- bio tech 
+- future of energy
+- computer brain interfaces
+(mostly this is a list of stuff that I want to learn more about)
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,*Telescope *- A Discord bot for ethical and responsive digital ethnography.,*Cartographies of Internet Metagovernance* - Metagov research and governance mapping project
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:19
+
+----
+
+Uuid: Bqzi4UzJchxDa1An

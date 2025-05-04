@@ -1,0 +1,101 @@
+Title: Nils Augustin
+
+----
+
+Bio: I am Nils, and I am a first year PhD student at the University of Innsbruck (Austria). Within my PhD I want to study self-managing organizations, such as DAOs, and the role of IT within these organizations.
+
+----
+
+Links:
+
+- 
+  text: LinkedIn
+  url: https://www.linkedin.com/in/nilsaugustin/
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Peer Reviewing, Qualitatively, Exploring
+
+----
+
+Interests: social theory,crypto / DAOs / web3
+
+----
+
+Research-experience: qualitative methods,online community / web2,social theory
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: DAOstar One
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: 1w3czxuJpW2MLyvR

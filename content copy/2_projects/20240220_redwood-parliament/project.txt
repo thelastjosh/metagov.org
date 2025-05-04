@@ -1,0 +1,78 @@
+Title: Redwood Parliament
+
+----
+
+Subheading: a governance convocation event
+
+----
+
+Cover: - file://UZVqM4MSgnJD0Z6p
+
+----
+
+Website: 
+
+----
+
+Description:
+
+A governance convocation event at DWeb Camp 2022.
+
+<iframe width="100%" height="370" src="https://www.youtube.com/embed/79EeSt8L7cw?si=VZ9YiuQbRST7O4qf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+----
+
+Participate: 
+
+----
+
+Meetings: 
+
+----
+
+Category: Convening & Experiences
+
+----
+
+Date: 2024-02-20
+
+----
+
+Project-status: Complete
+
+----
+
+Seeking-participants: false
+
+----
+
+Links:
+
+- 
+  text: 2022 Gathering
+  url: >
+    https://metagov.org/projects/redwood-parliament/2022
+
+----
+
+Type: R&D, Community of Practice, Cross-group Collaboration
+
+----
+
+Research-directors: 
+
+----
+
+Members: - page://fZBv4pNTeSI6OOhE
+
+----
+
+Contact: 
+
+----
+
+Projectstatus: Complete
+
+----
+
+Uuid: INlePxiG6XhVDjuD

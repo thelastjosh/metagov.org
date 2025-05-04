@@ -1,0 +1,97 @@
+Title: Nathan Vandy
+
+----
+
+Bio: I'm Nathan, a PhD Student from Paris University, exploring the use of decentralised governance for public and private institutions. Also building a no-code platform for DAOs to rewards new and seasoned members for engagement in governance.
+
+----
+
+Links: 
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: Onboard
+
+----
+
+Contributing: Exploring, Amplifying, Applying
+
+----
+
+Interests: crypto / DAOs / web3,offline governance,economics,policy / law
+
+----
+
+Research-experience: crypto / DAOs / web3,offline governance,online community / web2,software development,economics,policy / law
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Metaeth* - A Discord bot for ethical and responsive digital ethnography.,*Metagov Gateway* - A unified API gateway for digital governance services.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:03
+
+----
+
+Uuid: RTtfaNR558TtLgW8

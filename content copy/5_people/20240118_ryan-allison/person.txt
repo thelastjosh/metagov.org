@@ -1,0 +1,97 @@
+Title: Ryan Allison
+
+----
+
+Bio: I’m Ryan, I’m a technical product manager for Web3 at Stand Together, a large national non-profit. We are exploring the build of two tokenized communities and I’m very interested in effective DAO governance.
+
+----
+
+Links: 
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Theorizing, Applying, Experimenting
+
+----
+
+Interests: cooperatives,economics,human computer interaction (HCI),civic engagement
+
+----
+
+Research-experience: crypto / DAOs / web3,civic engagement
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,*Govbase* - An open database of projects and tools in online governance.,*DAOstar One* - A roundtable working towards an ERC standard to DAOs.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:03
+
+----
+
+Uuid: lCWKlG8A4aKI9rXI

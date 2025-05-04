@@ -1,0 +1,101 @@
+Title: Dragan Okanovic
+
+----
+
+Bio: I am full-stack web developer working on tools for academia for the past 5 years.
+
+----
+
+Links:
+
+- 
+  text: Twitter
+  url: https://twitter.com/abstractalgo.
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: Unfold Research
+
+----
+
+Contributing: Building, Conversing, Theorizing
+
+----
+
+Interests: policy / law,human computer interaction (HCI),civic engagement,cooperatives,qualitative methods
+
+----
+
+Research-experience: online community / web2,software development,human computer interaction (HCI)
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: 6tlGE29czVCcl4yz

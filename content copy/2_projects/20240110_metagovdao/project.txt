@@ -1,0 +1,92 @@
+Title: MetagovDAO
+
+----
+
+Subheading: a funding body for qualitative governance research on DAOs.
+
+----
+
+Cover: - file://hwikvoqo03tqZOyv
+
+----
+
+Website: https://metagov.org/projects/metagovdao/call-for-proposals-research-community
+
+----
+
+Description: 
+
+----
+
+Participate: 
+
+----
+
+Meetings: Slack: #metagovdao
+
+----
+
+Category: Governance Funding
+
+----
+
+Date: 2024-01-10
+
+----
+
+Project-status: Active
+
+----
+
+Seeking-participants: false
+
+----
+
+Links:
+
+- 
+  text: 🌐 Website
+  url: >
+    https://metagov.org/projects/metagovdao/call-for-proposals-research-community
+
+----
+
+Type: Community of Practice, R&D
+
+----
+
+Research-directors: 
+
+----
+
+Members:
+
+- page://JhteperhZJLSvhzz
+- page://JPjopqQjX2g2TQFv
+- page://neuVC2NprsEZ2c8u
+- page://mWwQboaRefqbagcR
+- page://kmdL4mQPQ0rQDyIG
+
+----
+
+Contact: 
+
+----
+
+Discussion-forum: 
+
+----
+
+Projectstatus: Active
+
+----
+
+Seekingparticipants: false
+
+----
+
+Researchdirectors: 
+
+----
+
+Uuid: wODqLaLb0pYlOgcZ

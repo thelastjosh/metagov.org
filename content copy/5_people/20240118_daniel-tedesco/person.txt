@@ -1,0 +1,101 @@
+Title: Daniel Tedesco
+
+----
+
+Bio: I'm DT. During the day I work on game growth strategy @ Google. On nights and weekends, I am obsessed with the future of virtual life.
+
+----
+
+Links:
+
+- 
+  text: 🐤 Twitter
+  url: https://mobile.twitter.com/dtedesco1
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: 
+
+----
+
+Interests: cooperatives,civic engagement,somatic practices,online communities / web2
+
+----
+
+Research-experience: online community / web2,offline governance,qualitative methods,quantitative methods,civic engagement
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: mAuGRKUUZdkE6c1N

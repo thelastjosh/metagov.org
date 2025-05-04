@@ -1,0 +1,21 @@
+Title: MetagovDAO Call for Proposals: Research + Community
+
+----
+
+Subheading: 
+
+----
+
+Cover: 
+
+----
+
+Text: [{"content":{"text":"<p>Thanks to a <u><a href=\"https://gitcoin.co/grants/2900/metagov-dao-governance-research-group\">Gitcoin grant</a></u>, the MetagovDAO will periodically receive proposals for projects that will help build the Metagovernance Project’s research community. Open proposal periods will be announced publicly.</p>"},"id":"009405d3-03ed-4a69-a1a5-8cbd6f8e5f64","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://iyxBNTbEnm4W0nHJ"],"src":"","alt":"research and community logo","caption":"","link":"","ratio":"","crop":"false"},"id":"eebb2043-3d70-48a4-9cdf-a17110242a4c","isHidden":false,"type":"image"},{"content":{"text":"<br>"},"id":"7fbd331e-e3f8-494c-95c9-c6f7aaa9144f","isHidden":false,"type":"markdown"},{"content":{"text":"<p>This is a periodic funding opportunity for participants in the Metagov community and other researchers to receive support for their work. We support projects that:</p>"},"id":"49211f18-83b9-43dd-a2d2-b0c0de6a24d6","isHidden":false,"type":"text"},{"content":{"text":"- engage in original, creative **research** on online governance, DAOs, or other topics relevant to Metagov’s mission,\n- enliven the Metagov research **community** through events, relationship-building, and learning opportunities that share research, and/or\n- produce open-source or open-access research as **public goods**."},"id":"57b5dd3d-fdbc-4488-8384-33719fda5d72","isHidden":false,"type":"markdown"},{"content":{"text":"<p>We especially encourage submissions based on collaborations between multiple members of the Metagov community (i.e. find a collaborator in Metagov) and submissions that connect members of the Metagov community with members of Gitcoin and the GitcoinDAO (i.e. collaborators from Gitcoin or GitcoinDAO count too). <a href=\"/@/page/3IxUqbjNc4XwS902\">Join the Metagov community</a> and find collaborators.</p><p>Grants may be between the equivalent of USD $100 to $10,000; they will be paid in ETH, DAI, or USDC. For research projects, we expect to see a concrete deliverable such as a blog post or a seminar presentation at the end of the grant period that presents the work in an accessible format to both the Metagov community and our partners in Gitcoin.</p><p>Please note: all proposal titles and descriptions are posted publicly to <u><a href=\"https://metagov.slack.com/archives/C01VAMPAWQ6\">#metagovdao</a></u> on our Slack. We will not post publicly-identifiable information such as name or email, though you are welcome to step up and claim ownership over the proposal directly in the Slack channel, where there will be a period of public comment on the proposal. The stewards of the multisig will evaluate proposals during our monthly meetings. If a proposal is urgent, please reach out directly to one of the stewards.</p>"},"id":"83d24763-9d7f-4878-aef4-652497486f00","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"<strong>About MetagovDAO</strong>"},"id":"3e60ebcd-f549-4b2c-993d-86b4e1b323fb","isHidden":false,"type":"heading"},{"content":{"text":"<p>MetagovDAO is an effort by the distributed research group Metagov to catalyze governance research in participatory, digital communities. Following successful funding from the Ethereum community via GitcoinDAO, the purpose of MetagovDAO is to fund qualitative governance research. </p><p>Grant decisions will be made by the stewards of MetagovDAO: Kelsie Nabben, Nathan Schneider, Ellie Rennie, Josh Tan, and Michael Zargham. See our governance <u><a href=\"https://communityrule.info/create/?r=1638940202802\">here</a></u>. Once awarded, MetagovDAO and Metagov aim to support you to share and disseminate research, including through paper workshops, seminars, and further funding and support from strategic partners <u><a href=\"http://smartcontractresearch.org/\">Smart Contract Research Forum</a></u>, <u><a href=\"https://www.daocollective.xyz/\">DAO Research Collective</a></u>, and GitcoinDAO. </p><p>Please note we cannot guarantee detailed feedback on each proposal. We look forward to reading your research proposal.</p>"},"id":"b1d86ccf-488c-4e7b-88f0-1b853b8a20c5","isHidden":false,"type":"text"}]
+
+----
+
+Width: false
+
+----
+
+Uuid: Celc8fAzEFYpkvZb

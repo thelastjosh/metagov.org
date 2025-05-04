@@ -1,0 +1,97 @@
+Title: Isaac
+
+----
+
+Bio: I'm Isaac, have a background in Civil Engineering and Public Policy, exploring how to use technology to sustainably catalyze the growth of Civil Society in Kenya.
+
+----
+
+Links: 
+
+----
+
+Role: Contributor,Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Synthesizing, Facilitating, Quantitatively
+
+----
+
+Interests: human computer interaction (HCI),civic engagement,economics,policy / law,social theory,qualitative methods,quantitative methods,crypto / DAOs / web3
+
+----
+
+Research-experience: economics,policy / law,social theory
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: DAOstar One,Metagov Gateway,Govbase
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:03
+
+----
+
+Uuid: pIsOe2BwiS5hcPkW

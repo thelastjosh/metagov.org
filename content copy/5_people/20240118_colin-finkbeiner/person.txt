@@ -1,0 +1,101 @@
+Title: Colin Finkbeiner
+
+----
+
+Bio: I'm Colin, a rising senior at the University of Michigan,  I previously led Blockchain at Michigan as President, and have been a long time contributor to Web3 both as a researcher and developer.
+
+----
+
+Links:
+
+- 
+  text: Twitter
+  url: https://mobile.twitter.com/finkbeca
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Building, Exploring, Applying
+
+----
+
+Interests: crypto / DAOs / web3,policy / law
+
+----
+
+Research-experience: crypto / DAOs / web3,software development
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: DAOstar One,Modpol,Govbase
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: oESkbvmPLwp2xwRv

@@ -1,0 +1,101 @@
+Title: oliz0808.eth
+
+----
+
+Bio: I am Oliz, a master student majoring in data science for public good at Georgetown University.  Interested in RxC, Polis, Comp demm etc
+
+----
+
+Links:
+
+- 
+  text: LinkedIn
+  url: https://linktr.ee/oliz0808.eth
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: 
+
+----
+
+Interests: cooperatives,economics,human computer interaction (HCI),qualitative methods,social theory,software development,somatic practices
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: deliberative democracy,  mapping in social theory, digital governance, QV, QF
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,*Telescope *- A Discord bot for ethical and responsive digital ethnography.,*Cartographies of Internet Metagovernance* - Metagov research and governance mapping project
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: EKr7VW7kEetjOW23

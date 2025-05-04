@@ -1,0 +1,74 @@
+Title: LARP Governance
+
+----
+
+Subheading: a governance LARP ethnography and history report
+
+----
+
+Cover: - file://mAHdEjZ5TTUWjBFd
+
+----
+
+Website: 
+
+----
+
+Description: A governance LARP ethnography and history report
+
+----
+
+Participate: 
+
+----
+
+Meetings: 
+
+----
+
+Category: Convening & Experiences
+
+----
+
+Date: 2024-02-20
+
+----
+
+Project-status: Complete
+
+----
+
+Seeking-participants: false
+
+----
+
+Links:
+
+- 
+  text: Excerpt
+  url: >
+    https://docs.google.com/document/d/e/2PACX-1vQZ_ROn1DBa_qi68PynATDH3ssK1D9xTH0DG5plp_vNuA3mUMD0Rl2jSG0Nlxy18ajVk6ZtMhnPFKAg/pub
+
+----
+
+Type: Community of Practice, R&D, Cross-group Collaboration
+
+----
+
+Research-directors: 
+
+----
+
+Members: - page://mWwQboaRefqbagcR
+
+----
+
+Contact: 
+
+----
+
+Projectstatus: Complete
+
+----
+
+Uuid: w2GSZeC6WhZon7d6

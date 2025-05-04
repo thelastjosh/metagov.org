@@ -1,0 +1,97 @@
+Title: Quinn DuPont
+
+----
+
+Bio: I'm an Adjunct Prof Information Science UBC, formerly Assistant Prof Business UCD. PhD Toronto, Postdoc Washington. Book "Cryptocurrencies and Blockchains" (Polity 2019)
+
+----
+
+Links: 
+
+----
+
+Role: Participant,Contributor
+
+----
+
+Affiliation: Metagov Network Participant
+
+----
+
+Contributing: Qualitatively, Quantitatively, Experimenting
+
+----
+
+Interests: cooperatives,social theory,human computer interaction (HCI)
+
+----
+
+Research-experience: crypto / DAOs / web3,human computer interaction (HCI),economics,policy / law,social theory,qualitative methods,quantitative methods
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Govbase* - An open database of projects and tools in online governance.,*Metagov Gateway* - A unified API gateway for digital governance services.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:03
+
+----
+
+Uuid: wNrnRCDh95bg1aEm

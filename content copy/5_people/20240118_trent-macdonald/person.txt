@@ -1,0 +1,101 @@
+Title: Trent MacDonald
+
+----
+
+Bio: I'm Trent, a research fellow (economics, data science) at RMIT University. I’m interested in the political and economic implications and possibilities of new technologies; particularly in the areas of blockchain and cryptocurrency, privacy and surveillance, and artificial intelligence and automation. My current work is focused on empirical mapping and analysis of automated decision-making and algorithmic governance in the economy and society.
+
+----
+
+Links:
+
+- 
+  text: Website
+  url: https://trentjmacdonald.com/
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: ARC Centre of Excellence for Automated Decision-Making and Society; RMIT Blockchain Innovation Hub
+
+----
+
+Contributing: Exploring, Qualitatively, Theorizing
+
+----
+
+Interests: crypto / DAOs / web3,economics,quantitative methods,human computer interaction (HCI),cooperatives,offline governance,social theory
+
+----
+
+Research-experience: crypto / DAOs / web3,offline governance,economics,quantitative methods
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Govbase,DAOstar One,Metaeth
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: iPsWpyNdo6FDKwxd

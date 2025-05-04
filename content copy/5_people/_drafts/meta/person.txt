@@ -1,0 +1,61 @@
+Title: Meta
+
+----
+
+Affiliation: Meta Metagov
+
+----
+
+Image: 
+
+----
+
+Bio: The Meta River is a major left tributary
+
+----
+
+Links:
+
+- 
+  text: Meta
+  url: https://en.wikipedia.org/wiki/Meta_River
+
+----
+
+Email: meta@metagov.org
+
+----
+
+Interests: meta
+
+----
+
+Contributions: meta
+
+----
+
+Role: 
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: false
+
+----
+
+Uuid: uNfzamnta3ZtEF3G

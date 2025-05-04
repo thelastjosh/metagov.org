@@ -1,0 +1,103 @@
+Title: Alyssa Yuhas
+
+----
+
+Bio: Hello! I'm Alyssa, I'm a Masters of Design (Strategic Foresight & Innovation) student at OCADU in Toronto, Canada. I'm gearing up for my final research project (May 2022-May 2023) and I'm hoping to focus on the future of trust (in online communities).
+
+----
+
+Links:
+
+- 
+  text: 🌐 Website
+  url: http://alyssayuhas.com  - 
+  text: 🐤 Twitter
+  url: https://twitter.com/alyssayuhas
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Exploring, Synthesizing, Qualitatively
+
+----
+
+Interests: crypto / DAOs / web3,quantitative methods,social theory,cooperatives
+
+----
+
+Research-experience: online community / web2,qualitative methods
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Metaeth
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: MUPrgqpk6CP1uBmI

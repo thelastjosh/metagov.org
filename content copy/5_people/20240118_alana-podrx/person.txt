@@ -1,0 +1,101 @@
+Title: Alana Podrx
+
+----
+
+Bio: I'm Alana, a founder building community investing tools in web3, with Eve Wealth.
+
+----
+
+Links:
+
+- 
+  text: Twitter
+  url: https://twitter.com/AlanaPodrx
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Theorizing, Synthesizing, Building
+
+----
+
+Interests: crypto / DAOs / web3,cooperatives,Credit Unions
+
+----
+
+Research-experience: online community / web2,crypto / DAOs / web3,software development,qualitative methods,quantitative methods,economics
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Metagov Gateway* - A unified API gateway for digital governance services.,*Modpol *- A self-governance toolkit for communities in online worlds.,*DAOstar One* - A roundtable working towards an ERC standard to DAOs.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: ai5e6iFsKxoO8NxT

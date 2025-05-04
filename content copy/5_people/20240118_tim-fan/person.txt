@@ -1,0 +1,101 @@
+Title: Tim Fan
+
+----
+
+Bio: I'm Tim from China, and I'm in my third year of my Ph.D. at Beihang University. My interest of Ph.D. is about blockchain on-chain governance and on-chain self-update.
+
+----
+
+Links:
+
+- 
+  text: 💼 GitHub
+  url: https://github.com/timfaner
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Listening, Building, Experimenting, Exploring, Applying
+
+----
+
+Interests: crypto / DAOs / web3,social theory,qualitative methods
+
+----
+
+Research-experience: software development,crypto / DAOs / web3
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: 4rPPrYpm4RlgpKgl

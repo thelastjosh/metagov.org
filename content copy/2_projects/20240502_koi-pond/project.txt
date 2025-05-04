@@ -1,0 +1,110 @@
+Title: KOI Pond
+
+----
+
+Subheading: Experiments in online community self-governance using an LLM-mediated KOI (Knowledge Organization Infrastructure)
+
+----
+
+Cover: - file://LKropQ9r1EwwArEX
+
+----
+
+Website: https://metagov.org/projects/koi-pond/project-details
+
+----
+
+Description:
+
+Metagov's KOI (Knowledge Organization Infrastructure) is a graph database that supports relationships between knowledge objects, users, and groups within Metagov.
+
+For more see (link: https://metagov.org/projects/koi-pond/project-details text: full project description) and (link: https://metagov.org/projects/koi-pond/faq text: FAQ).
+
+<iframe width="100%" height="370" src="https://www.youtube.com/embed/-q-kk-NMFbA?si=u5vthj-gNfLMr5LW" allowfullscreen></iframe>
+
+----
+
+Participate:
+
+- **(link: https://metagov.org/join/community text: Join our Slack)** and: 
+    - **Visit #koi-pond** to participate in project discussion
+    - **Visit #koi-tank** to participate in infrastructure testing
+    - **Visit #govbase-labs** to join our weekly meetings (meeting information is in a pinned post to the channel). You may also @ Cent if you have questions about how to join a meeting or participate in general
+- **Koimmunity Cove Calls**: a community call to discuss and steer this project (temporarily paused)
+    - See our (link: https://metagov.org/events text: events calendar for the full schedule)
+
+----
+
+Meetings: Thursdays at 5-6pm ET (GMT-4). (link: https://metagov.org/join/community text: Join our Slack) and visit #govbase-labs for more information.
+
+----
+
+Category: Network Building, Community, Convening & Experiences
+
+----
+
+Date: 2024-05-02
+
+----
+
+Project-status: Active
+
+----
+
+Seeking-participants: true
+
+----
+
+Links:
+
+- 
+  text: FAQ
+  url: >
+    https://metagov.org/projects/koi-pond/faq
+- 
+  text: Project Details
+  url: >
+    https://metagov.org/projects/koi-pond/project-details
+- 
+  text: 'Blog: A Language for Knowledge Networks (Block Science)'
+  url: >
+    https://blog.block.science/a-language-for-knowledge-networks/
+- 
+  text: 'Blog: KOI-Pond: The creation of a synthetic deme'
+  url: >
+    https://ellierennie.medium.com/koi-pond-the-creation-of-a-synthetic-deme-999a6f1f3426
+- 
+  text: 'Project Spotlight: Metagov Newsletter'
+  url: >
+    https://metagov.substack.com/p/metagov-project-spotlight-koi-pond
+
+----
+
+Type: Community of Practice, Data Set, Coordination Tool, Tool
+
+----
+
+Research-directors:
+
+- page://mWwQboaRefqbagcR
+- page://JPjopqQjX2g2TQFv
+
+----
+
+Members:
+
+- page://jNRsNCbjJPrJJAzl
+- page://RKDeHB8izswwRJSi
+- page://fZBv4pNTeSI6OOhE
+- page://xAIKANHjHhEkXdGO
+- page://kmdL4mQPQ0rQDyIG
+- page://R5Hj8mVeDI5by8vA
+- page://JhteperhZJLSvhzz
+
+----
+
+Contact: team@metagov.org
+
+----
+
+Uuid: m534BYKuo4U6F0H5

@@ -1,0 +1,62 @@
+Title: Brandon Jackson
+
+----
+
+Affiliation: Product Manager
+
+----
+
+Image: 
+
+----
+
+Bio: 
+
+----
+
+Links:
+
+- 
+  text: LinkedIn
+  url: >
+    https://www.linkedin.com/in/brandonjackson/?originalSubdomain=uk
+
+----
+
+Email: 
+
+----
+
+Interests: 
+
+----
+
+Contributions: 
+
+----
+
+Role: Team
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: false
+
+----
+
+Uuid: A3AGM4FX5GoGJP91

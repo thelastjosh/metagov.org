@@ -1,0 +1,101 @@
+Title: Andri Schatz
+
+----
+
+Bio: Hi! My name is Andri. I‘ve studied fine arts and worked in the culture sector and various democratically organized spaces/formats. I am now starting as a web developer in the blockchain/web3 sector.
+
+----
+
+Links:
+
+- 
+  text: 📂 Portfolio
+  url: https://drive.google.com/file/d/1fsJVAA6yJMOTWfirUJ0iZ3X7hjYVh2Bg/view?usp=drivesdk
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: 
+
+----
+
+Interests: cooperatives,civic engagement,crypto / DAOs / web3,human computer interaction (HCI),policy / law,qualitative methods,social theory,software development,somatic practices
+
+----
+
+Research-experience: online community / web2,offline governance,software development,human computer interaction (HCI)
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,*DAOstar *- DAO standards working groups.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: zUqWZPxz2RvPJknV

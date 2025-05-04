@@ -1,0 +1,101 @@
+Title: Emilio Lehoucq
+
+----
+
+Bio: I'm Emilio, a PhD candidate at Northwestern studying the economics of machine learning, privacy, and algorithmic fairness.
+
+----
+
+Links:
+
+- 
+  text: 💼 LinkedIn
+  url: https://www.linkedin.com/in/emilio-l/
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: 
+
+----
+
+Interests: cooperatives,civic engagement,online communities / web2,policy / law,qualitative methods
+
+----
+
+Research-experience: human computer interaction (HCI),social theory,qualitative methods,quantitative methods,offline governance,civic engagement
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *DAOstar *- DAO standards working groups.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: EdQ5SH9zNtFTggLi

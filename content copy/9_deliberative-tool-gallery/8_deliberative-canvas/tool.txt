@@ -1,0 +1,52 @@
+Title: Deliberative Canvas
+
+----
+
+Subheading: Reflecting
+
+----
+
+Cover: - file://CdHn8pUJl1orHuan
+
+----
+
+Website: 
+
+----
+
+Inputs: 
+
+----
+
+Outputs: 
+
+----
+
+Description: Participants engage with a dynamic digital canvas to visualize ideas, create connections, and explore complex issues through interactive visual tools. They can link concepts, annotate insights, and collaborate in real-time.
+
+----
+
+Stage: Reflection
+
+----
+
+Function: 
+
+----
+
+License: 
+
+----
+
+Infrastructure: 
+
+----
+
+Links:
+
+- text: Deliberative Canvas
+  url: https://deliberative-canvas.gitbook.io
+
+----
+
+Uuid: iDMo6rGNxrAGQjUK

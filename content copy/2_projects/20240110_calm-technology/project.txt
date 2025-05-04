@@ -1,0 +1,85 @@
+Title: Calm Technology
+
+----
+
+Subheading: a standards body for aligning attention with technology
+
+----
+
+Cover: - file://EsceX432QSJ9VN7j
+
+----
+
+Website: https://www.calmtech.institute/
+
+----
+
+Description: 
+
+----
+
+Participate: 
+
+----
+
+Meetings: Slack: #calm-tech-department
+
+----
+
+Category: Standards
+
+----
+
+Date: 2024-01-10
+
+----
+
+Project-status: Active
+
+----
+
+Seeking-participants: false
+
+----
+
+Links:
+
+- 
+  text: 🌐 www.calmtech.institute
+  url: https://www.calmtech.institute/
+
+----
+
+Type: Technical Standard
+
+----
+
+Research-directors: 
+
+----
+
+Members: - page://sozJRof8uyMux1zE
+
+----
+
+Contact: 
+
+----
+
+Discussion-forum: 
+
+----
+
+Projectstatus: Active
+
+----
+
+Seekingparticipants: false
+
+----
+
+Researchdirectors: 
+
+----
+
+Uuid: JVRWdYsqUjVj22OT

@@ -1,0 +1,101 @@
+Title: Lewis Hammond
+
+----
+
+Bio: I'm a PhD student at Oxford working on safety and cooperation in multi-agent systems, and the acting executive director of the Cooperative AI Foundation.
+
+----
+
+Links:
+
+- 
+  text: Website
+  url: https://www.lewishammond.com
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: Cooperative AI Foundation
+
+----
+
+Contributing: Applying, Exploring, Funding
+
+----
+
+Interests: social theory,cooperatives,civic engagement,qualitative methods,quantitative methods,economics
+
+----
+
+Research-experience: AI / academia / non-profits
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: vZhtt6OC6xmLYnHI

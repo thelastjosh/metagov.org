@@ -1,0 +1,97 @@
+Title: Pedro Parrachia
+
+----
+
+Bio: I'm a participatory action researcher and activist focused on decentralized governance and digital public goods. Passionate about dissent tech like agroecology, civic platforms, DAOs, token engineering, and speculative fiction.
+
+----
+
+Links: 
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: Floristic.xyz
+
+----
+
+Contributing: Exploring, Describing, Conversing
+
+----
+
+Interests: cooperatives,policy / law,human computer interaction (HCI),software development,social theory
+
+----
+
+Research-experience: crypto / DAOs / web3
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,*Govbase* - An open database of projects and tools in online governance.,*DAOstar One* - A roundtable working towards an ERC standard to DAOs.,*Metaeth* - A Discord bot for ethical and responsive digital ethnography.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:03
+
+----
+
+Uuid: rkUMAgGK7ZSWaOBC

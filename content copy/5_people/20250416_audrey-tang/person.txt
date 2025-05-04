@@ -1,0 +1,57 @@
+Title: Audrey Tang
+
+----
+
+Affiliation: Research Advisor
+
+----
+
+Image: 
+
+----
+
+Bio: 
+
+----
+
+Links: 
+
+----
+
+Email: 
+
+----
+
+Interests: 
+
+----
+
+Contributions: 
+
+----
+
+Role: Research Director
+
+----
+
+Projects: projects/interop
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: true
+
+----
+
+Uuid: c6o422vdRDSpJV2a

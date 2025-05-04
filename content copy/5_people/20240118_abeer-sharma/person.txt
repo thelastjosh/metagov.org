@@ -1,0 +1,101 @@
+Title: Abeer Sharma
+
+----
+
+Bio: I am Abeer, a lawyer and PhD researcher investigating on-chain governance processes to ensure procedural fairness in decentralized dispute resolution systems.
+
+----
+
+Links:
+
+- 
+  text: Academic Profile
+  url: https://www.law.hku.hk/students/sharma-abeer/
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: 
+
+----
+
+Interests: cooperatives,crypto / DAOs / web3,quantitative methods,software development,qualitative methods
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *DAOstar *- DAO standards working groups.,*Modpol *- A self-governance toolkit for communities in online worlds.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: uxuwhS0ObSqklTsX

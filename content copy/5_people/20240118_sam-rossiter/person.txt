@@ -1,0 +1,97 @@
+Title: Sam Rossiter
+
+----
+
+Bio: I run the digital infrastructure for the global Transition Towns movement which organises using sociocracy.
+
+----
+
+Links: 
+
+----
+
+Role: 
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: I'd like to prototype your tools in our Mattermost server.
+
+----
+
+Interests: civic engagement,online communities / web2,human computer interaction (HCI),cooperatives
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: Digital governance tools that can be accessed via API or SSO
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: I8xZ0FFWH2nTqdEu

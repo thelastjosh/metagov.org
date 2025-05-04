@@ -1,0 +1,75 @@
+Title: Interoperable Deliberative Tools
+
+----
+
+Subheading: To support new and existing tools for deliberation and governance, and to promote more interoperability between such tools.
+
+----
+
+Cover: - file://hA1nRsSAznUPMWts
+
+----
+
+Website: https://github.com/metagov/interop
+
+----
+
+Description: Scope: Digital tools that go beyond basic voting and commenting, and provide new capabilities to the governance ecosystem—which may only be one step of a larger deliberative governance process. The processes these tools enable may be used for online community governance, AI governance and alignment, cooperative governance, citizen town halls or assemblies, or other kinds of institutional policy-making or decision-making.
+
+----
+
+Participate: 
+
+----
+
+Meetings: 
+
+----
+
+Category: Interoperability
+
+----
+
+Date: 2024-11-25
+
+----
+
+Project-status: Active
+
+----
+
+Seeking-participants: false
+
+----
+
+Links:
+
+- 
+  text: Github
+  url: https://github.com/metagov/interop
+
+----
+
+Type: 
+
+----
+
+Research-directors: 
+
+----
+
+Members:
+
+- page://ualxlQXGzUvm8Kxk
+- page://yCR4HJACNHKcXBP4
+- page://YkokhjyzJdlAZtmG
+- page://8LoFmk8by0arfDAk
+- page://5XrlbRStJl2Df8xq
+
+----
+
+Contact: liz@metagov.org
+
+----
+
+Uuid: NGcqlpJqtdxx9KXy

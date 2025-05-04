@@ -1,0 +1,82 @@
+Title: Grant Innovation Lab
+
+----
+
+Subheading: Research, resources, and community to help advance granting and impact measurement
+
+----
+
+Cover: - file://3v8rT4bZvpkMbwSY
+
+----
+
+Website: 
+
+----
+
+Description: The Grant Innovation Lab is a team at Metagov focus on broadly improving granting and impact measurement. As part of that, this team focuses on a mix of conducting research, producing technical resources, and building community amongst grant operators.
+
+----
+
+Participate: 
+
+----
+
+Meetings: 
+
+----
+
+Category: Mapping Governance
+
+----
+
+Date: 2024-02-20
+
+----
+
+Project-status: Active
+
+----
+
+Seeking-participants: false
+
+----
+
+Links:
+
+- 
+  text: Report
+  url: >
+    https://docs.google.com/document/d/1CFD6ztSh2ggJSO-U3uEea92UVB1cRbvBlA1tfPxLKi8/edit
+- 
+  text: Takeaways
+  url: >
+    https://ipfs.decentralized-content.com/ipfs/bafybeigrqetictrmopvg3zyziwy5ytdstu2cxpullmxzqzxpqty24njvji
+- 
+  text: State of Web3 Grants 2024
+  url: >
+    https://drive.google.com/file/d/1XpIx5LjwiWMB5LIQemBEKWLqiW3wc-kt/view?usp=drive_link
+
+----
+
+Type: Data Standards, R&D, Fundraising
+
+----
+
+Research-directors: 
+
+----
+
+Members: - page://YhowSaGTLc5BupqG
+
+----
+
+Contact: 
+
+----
+
+Projectstatus: Complete
+
+----
+
+Uuid: Y5Z28bLr5CBcn5Bz

@@ -1,0 +1,61 @@
+Title: Philipp Zahn
+
+----
+
+Affiliation: 20squares / CyberCat Institute
+
+----
+
+Image: 
+
+----
+
+Bio: 
+
+----
+
+Links:
+
+- 
+  text: Personal Website
+  url: https://www.philipp-zahn.com/
+
+----
+
+Email: 
+
+----
+
+Interests: 
+
+----
+
+Contributions: 
+
+----
+
+Role: Research Director
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: false
+
+----
+
+Uuid: gEiWRCAsYovjfXBH

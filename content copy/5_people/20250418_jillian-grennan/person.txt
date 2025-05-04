@@ -1,0 +1,57 @@
+Title: Jillian Grennan
+
+----
+
+Affiliation: DAOstar, Research Fellow
+
+----
+
+Image: 
+
+----
+
+Bio: 
+
+----
+
+Links: 
+
+----
+
+Email: 
+
+----
+
+Interests: 
+
+----
+
+Contributions: 
+
+----
+
+Role: Team
+
+----
+
+Projects: projects/daostar
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: false
+
+----
+
+Uuid: RnpCK6wfS48M8IZC

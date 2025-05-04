@@ -1,0 +1,121 @@
+Title: Eugene Leventhal
+
+----
+
+Affiliation: Scroll
+
+----
+
+Image: 
+
+----
+
+Bio: I'm Eugene. I am a research director at Metagov.
+
+----
+
+Links:
+
+- 
+  text: 🐤 Twitter
+  url: https://twitter.com/bbeats1
+
+----
+
+Email: 
+
+----
+
+Interests: crypto / DAOs / web3, social theory, cooperatives, offline governance
+
+----
+
+Contributions: 
+
+----
+
+Role: Research Director, Participant, Contributor, Member, Team
+
+----
+
+Projects: projects/grant-lab
+
+----
+
+Offering-mentorship: true
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: true
+
+----
+
+Contributing: Facilitating, Theorizing, Listening, Experimenting, Funding
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: true
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: Cent Hosten,Wanjiru Ngure
+
+----
+
+Membership-program-member: 
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: YhowSaGTLc5BupqG

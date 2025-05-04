@@ -1,0 +1,101 @@
+Title: Valerie Spina
+
+----
+
+Bio: I'm currently working on Governance and Operations for the Helium Foundation. I'm a lifelong student of Political Science, sustainable and social enterprise, and technology. I completed by Undergraduate at Virginia Commonwealth University and am looking towards a Masters of Technology Policy.
+
+----
+
+Links:
+
+- 
+  text: LinkedIn
+  url: https://www.linkedin.com/in/valeriespina
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: 
+
+----
+
+Interests: cooperatives,crypto / DAOs / web3,economics,human computer interaction (HCI),qualitative methods,quantitative methods,social theory,software development,somatic practices
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: Applying Governance, public administration, strategic thinking, systems thinking, blockchain technology, process design/redesign, change management, scrum, agile, project and program management, coaching, leadership, public speaking
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: research execution, conducting independent research, publishing independent research, designing a webpage for my work, writing long form thought pieces
+
+----
+
+Mentoring: true
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,*Cartographies of Internet Metagovernance* - Metagov research and governance mapping project,*DAOstar *- DAO standards working groups.,*Telescope *- A Discord bot for ethical and responsive digital ethnography.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: Michael Suantak
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: giYCix8ZmnV5rPvJ

@@ -1,0 +1,101 @@
+Title: Nolo Sabes
+
+----
+
+Bio: I'm Nolo, I'm a community consultant specializing on design and architecture. I'm also eager to build diverse governance options.
+
+----
+
+Links:
+
+- 
+  text: Website
+  url: http://nolosabes.com
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Amplifying, Building, Facilitating
+
+----
+
+Interests: quantitative methods,online communities / web2,human computer interaction (HCI),civic engagement,cooperatives,social theory
+
+----
+
+Research-experience: online community / web2,software development,cooperatives
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Govbase* - An open database of projects and tools in online governance.,*Modpol *- A self-governance toolkit for communities in online worlds.,*Metagov Gateway* - A unified API gateway for digital governance services.,PolicyKit
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: 26fBzzFHh39dO8DO

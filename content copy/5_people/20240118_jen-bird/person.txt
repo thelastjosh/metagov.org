@@ -1,0 +1,97 @@
+Title: Jen Bird
+
+----
+
+Bio: I'm Jen Bird, Founder of Signalise Co-op and interested in using scalable digital governance to support our community and enable us to scale.
+
+----
+
+Links: 
+
+----
+
+Role: 
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: I like trying out tools and finding out which may suit our community, some of whom are Deaf so we keep accessibility in mind. I love documentation and can support this work too.
+
+----
+
+Interests: human computer interaction (HCI),cooperatives,crypto / DAOs / web3,civic engagement
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: DAOs, online governance, voting, accessible forums
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: 
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: 5eOREAb7EIGAlzKU

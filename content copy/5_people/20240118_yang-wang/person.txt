@@ -1,0 +1,97 @@
+Title: Yang Wang
+
+----
+
+Bio: I'm Yang. I'm an Associate Professor at University of Illinois at Urbana-Champaign. I'm interested in Web3, particularly DAOs and DIDs.
+
+----
+
+Links: 
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Experimenting, Building, Theorizing
+
+----
+
+Interests: cooperatives,crypto / DAOs / web3,qualitative methods
+
+----
+
+Research-experience: crypto / DAOs / web3,human computer interaction (HCI)
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *DAOstar One* - A roundtable working towards an ERC standard to DAOs.,*Metagov Gateway* - A unified API gateway for digital governance services.,*Modpol *- A self-governance toolkit for communities in online worlds.,*Metaeth* - A Discord bot for ethical and responsive digital ethnography.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:03
+
+----
+
+Uuid: yyWqv8Sf4w8P2wXE

@@ -1,0 +1,97 @@
+Title: Anuj
+
+----
+
+Bio: I am product manager @ protocol labs. I work at the intersection of the network companies (startups building w/ PL) & help them optimize for success. I am interested in building impactful startup communities that can learn from each other.
+
+----
+
+Links: 
+
+----
+
+Role: 
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: "I work as a product-in-residence capacity to help early builder community define & build an early ""minimum product"" & find a ""product market fit"""
+
+----
+
+Interests: cooperatives,online communities / web2,software development,qualitative methods,civic engagement
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: Early product development. 0 to 1 products, product market fit, design, MVP, business models, strategy, business operations, cost optimization.
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,*Cartographies of Internet Metagovernance* - Metagov research and governance mapping project
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:18
+
+----
+
+Uuid: aycPTNPa8M0Du1Q4

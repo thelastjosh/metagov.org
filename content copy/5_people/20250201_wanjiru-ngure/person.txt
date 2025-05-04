@@ -1,0 +1,65 @@
+Title: Wanjiru Ngure
+
+----
+
+Affiliation: 
+
+----
+
+Image: 
+
+----
+
+Bio:
+
+Wanjiru Ngure, known by the alias [M], manifests as a distinctive artistic voice from Nairobi, Kenya, skillfully infusing depth, darkness, and beauty into their compositions, mixes, and sonic art while consistently exploring uncharted musical territories. They stand out for embracing experimentation techniques and creative coding synthesizers, earning acclaim as a progressive experimental music artist and creative technologist. Beyond their musical prowess, [M] actively contributes to academia, sharing insights as a keynote speaker at the Ubiquitous Music Conference (NIR) and serving as a guest tutor at the Santuri Electronic Music Academy. Additionally, they delve into research through 'CYCLES of PEACE,' an investigation into historical cycles of peace and conflict. This project aims to bring awareness to the patterns with the hope of developing a framework to exit the cycles into a continual state of blissful existence.
+
+Engaged in the East African electronic music scene, [M] actively addresses observed issues, such as the low access to developmental opportunities for the marginalized, by creating new avenues to increase opportunities. One such initiative is BYTE: a platform that shares and nurtures artists in the world of creative coding. Additionally, they contribute to the community by seeking technological solutions to assist, like Shuffle—a feature of Delegated Curations. The development of this tool stems from prior research, gaining insights from various curators, examining a more natural/free-flow way to curate community-based activities. It taps into themes of marginalization, decision-making, and inclusivity, serving as a catalyst for awareness and conversations on these topics. [M] introduces the tool to various curators in the scene, starting with Santuri East Africa, who are rolling it out to their community for use in the coming year.
+
+----
+
+Links:
+
+- 
+  text: Personal Website
+  url: https://monrhea.rhealistic.info/
+
+----
+
+Email: 
+
+----
+
+Interests: 
+
+----
+
+Contributions: 
+
+----
+
+Role: 
+
+----
+
+Projects: projects/groundwork-fellowship
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: false
+
+----
+
+Uuid: bW4oOHfewkEYRlQZ

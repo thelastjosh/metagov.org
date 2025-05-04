@@ -1,0 +1,49 @@
+Title: Power Ranker
+
+----
+
+Subheading: Elicitating, Reflecting, Deciding
+
+----
+
+Cover: - file://HQ70fHzI2YdUk6JG
+
+----
+
+Website: https://github.com/zaratanDotWorld/powerRanker
+
+----
+
+Inputs: 
+
+----
+
+Outputs: 
+
+----
+
+Description: Participants are asked to choose which of two items they prefer. Their choices create a graph of relationships among the items, which is then used as the basis for a “centrality ranking” of the items, interpreted as a percentage allocation of a budget. 		Participants may specify many counter-pairs at once, as well as a measure of preference intensity.
+
+----
+
+Stage: Elicitation, Decision, Reflection
+
+----
+
+Function: 
+
+----
+
+License: MIT, AGPL
+
+----
+
+Infrastructure: 
+
+----
+
+Links: 
+
+----
+
+Uuid: DL6MTpPxKBZd6Ec8

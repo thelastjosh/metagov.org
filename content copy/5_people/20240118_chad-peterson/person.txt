@@ -1,0 +1,101 @@
+Title: Chad Peterson
+
+----
+
+Bio: I'm Chad, I'm a senior at Amherst College majoring in Economics and Mathematics.
+
+----
+
+Links:
+
+- 
+  text: twitter
+  url: https://twitter.com/chad_peterson7
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Exploring, Applying, Quantitatively
+
+----
+
+Interests: economics,quantitative methods,crypto / DAOs / web3,social theory
+
+----
+
+Research-experience: economics,quantitative methods,crypto / DAOs / web3
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: DAOstar One
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: miOUBez1x28djhbD

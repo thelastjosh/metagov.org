@@ -1,0 +1,101 @@
+Title: nick kaufmann
+
+----
+
+Bio: I'm community manager for Spectra Cities a virtual living laboratory for urban and civic futures research and cocreation
+
+----
+
+Links:
+
+- 
+  text: Website
+  url: http://www.spectracities.com
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: 
+
+----
+
+Interests: civic engagement,cooperatives,crypto / DAOs / web3,economics,human computer interaction (HCI),social theory,software development
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: quantitative research, self-governance / transitioning to less hierarchical community management
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Cartographies of Internet Metagovernance* - Metagov research and governance mapping project,*Telescope *- A Discord bot for ethical and responsive digital ethnography.,*Modpol *- A self-governance toolkit for communities in online worlds.,*DAOstar *- DAO standards working groups.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: W4oKos2BCEGgJc3i

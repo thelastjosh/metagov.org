@@ -1,0 +1,97 @@
+Title: Eli Zeger
+
+----
+
+Bio: I’m a writer, editor, and musician based in Jersey City, NJ. I graduated from USC in 2020 with a BA in Narrative Studies.
+
+----
+
+Links: 
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: I work with Ampled and Exit to Community Collective
+
+----
+
+Contributing: 
+
+----
+
+Interests: policy / law,social theory,software development,somatic practices
+
+----
+
+Research-experience: crypto / DAOs / web3,cooperatives,policy / law
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *DAOstar *- DAO standards working groups.,*Modpol *- A self-governance toolkit for communities in online worlds.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 2/14/2023 9:44pm
+
+----
+
+Uuid: MgnehtmzGdgQNBua

@@ -1,0 +1,121 @@
+Title: Marcel Minutolo
+
+----
+
+Affiliation: Metagov Alumni
+
+----
+
+Image: 
+
+----
+
+Bio: I am Marcel, a Professor of Strategic Management at Robert Morris University. I conduct research on blockchain, cryptocurrency, social responsibility, and environmental, social, and governance issues.
+
+----
+
+Links:
+
+- 
+  text: Google Scholar
+  url: 'https://scholar.google.com/citations?user=scSVCioAAAAJ&hl=en'
+
+----
+
+Email: 
+
+----
+
+Interests: cooperatives, crypto / DAOs / web3, human computer interaction (HCI), qualitative methods, social theory, somatic practices
+
+----
+
+Contributions: 
+
+----
+
+Role: Participant, Contributor, Alumni
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: true
+
+----
+
+Contributing: Exploring, Applying, Quantitatively
+
+----
+
+Research-experience: crypto / DAOs / web3,economics,social theory,qualitative methods,quantitative methods
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Metaeth* - A Discord bot for ethical and responsive digital ethnography.,*DAOstar One* - A roundtable working towards an ERC standard to DAOs.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: wP3djkTTKskqWo9J

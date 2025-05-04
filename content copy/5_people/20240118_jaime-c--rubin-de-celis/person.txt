@@ -1,0 +1,101 @@
+Title: Jaime C. Rubin-de-Celis
+
+----
+
+Bio: I'm Jaime (James),  Faculty Member at UTFSM.
+
+----
+
+Links:
+
+- 
+  text: Research Profile
+  url: https://www.industrias.usm.cl/quienes-somos/academicos-y-docentes/
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Building, Exploring, Quantitatively
+
+----
+
+Interests: software development,qualitative methods,economics,online communities / web2
+
+----
+
+Research-experience: software development,economics,quantitative methods
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Metagov Gateway* - A unified API gateway for digital governance services.,*Govbase* - An open database of projects and tools in online governance.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: Tr2hqcIqfNNztFBw

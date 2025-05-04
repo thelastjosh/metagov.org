@@ -1,0 +1,101 @@
+Title: Stephen Vitka
+
+----
+
+Bio: I am writing comprehensive fixes for the Internet.
+
+----
+
+Links:
+
+- 
+  text: Whitepapers
+  url: https://www.dropbox.com/s/n31rho5e6cd3pu9/Internet%20Harms%20and%20Paper%20Summaries.pdf?dl=0
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: Dazzle.Dao
+
+----
+
+Contributing: Theorizing, Describing, Explaining
+
+----
+
+Interests: human computer interaction (HCI),social theory,policy / law
+
+----
+
+Research-experience: cooperatives,human computer interaction (HCI),social theory,economics,quantitative methods
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,*Metagov Gateway* - A unified API gateway for digital governance services.,*DAOstar One* - A roundtable working towards an ERC standard to DAOs.,*Govbase* - An open database of projects and tools in online governance.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: 1AcUCiQtUDbD0r9B

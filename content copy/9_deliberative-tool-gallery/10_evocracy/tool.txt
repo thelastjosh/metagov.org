@@ -1,0 +1,45 @@
+Title: Evocracy
+
+----
+
+Subheading: Deliberating
+
+----
+
+Cover: - file://NhmA9Z0b6D0eV4Ic
+
+----
+
+Website: 
+
+----
+
+Inputs: 
+
+----
+
+Outputs: 
+
+----
+
+Description: Participants collaboratively develop solutions by submitting topic proposals and contributing ideas. Users are grouped to refine and integrate their proposals into a shared document through live editing, discussion tools, and peer evaluation. Selected representatives advance these solutions to higher levels of deliberation, refining them further until a final consensus is reached.
+
+----
+
+Stage: Deliberation
+
+----
+
+Function: 
+
+----
+
+License: 
+
+----
+
+Infrastructure: 
+
+----
+
+Uuid: AbmknubwqAC7E17j

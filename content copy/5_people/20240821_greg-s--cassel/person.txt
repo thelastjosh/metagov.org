@@ -1,0 +1,122 @@
+Title: Greg S. Cassel
+
+----
+
+Affiliation: Commons Engine:  https://commonsengine.org/
+
+----
+
+Image: 
+
+----
+
+Bio: I'm a philosophy of language, organizational and governance theorist, communications systems designer and community manager, focused on open source "inclusive organizing" patterns and recipes.  Most of my open source works are directly or indirectly linked in my visual directory.
+
+----
+
+Links:
+
+- 
+  text: Visual Directory
+  url: >
+    https://docs.google.com/drawings/d/1-WFMRYdueSBba1atcohX0G585zj-gBNlBvZQBqnEmEs/edit?usp=sharing
+
+----
+
+Email: 
+
+----
+
+Interests: cooperatives, crypto / DAOs / web3, human computer interaction (HCI), policy / law, quantitative methods, online communities / web2
+
+----
+
+Contributions: 
+
+----
+
+Role: Participant, Contributor
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: true
+
+----
+
+Contributing: Applying, Building, Describing
+
+----
+
+Research-experience: offline governance,social theory,crypto / DAOs / web3
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Metagov Gateway* - A unified API gateway for digital governance services.,*Modpol *- A self-governance toolkit for communities in online worlds.,*Govbase* - An open database of projects and tools in online governance.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: r9psCw91JonaxtsY

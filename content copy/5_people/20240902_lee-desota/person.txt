@@ -1,0 +1,69 @@
+Title: Lee DeSota
+
+----
+
+Affiliation: Metagov, research networker
+
+----
+
+Image: 
+
+----
+
+Bio:
+
+I'm Ellie/Lee - I'm working across various open science organizations. I focus mainly on how we get the right people in the room to build research infrastructure.
+
+I do a lot of formal events in Open Science. And am happy to connect researchers who are building tools or have aligned research into those events.
+
+I also generally like communicating things. Social media not so much - but essays or short blogs are fun.
+
+I want more people building infrastructure for a better scientific ecosystem. Generally - if people have tools they want to plug in, that is a win for me!
+
+----
+
+Links:
+
+- 
+  text: Medium Blog
+  url: https://medium.com/@desotaelianna
+
+----
+
+Email: 
+
+----
+
+Interests: online community, open source, economics, cooperatives, human computer interaction (HCI), commons economics
+
+----
+
+Contributions: connect researchers, communicating, essays, short blogs, fun
+
+----
+
+Role: Participant, Team, Contributor
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: false
+
+----
+
+Uuid: yCR4HJACNHKcXBP4

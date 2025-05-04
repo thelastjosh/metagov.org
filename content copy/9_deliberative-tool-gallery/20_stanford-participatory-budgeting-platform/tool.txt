@@ -1,0 +1,49 @@
+Title: Stanford Participatory Budgeting Platform
+
+----
+
+Subheading: Deciding
+
+----
+
+Cover: - file://5rjTwT83Y8ZykfWc
+
+----
+
+Website: https://pbstanford.org/
+
+----
+
+Inputs: 
+
+----
+
+Outputs: 
+
+----
+
+Description: Participants propose budget allocations and vote on community projects. The Method of Equal Shares guarantees fair distribution of resources across diverse groups. Users can submit votes, view results, and explore data through visual reports.
+
+----
+
+Stage: Decision
+
+----
+
+Function: 
+
+----
+
+License: 
+
+----
+
+Infrastructure: 
+
+----
+
+Links: 
+
+----
+
+Uuid: w1LtwMSO1veF40lV

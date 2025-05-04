@@ -1,0 +1,95 @@
+Title: Groundwork Fellowship
+
+----
+
+Subheading: an internet infrastructure design and marginalization fellowship
+
+----
+
+Cover: - file://XiepPdH1m2qvHcF2
+
+----
+
+Website: 
+
+----
+
+Description:
+
+The Groundwork Fellowship was a year-long, three-month intensive, online fellowship hosted by Metagov, that invited 4 community-based research fellows conducting research in, with, and for communities under-represented in internet governance discourses. During the fellowship, each fellow produced an artifact situated in the context their communities and their governance process, needs, and practices.
+
+See the artifacts and presentations as part of the (link: https://metagov.org/projects/groundwork-fellowship/documentation text: fellowship documentation).
+
+----
+
+Participate: 
+
+----
+
+Meetings: Slack: #groundwork-fellowship
+
+----
+
+Category: Governance Funding, Convening & Experiences
+
+----
+
+Date: 2024-02-20
+
+----
+
+Project-status: Complete
+
+----
+
+Seeking-participants: false
+
+----
+
+Links:
+
+- 
+  text: Open Call
+  url: >
+    http://metagov.org/projects/groundwork-fellowship/open-call
+- 
+  text: Newsletter Announcement
+  url: >
+    https://metagov.substack.com/i/117789858/groundwork-fellowship
+- 
+  text: Documentation
+  url: >
+    https://metagov.org/projects/groundwork-fellowship/documentation
+
+----
+
+Type: R&D, Community of Practice
+
+----
+
+Research-directors:
+
+- page://fZBv4pNTeSI6OOhE
+- page://JhteperhZJLSvhzz
+- page://neuVC2NprsEZ2c8u
+
+----
+
+Members:
+
+- page://bW4oOHfewkEYRlQZ
+- page://i64TCrCmPWCAlm6f
+- page://1lez5kaSf6qZWh4p
+- page://HTdKQfBVuOFdxbOQ
+
+----
+
+Contact: 
+
+----
+
+Projectstatus: Complete
+
+----
+
+Uuid: Ch0mCb5SujS4HcDu

@@ -1,0 +1,97 @@
+Title: Leo Sammallahti
+
+----
+
+Bio: I am a platform cooperative enthusiast who wants to help create small and minimalistic online communities that are operated as platform cooperatives. Have been involved in starting few such ventures which use Loomio and Open Collective, would love to find out more tools and believe MetaGov is an ideal place to find them.
+
+----
+
+Links: 
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Amplifying, Building, Theorizing
+
+----
+
+Interests: human computer interaction (HCI),cooperatives,civic engagement
+
+----
+
+Research-experience: cooperatives
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Govbase* - An open database of projects and tools in online governance.,*Modpol *- A self-governance toolkit for communities in online worlds.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:03
+
+----
+
+Uuid: 6EpZHPjFS3s3cYW0

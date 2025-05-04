@@ -1,0 +1,21 @@
+Title: Intern
+
+----
+
+Subheading: 
+
+----
+
+Cover: 
+
+----
+
+Text: [{"content":{"text":"<p><strong>Location:</strong> Remote<br><strong>Status:</strong> Part-time</p>"},"id":"e85eecb3-3bc5-471b-9f3a-4113cc00231f","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"<strong>Role description</strong>"},"id":"be93ffb0-d674-47cb-9e2a-67c7a4622a19","isHidden":false,"type":"heading"},{"content":{"text":"<p><em>Imagine an Internet where democracy is at least as available as autocracy.</em> Metagov is works toward a governance layer for the internet that is empowering, creative, interconnected, and accountable. This governance layer is an ecosystem of interoperable community-building tools that work across a range of digital platforms, from social networks to online games to blockchains.</p><p>Metagov offers paid and unpaid internships on a rolling basis to qualified students and recent graduates. Internships are typically structured as research projects with a paper, blog post, and/or code repo as the final deliverable. Past internship projects have included constructing a library of computational legal contracts, creating a modular political system in Minecraft, modeling YC’s SAFE agreements as smart contracts, and creating a tradeable token based on Twitter likes.</p>"},"id":"0722eeee-92d8-47de-92ed-19c5a2a59ff8","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"<strong>Qualifications</strong>"},"id":"8fc219c4-ecb3-4ceb-91de-baaecdaa2946","isHidden":false,"type":"heading"},{"content":{"text":"<p>You may be a fit for this role if you have:</p>"},"id":"c2413d12-99fa-4a92-9de4-e474bdf7decf","isHidden":false,"type":"text"},{"content":{"text":"- A background in computer science and/or a social science such as economics or political science.\n- Demonstrated interest in online community, governance, political theory, economics, or law.\n- The ability to work independently and reach key milestones with minimal supervision.\n- A mission-driven focus on having a significant impact on the world through technological advancement, complemented by a stubborn optimism for the future.\n<br>"},"id":"7a540ab6-6e7d-4b54-8341-07fbbb2ff8e8","isHidden":false,"type":"markdown"},{"content":{"level":"h3","text":"<strong>How to apply for this position</strong>"},"id":"473c0263-65d2-484c-bbf3-750c804fe0d6","isHidden":false,"type":"heading"},{"content":{"text":"<p>Submit a CV and a short message explaining your interest to <u><a href=\"mailto:hello@metagov.org\">hello@metagov.org</a></u>. You may also provide a link to a web page, git repo, or other portfolio of past work.</p>"},"id":"9c536c06-4dd7-40fb-8528-484d6e246cc2","isHidden":false,"type":"text"}]
+
+----
+
+Width: false
+
+----
+
+Uuid: b6Z7VFzAv5Zmxkqa

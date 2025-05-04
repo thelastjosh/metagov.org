@@ -1,0 +1,45 @@
+Title: Talk to the City
+
+----
+
+Subheading: Framing, Elicitating
+
+----
+
+Cover: - file://buGAPrcOnO0AOZ9a
+
+----
+
+Website: https://talktothecity.org/
+
+----
+
+Inputs: 
+
+----
+
+Outputs: 
+
+----
+
+Description: Participant speech as audio or text in any format or unstructured is organized into discussion topics, specific claims, and quotes from unstructured text and media.
+
+----
+
+Stage: Framing, Elicitation
+
+----
+
+Function: 
+
+----
+
+License: GPL
+
+----
+
+Infrastructure: 
+
+----
+
+Uuid: xIDAOimWU5KcHpil

@@ -1,0 +1,97 @@
+Title: Christopher Owen
+
+----
+
+Bio: I'm Chris, a data and digital project manager at Social Finance, a nonprofit that explores how innovative applications of finance, data and digital tools can be better used to support vulnerable communities and more efficiently allocate capital.
+
+----
+
+Links: 
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: Social Finance
+
+----
+
+Contributing: 
+
+----
+
+Interests: cooperatives,civic engagement,policy / law,economics,human computer interaction (HCI)
+
+----
+
+Research-experience: civic engagement,offline governance,quantitative methods
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,*Govbase* - A lab building research data sets in online governance.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 2/14/2023 9:43pm
+
+----
+
+Uuid: IFIbcRij5HUIqgxc

@@ -1,0 +1,97 @@
+Title: Joseph
+
+----
+
+Bio: I'm Joseph, law academic from University of Manchester, interested in crypto, Web3, and DAOs.
+
+----
+
+Links: 
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Conversing, Synthesizing, Amplifying
+
+----
+
+Interests: crypto / DAOs / web3,policy / law,offline governance
+
+----
+
+Research-experience: crypto / DAOs / web3,policy / law,civic engagement
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: DAOstar One,Metagov Gateway,Govbase
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:03
+
+----
+
+Uuid: J9NsD8nTNmGwxh0E

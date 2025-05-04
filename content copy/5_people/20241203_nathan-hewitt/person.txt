@@ -1,0 +1,117 @@
+Title: Nathan Hewitt
+
+----
+
+Affiliation: Financial Operations Lead
+
+----
+
+Image: 
+
+----
+
+Bio: On the Metagov team.
+
+----
+
+Links: 
+
+----
+
+Email: 
+
+----
+
+Interests: online communities / web2, policy / law, crypto / DAOs / web3, cooperatives
+
+----
+
+Contributions: 
+
+----
+
+Role: Team
+
+----
+
+Projects: projects/oss-transitions
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: false
+
+----
+
+Date-joined: 
+
+----
+
+Public: true
+
+----
+
+Contributing: Listening, Applying, Synthesizing
+
+----
+
+Research-experience: crypto / DAOs / web3,software development
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Metagov Gateway,Govbase,Modpol
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Last-modified: 4/11/2023 01:03
+
+----
+
+Uuid: uC8pe9YH1WlHmZy4

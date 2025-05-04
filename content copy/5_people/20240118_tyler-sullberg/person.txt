@@ -1,0 +1,101 @@
+Title: Tyler Sullberg
+
+----
+
+Bio: I'm Tyler, Head of Product and Protocol at 4K protocol - a decentralized protocol for connecting the physical and on-chain worlds. I write about DAOs, governance, and creating a purpose-driven communities.
+
+----
+
+Links:
+
+- 
+  text: Blog
+  url: http://tsully.blog
+
+----
+
+Role: Contributor,Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Applying, Exploring, Building
+
+----
+
+Interests: crypto / DAOs / web3,cooperatives,social theory,offline governance,online community / web2,economics,software development,human computer interaction (HCI),civic engagement
+
+----
+
+Research-experience: crypto / DAOs / web3,online community / web2,software development,human computer interaction (HCI),economics,cooperatives
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: Interdisciplinary thinking (I have a background in economics, software engineering, design, crypto), career development, life coaching
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: I am in the early stages of building my own project re: governance and community development. I would love a mentor who is experienced in translating theory to practice and/or has been a close observer/participant in the crypto ecosystem.
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Metagov Gateway* - A unified API gateway for digital governance services.,*Modpol *- A self-governance toolkit for communities in online worlds.,*Govbase* - An open database of projects and tools in online governance.,*DAOstar One* - A roundtable working towards an ERC standard to DAOs.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: ZWufAfikPlf5Ys8X

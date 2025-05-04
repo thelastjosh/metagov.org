@@ -1,0 +1,101 @@
+Title: Greg Niemeyer
+
+----
+
+Bio: I am Greg Niemeyer, a data artist and media innovation professor at UC Berkeley.
+
+----
+
+Links:
+
+- 
+  text: Portfolio
+  url: http://gregniemeyer.com
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: Berkeley Center for New Media
+
+----
+
+Contributing: Describing, Synthesizing, Exploring
+
+----
+
+Interests: crypto / DAOs / web3,civic engagement,quantitative methods,qualitative methods
+
+----
+
+Research-experience: online community / web2,civic engagement,quantitative methods,qualitative methods,human computer interaction (HCI)
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: Modpol,Metaeth,Govbase
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: tGzSezzMqIEJ67ZO

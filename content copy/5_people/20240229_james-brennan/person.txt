@@ -1,0 +1,121 @@
+Title: James Brennan
+
+----
+
+Affiliation: Metagov Alumni
+
+----
+
+Image: 
+
+----
+
+Bio: I'm James, I'm an incoming masters student at CU Boulder studying media and digital democracy.
+
+----
+
+Links:
+
+- 
+  text: Twitter
+  url: https://mobile.twitter.com/jt_bren
+
+----
+
+Email: 
+
+----
+
+Interests: crypto / DAOs / web3, civic engagement, cooperatives, policy / law, social theory, economics
+
+----
+
+Contributions: 
+
+----
+
+Role: Participant, Alumni, Contributor
+
+----
+
+Projects: 
+
+----
+
+Offering-mentorship: false
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Date-joined: 
+
+----
+
+Public: true
+
+----
+
+Contributing: Synthesizing, Theorizing, Qualitatively
+
+----
+
+Research-experience: social theory,quantitative methods,software development,offline governance
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: DAOstar One,Metaeth
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: EhD5vyKIYGYSy4Cj

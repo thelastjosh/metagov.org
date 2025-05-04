@@ -1,0 +1,121 @@
+Title: Joseph Gubbels
+
+----
+
+Affiliation: Political Theory Fellow
+
+----
+
+Image: 
+
+----
+
+Bio: Joseph Gubbels is a PhD student in political theory at McGill, working on new democratic theory and practice.
+
+----
+
+Links:
+
+- 
+  text: Website
+  url: https://josephgubbels.com/
+
+----
+
+Email: josephggubbels@gmail.com
+
+----
+
+Interests: political theory, democratic theory, participatory and deliberative methods, e-democracy, republicanism, public administration, public policy, cognitive science
+
+----
+
+Contributions: 
+
+----
+
+Role: Team
+
+----
+
+Projects: projects/interop
+
+----
+
+Offering-mentorship: true
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Date-joined: 
+
+----
+
+Public: true
+
+----
+
+Contributing: 
+
+----
+
+Research-experience: online community / web2,offline governance,software development,human computer interaction (HCI)
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Modpol *- A self-governance toolkit for communities in online worlds.,*DAOstar *- DAO standards working groups.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: ualxlQXGzUvm8Kxk

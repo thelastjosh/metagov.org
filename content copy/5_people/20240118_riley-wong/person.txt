@@ -1,0 +1,101 @@
+Title: Riley Wong
+
+----
+
+Bio: Hi! riley wong (they/them), interested in: coops, governance, solidarity economy, collective ownership, public goods and the commons, coalition building, p2p models, distributed networks, systems thinking, and interdependence! secondary interests include privacy, zero knowledge proofs, and cryptography.
+
+----
+
+Links:
+
+- 
+  text: 🐤 Twitter
+  url: http://rileynwong.com twitter.com/rileynwong
+
+----
+
+Role: Contributor,Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Synthesizing, Describing, Qualitatively
+
+----
+
+Interests: cooperatives,crypto / DAOs / web3,economics,social theory,offline governance
+
+----
+
+Research-experience: crypto / DAOs / web3,online community / web2,cooperatives
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: DAOstar One,Metagov Gateway
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: 6cadkJUqtUfOxiuh

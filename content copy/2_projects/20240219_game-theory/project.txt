@@ -1,0 +1,77 @@
+Title: Composing Games into Complex Institutions
+
+----
+
+Subheading: a research paper
+
+----
+
+Cover: - file://jtzti5MIsWwZ2gT6
+
+----
+
+Website: 
+
+----
+
+Description: Game theory is used by all behavioral sciences, but its development has long centered around tools for relatively simple games and toy systems, such as the economic interpretation of equilibrium outcomes. Our contribution, compositional game theory, permits another approach of equally general appeal: the high-level design of large games for expressing complex architectures and representing real-world institutions faithfully.
+
+----
+
+Participate: 
+
+----
+
+Meetings: 
+
+----
+
+Category: 
+
+----
+
+Date: 2024-02-19
+
+----
+
+Project-status: Complete
+
+----
+
+Seeking-participants: false
+
+----
+
+Links:
+
+- 
+  text: Article
+  url: https://arxiv.org/abs/2108.05318
+
+----
+
+Type: Publication
+
+----
+
+Research-directors: 
+
+----
+
+Members:
+
+- page://OjesIDtx7i88GyeQ
+- page://JhteperhZJLSvhzz
+- page://gEiWRCAsYovjfXBH
+
+----
+
+Contact: 
+
+----
+
+Projectstatus: Complete
+
+----
+
+Uuid: c0Ne75ikSrkDDDxg

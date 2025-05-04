@@ -1,0 +1,97 @@
+Title: Kejiang Qian
+
+----
+
+Bio: I am Kejiang, I am a PhD student at King's College London studying multiagent simulation, particularly for DAO governance simulation.
+
+----
+
+Links: 
+
+----
+
+Role: 
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: I like undertaking the governance research for Web 3.0 Community. I am very qualitative and always excited by: 1. developing and implementing governance toolkit based on existing social science theories. 2. collaborating with another researcher to simulat
+
+----
+
+Interests: cooperatives,crypto / DAOs / web3,economics,somatic practices,social theory
+
+----
+
+Research-experience: 
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: 
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: Designing the DAO governance mechanism, including on-chain governance, off-chain governance, tokenomics, etc. and researching governance simulation.
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: I am looking for someone who has knowledge about computational social science and combining social theory with governance research for online community and project.
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *DAOstar *- DAO standards working groups.,*Modpol *- A self-governance toolkit for communities in online worlds.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 4/11/2023 01:20
+
+----
+
+Uuid: 3avxgHNNy2blcDm0

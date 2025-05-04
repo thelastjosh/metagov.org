@@ -1,0 +1,101 @@
+Title: Edgar Arellano
+
+----
+
+Bio: I'm Edgar, I'm from Mexico, a country where governance is not very fair. Currently I work in a validator that secures blockchain networks through governance processes.
+
+----
+
+Links:
+
+- 
+  text: Linkedin
+  url: https://www.linkedin.com/in/edgar-francisco-arellano-reyes/
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: Chain of Secrets
+
+----
+
+Contributing: Synthesizing, Conversing, Facilitating
+
+----
+
+Interests: cooperatives,qualitative methods,human computer interaction (HCI),quantitative methods
+
+----
+
+Research-experience: crypto / DAOs / web3,online community / web2
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Govbase* - An open database of projects and tools in online governance.,*Modpol *- A self-governance toolkit for communities in online worlds.,Validator Commons
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: FbW8oEZD4AnvB5qa

@@ -1,0 +1,77 @@
+Title: Governance Archaeology
+
+----
+
+Subheading: an exploriation of historical governance practices
+
+----
+
+Cover: - file://w40078kQetxFhts8
+
+----
+
+Website: https://direct.mit.edu/daed/article/152/1/245/115000/Governance-Archaeology-Research-as-Ancestry
+
+----
+
+Description: Exploring and classifying historical governance practices for the purposes of expanding the palette for innovation.
+
+----
+
+Participate: Data Research Assistants: We are looking for research assistants to help fill out this data set!
+
+----
+
+Meetings: 
+
+----
+
+Category: Mapping Governance
+
+----
+
+Date: 2024-02-20
+
+----
+
+Project-status: Complete
+
+----
+
+Seeking-participants: false
+
+----
+
+Links:
+
+- 
+  text: Research Article
+  url: >
+    https://direct.mit.edu/daed/article/152/1/245/115000/Governance-Archaeology-Research-as-Ancestry
+
+----
+
+Type: Data Set, Publication
+
+----
+
+Research-directors: 
+
+----
+
+Members:
+
+- page://cgUiZJfP1tLzx54Z
+- page://neuVC2NprsEZ2c8u
+
+----
+
+Contact: 
+
+----
+
+Projectstatus: 
+
+----
+
+Uuid: gZNBixXsJYtA4H2N

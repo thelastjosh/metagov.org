@@ -1,0 +1,101 @@
+Title: Shawn Pang
+
+----
+
+Bio: I'm Shawn, co-founder & CEO @ Matterverse, a cloud-rendered metaverse editor backed by YCombinator China & LD Capital. I'm also an active contributor to a few DAOs and very interested in learning/contributing to DAO governance standards. I would love get involved and help you with research and hope to translate the DAO constitution template into Chinese to help make this more accessible.
+
+----
+
+Links:
+
+- 
+  text: Twitter
+  url: https://twitter.com/0xshawnpang
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Theorizing, Exploring, Amplifying
+
+----
+
+Interests: cooperatives,crypto / DAOs / web3,social theory,qualitative methods,human computer interaction (HCI)
+
+----
+
+Research-experience: online community / web2,crypto / DAOs / web3
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *DAOstar One* - A roundtable working towards an ERC standard to DAOs.,*Modpol *- A self-governance toolkit for communities in online worlds.,*Govbase* - An open database of projects and tools in online governance.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: tm0yXObjdCY5B43P

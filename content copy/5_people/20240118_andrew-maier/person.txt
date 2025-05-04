@@ -1,0 +1,101 @@
+Title: Andrew Maier
+
+----
+
+Bio: I'm Andrew, an independent design researcher and public-interest technologist. I'm interested in shaping the future of civic participation. I used to run a quarterly journal covering this at Civic Quarterly
+
+----
+
+Links:
+
+- 
+  text: Journal
+  url: http://civicquarterly.com.
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: 
+
+----
+
+Contributing: Describing, Peer Reviewing, Listening
+
+----
+
+Interests: economics,policy / law,quantitative methods
+
+----
+
+Research-experience: civic engagement,human computer interaction (HCI),policy / law,qualitative methods,online community / web2
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: true
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Govbase* - An open database of projects and tools in online governance.,*Metaeth* - A Discord bot for ethical and responsive digital ethnography.,*Modpol *- A self-governance toolkit for communities in online worlds.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: Iq8jrtcV6Fic4S1F

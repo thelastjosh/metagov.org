@@ -1,0 +1,103 @@
+Title: Yiqi Chen
+
+----
+
+Bio: I'm Yiki, I'm a graduate student at USC studying communication and data science, currently doing research on DAO and network society.
+
+----
+
+Links:
+
+- 
+  text: Twitter
+  url: https://twitter.com/huangxiaocong2  - 
+  text: Mirror
+  url: https://mirror.xyz/yikiiiii.eth
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: Tsinghua University Student Blockchain Association
+
+----
+
+Contributing: Applying, Exploring, Qualitatively
+
+----
+
+Interests: cooperatives,social theory,qualitative methods,somatic practices,software development
+
+----
+
+Research-experience: crypto / DAOs / web3,online community / web2,policy / law,social theory,qualitative methods
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: 
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *Metagov Gateway* - A unified API gateway for digital governance services.,*Modpol *- A self-governance toolkit for communities in online worlds.,*Govbase* - An open database of projects and tools in online governance.,*Metaeth* - A Discord bot for ethical and responsive digital ethnography.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: dHe46ba4okDUiNgv

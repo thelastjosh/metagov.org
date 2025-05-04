@@ -1,0 +1,101 @@
+Title: MinChi Park
+
+----
+
+Bio: I'm MinChi and I come from a trad VC background. I fully transitioned to web3 ~8months ago after joining and my first full-time job in crypto was BitDAO and it's product lab called Windranger Labs.
+
+----
+
+Links:
+
+- 
+  text: 🌐 CV
+  url: https://read.cv/minchi
+
+----
+
+Role: Participant
+
+----
+
+Affiliation: frens.company
+
+----
+
+Contributing: 
+
+----
+
+Interests: cooperatives,quantitative methods,social theory
+
+----
+
+Research-experience: crypto / DAOs / web3,online community / web2
+
+----
+
+Other-research-interests: 
+
+----
+
+Seeking-collaboration: true
+
+----
+
+Offering-mentorship: 
+
+----
+
+Mentorship-offers: 
+
+----
+
+Seeking-mentorship: true
+
+----
+
+Mentorship-requests: 
+
+----
+
+Mentoring: 
+
+----
+
+Mentored: 
+
+----
+
+Mentorship-topics: 
+
+----
+
+Metagov-project-interests: *DAOstar *- DAO standards working groups.,*Telescope*- A Discord bot for ethical and responsive digital ethnography.,*Govbase* - A lab building research data sets in online governance.
+
+----
+
+Is-pi-of: 
+
+----
+
+Is-contributor-to: 
+
+----
+
+Is-mentor-of: 
+
+----
+
+Membership-program-member: 
+
+----
+
+Public: true
+
+----
+
+Last-modified: 1/12/2024 14:26
+
+----
+
+Uuid: aAduuXmnf0yq3rxN
